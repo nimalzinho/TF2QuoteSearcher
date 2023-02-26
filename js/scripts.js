@@ -12,6 +12,8 @@ $(document).ready(function(){
     const selCharacter = $('#selCharacter');
     const divOutput = $('#divOutput');
 
+    const rdbEnabled = $('#rdbEnabled');
+
     let dataTable = $('.datatable');
 
     selCharacter.change(() => {ClearResults();});
@@ -36,7 +38,14 @@ $(document).ready(function(){
         //Replace space 160 to 32
         tag = tag.replaceAll(" "," ");
 
-        let quotes = array.filter(o => o.text.includes(tag));                   
+        let quotes = [];
+
+        if(rdbEnabled.is(':checked')){
+            quotes = array.filter(o => o.text.includes(tag));     
+        }else{
+            let lowerCaseWord = tag.toLowerCase();
+            quotes = array.filter((o) => o.text.toLowerCase().includes(lowerCaseWord));
+        }                         
     
         for(let i = 0; i < quotes.length; i++)        
             rows.push(printRow(category, tag, quotes[i]));
@@ -56,7 +65,6 @@ $(document).ready(function(){
         <td>${file}</td>
     </tr>`
     }
-
     function printRow(category, word, data){
         var file = data.file + "." + data.type;    
         var value = file;
@@ -125,7 +133,6 @@ $(document).ready(function(){
         </tbody>
         </table>`;
     }
-
     function isValid(tags, commands, responses, taunts)
     {        
         if(!commands && !responses && !taunts){
@@ -273,7 +280,6 @@ $(document).ready(function(){
             }
             else
             {
-                //getEmptyRow(word, quote, category, file)
                 content +=  getEmptyRow(tags[i].text, "<b class='text-danger'>Select a quote</b>","---","---");
                 notSelected++;
             }
