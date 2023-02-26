@@ -294,7 +294,7 @@ $(document).ready(function(){
         }
 
         let idTable = "generatedList";
-        divOutput.html(printTable(idTable, content));      
+        divOutput.html("<div class='mt-5'><h3 class='text-center'>Results</h3>" + printTable(idTable, content) + "</div>");      
         
         if ( ! $.fn.DataTable.isDataTable( '#' + idTable ) ) {
             $("#"+idTable).DataTable({"ordering": false});
