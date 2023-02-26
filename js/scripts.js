@@ -297,7 +297,7 @@ $(document).ready(function(){
         divOutput.html(printTable(idTable, content));      
         
         if ( ! $.fn.DataTable.isDataTable( '#' + idTable ) ) {
-            $("#"+idTable).DataTable();
+            $("#"+idTable).DataTable({"ordering": false});
         }  
 
         goToId(divOutput);
