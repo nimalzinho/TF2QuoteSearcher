@@ -1,6 +1,6 @@
-const wiki = "https://wiki.teamfortress.com/w/images/";
-
 $(document).ready(function(){
+    
+    const wiki = "https://wiki.teamfortress.com/w/images/";
     
     //Configure jSuites Tags
     const userTags = jSuites.tags(document.getElementById('userTags'), {placeholder: 'Keywords'});
@@ -165,7 +165,6 @@ $(document).ready(function(){
 
         return true;
     }
-
     function searchQuotes(){
                 
         let html = "";
@@ -186,13 +185,11 @@ $(document).ready(function(){
         //Search JSON for results
         $.getJSON("./json/" + character, function(data){            
 
-            for(let i = 0; i < tags.length; i++)
-            {                
+            for(let i = 0; i < tags.length; i++){                
                 let thisQuote = allQuotes.find(o => o.text === tags[i].text);
 
                 //Only search if the word is not duplicated
-                if(typeof thisQuote === "undefined")
-                {
+                if(typeof thisQuote === "undefined"){
                     let rows = []
                     
                     if(commands)
@@ -200,7 +197,7 @@ $(document).ready(function(){
                     if(responses)
                         rows = rows.concat(getRows("Responses", tags[i].text, data.character.responses));
                     if(taunts) 
-                    rows = rows.concat(getRows("Taunts", tags[i].text, data.character.taunts));                    
+                        rows = rows.concat(getRows("Taunts", tags[i].text, data.character.taunts));                    
                     
                     thisQuote = {text: tags[i].text, rows: rows};
 
@@ -213,7 +210,6 @@ $(document).ready(function(){
 
         })
         .fail(function(textStatus, error ) {
-
             console.log(textStatus);
             console.log(error);
 
@@ -231,13 +227,10 @@ $(document).ready(function(){
             goToId(divResults);
          });        
     }
-
     function goToId(element){
         $('html, body').animate({scrollTop: element.offset().top }, 250);
     }
-
-    function buildDataTable(){
-        
+    function buildDataTable(){        
         dataTable = $('.datatable').DataTable ({
             "pageLength": 8, 
             "autoWidth": false,            
@@ -251,8 +244,7 @@ $(document).ready(function(){
         btnGenerate.show();                             
     }
 
-    function getSelectedQuotes() {
-  
+    function getSelectedQuotes() {  
         divOutput.html("");
 
         let content = "";
@@ -265,10 +257,8 @@ $(document).ready(function(){
             
             let selectedRows = $("#word_" + i).DataTable().rows('.selected').data();
             
-            if(selectedRows.length > 0)
-            {
-                for(let j = 0; j < selectedRows.length; j++)
-                {
+            if(selectedRows.length > 0){
+                for(let j = 0; j < selectedRows.length; j++){
                     content +=`<tr>       
                                 <td>${selectedRows[j][0]}</td>     
                                 <td>${selectedRows[j][1]}</td>
@@ -277,19 +267,15 @@ $(document).ready(function(){
                                 <td>${selectedRows[j][4]}</td>
                             </tr>`;
                 }
-            }
-            else
-            {
+            }else{
                 content +=  getEmptyRow(tags[i].text, "<b class='text-danger'>Select a quote</b>","---","---");
                 notSelected++;
             }
         }  
 
-        if (notSelected > 0)
-        {
+        if (notSelected > 0){
             toastr["info"]("List generated, but you haven't selected all words yet");
-        }else
-        {
+        }else{
             toastr["success"]("List generated");
         }
 
@@ -307,22 +293,18 @@ $(document).ready(function(){
         userTags.reset();
         $( "#userTags" ).focus();
     }
-
     function lockUI(){
         jSuites.loading.show();        
         btnSearch.html("<span class=\"spinner-border spinner-border-sm\" role=\"status\" aria-hidden=\"true\"></span>&nbsp;Loading...");
         btnSearch.prop('disabled', true);
     }
-
     function UnlockUI(){
         jSuites.loading.hide();        
         btnSearch.text("Search");
         btnSearch.prop('disabled', false);
     }
-
     function ClearResults(){
         divResults.html(""); 
         divOutput.html("");
     }
-
 });
