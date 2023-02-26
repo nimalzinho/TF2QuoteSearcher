@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>TF2 - Quote Searcher</title>
+        <!-- Favicon -->
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        
+        <!-- JQuery -->
+        <script src="https://code.jquery.com/jquery-3.6.3.min.js" integrity="sha256-pvPw+upLPUjgMXY0G+8O0xUf+/Im1MZjXxxgOcBQBXU=" crossorigin="anonymous"></script>
+
+        <!-- Jsuites -->
+        <script src="plugins/jsuites/js/jsuites.js"></script>
+        <script src="plugins/jsuites/js/jsuites.webcomponents.js"></script>
+        <link href="plugins/jsuites/css/jsuites.css" rel="stylesheet" />
+
+        <!-- Select2 -->
+        <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+        <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+
+        <!-- DataTable -->
+        <link href="https://cdn.datatables.net/1.13.2/css/jquery.dataTables.min.css" rel="stylesheet" />        
+        <script src=" https://cdn.datatables.net/1.13.2/js/jquery.dataTables.min.js"></script>
+
+        <!-- Bootstrap icons -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet" />
+        
+        <!-- Core theme CSS (includes Bootstrap) -->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body class="d-flex flex-column min-vh-100">
+        <!-- Responsive navbar-->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <div class="container px-lg-5">
+                <a class="navbar-brand" href="#!">TF2 - Quote Searcher</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                        <li class="nav-item"><a class="nav-link active" aria-current="page" data-bs-toggle="modal" data-bs-target="#helpModal"><small>Help</small></a></li>
+                        <li class="nav-item"><a class="nav-link" aria-current="page" data-bs-toggle="modal" data-bs-target="#aboutModal"><small>About</small></a></li>
+                        <li class="nav-item"><a class="nav-link" aria-current="page" data-bs-toggle="modal" data-bs-target="#creditsModal"><small>Credits</small></a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+        <!-- Header-->
+        <header class="py-5">
+            <div class="container px-lg-5">
+                <div class="p-4 p-lg-5 bg-light rounded-3">
+                    <div class="m-4 m-lg-5">
+                        
+                        <div class="mb-3">
+                            <label for="selCharacter" class="form-label">Character</label>
+                            <select class="form-select" aria-label="Default select example" id="selCharacter">
+                                <option></option>
+                                <option selected value="scout.json">Scout</option>
+                                <option value="soldier.json">Soldier</option>
+                                <option value="pyro.json">Pyro</option>
+                                <option value="demoman.json">Demoman</option>
+                                <option value="heavy.json">Heavy</option>
+                                <option value="engineer.json">Engineer</option>
+                                <option value="medic.json">Medic</option>
+                                <option value="sniper.json">Sniper</option>
+                                <option value="spy.json">Spy</option>
+                            </select>
+                            <div id="helpCharacter" class="form-text">Select the character</div>
+                        </div>
+
+                        <div class="mb-3">
+                            <label for="txtSentence" class="form-label">Words <a class="btn btn-link" id="btnClear">Clear</a></label>
+                            <jsuites-tags id="userTags" value=""></jsuites-tags>                                                        
+                            <div class="form-text">Enter the words you want to search</div>                        
+                            <div class="form-text">Tip: You can get better results if you use "X ", " X" or " X " when searching for "X"</div>
+                            <div class="form-text">Warning: It's case sensitive</div>
+                        </div>                    
+
+                        <div class="mb-3">
+                            <div>
+                                <label class="form-label">Category</label>
+                            </div>
+                            <div class="form-check form-check-inline">
+                                <input class="form-check-input" type="checkbox" id="chkResponses" value="responses" checked>
+                                <label class="form-check-label" for="inlineCheckbox1">Responses</label>
+                            </div>
+                            <div class="form-check form-check-inline">
+                                <input class="form-check-input" type="checkbox" id="chkCommands" value="commands" checked>
+                                <label class="form-check-label" for="inlineCheckbox2">Voice Commands</label>
+                            </div>
+                            <div class="form-check form-check-inline">
+                                <input class="form-check-input" type="checkbox" id="chkTaunts" value="taunts" checked>
+                                <label class="form-check-label" for="inlineCheckbox3">Taunts</label>
+                            </div>     
+                            <div class="form-text">Select the category</div>                     
+                        </div>
+
+                        <div class="text-center">
+                            <a class="btn btn-primary btn-lg" id="btnSearch">Search</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <!-- Page Content-->
+        <section class="pt-4 mb-5">
+            <div class="container px-lg-5">
+            <div class="row gx-lg-5">
+                <div class="col-12">
+                    <div class="accordion" id="divResults">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        </section>  
+
+        <section class="pt-4 mb-5">
+            <div class="container px-lg-5">
+            <div class="row gx-lg-5">
+                <div class="col-12 text-center">
+                    <a class="btn btn-success btn-lg" id="btnGenerate">Generate List</a>
+                </div>
+                <div class="col-12">                                        
+                    <div id="divOutput">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        </section>  
+
+        <!-- Footer-->
+        <footer class="mt-auto py-1 mt-5 bg-dark">
+            <div class="container"><p class="m-0 text-center text-white">TF2 - Quote Searcher</p></div>
+        </footer>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>      
+        
+        <!-- Toastr -->
+        <link href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" rel="stylesheet" />
+        <script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+        
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+
+      <!-- Modal -->
+      <div class="modal fade" id="helpModal" tabindex="-1" aria-labelledby="helpModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+            <h5 class="modal-title" id="helpModalLabel">Help</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+            <ol>
+                <li>Select the character</li>
+                <li>Enter words that you want to search for</li>
+                <li>Click "Search"</li>
+                <li>Click the line in the table that you want</li>
+                <li>When you have finished selecting all the words, go to the bottom of the page and click on "Generate". This will give you a list of the files required to create your sentence mix</li>
+            </ol>
+            </div>
+            <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="creditsModal" tabindex="-1" aria-labelledby="creditsModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+            <h5 class="modal-title" id="creditsModalLabel">Credits</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+            <ul>
+                <li>Created by <a href="https://steamcommunity.com/id/Nimalzinho" target="_blank">Nimalzinho</a></li>
+                <li>Created with
+                    <ul>
+                        <li>TF2 Quotes/Audio - <a href="https://wiki.teamfortress.com/wiki/Main_Page" target="_blank">Official Team Fortress Wiki</a></li>
+                        <li>UI Framework - <a href="https://getbootstrap.com/" target="_blank">Bootstrap</a></li>
+                        <li>JavaScript library - <a href="https://jquery.com/" target="_blank">jQuery</a></li>
+                        <li>Javascript library for non-blocking notifications - <a href="https://github.com/CodeSeven/toastr" target="_blank">toastr</a></li>
+                        <li>JavaScript library for advanced features to HTML tables - <a href="https://datatables.net/" target="_blank">DataTable</a></li>
+                        <li>A collection of lightweight common JavaScript responsive plugins and webcomponents - <a href="https://jsuites.net/v4/" target="_blank">Jsuites</a></li>                        
+                    </ul>    
+                </li>
+                                    
+            </ul>
+            </div>
+            <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="aboutModal" tabindex="-1" aria-labelledby="aboutModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+            <h5 class="modal-title" id="aboutModalLabel">About</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">                
+            <p>Searching for quotes from the TF2 wiki can be annoying because voice commands, responses, taunts and audio previews aren't on the same page.</p>
+            <p>This is a simple site designed to help you with that. You can search for multiple words at the same time and after selecting the rows, get a summary of each file you need to do your sentence mixing.</p>
+            </div>
+            <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+        </div>
+    </div>
+
+</html>

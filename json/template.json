@@ -1,0 +1,17 @@
+{
+"character": {
+    "name": "template",    
+
+    "responses":[
+        { "type": "", "file": "", "text": "", "wiki": ""}
+    ],
+    
+    "commands": [
+        { "type": "", "file": "", "text": "", "wiki": ""}
+    ],
+
+    "taunts": [
+        { "type": "", "file": "", "text": "", "wiki": ""}
+    ]
+}
+}
