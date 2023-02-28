@@ -1,28 +1,22 @@
 $(document).ready(function () {
 
+    let dataTable = $('.datatable');
+
     const wiki = "https://wiki.teamfortress.com/w/images/";
 
     //Configure jSuites Tags
     const userTags = jSuites.tags(document.getElementById('userTags'), { placeholder: 'Keywords' });
 
-    const btnSearch = $("#btnSearch");
-    const btnGenerate = $('#btnGenerate');
-
-    const divResults = $("#divResults");
-    const selCharacter = $('#selCharacter');
     const divOutput = $('#divOutput');
+    const divResults = $("#divResults");
+    const divCitations = $('#divCitations');
 
-    const rdbEnabled = $('#rdbEnabled');
-
-    let dataTable = $('.datatable');
-
-    selCharacter.change(() => { clearResults(); });
-
-    btnSearch.on("click", searchQuotes);
-    btnGenerate.on("click", getSelectedQuotes);
     $("#btnClear").on("click", clearWords);
+    $("#btnSearch").on("click", searchQuotes);
+    $('#btnGenerate').on("click", getSelectedQuotes);
+    $('#selCharacter').change(() => { clearResults(); });
 
-    btnGenerate.hide();
+    clearResults();
 
     function highlightWord(word, text) {
         let regEx = new RegExp(word, "ig");
@@ -44,11 +38,12 @@ $(document).ready(function () {
                 : o => o.text.indexOf(tag) != -1);
 
         for (let i = 0; i < quotes.length; i++)
-            rows.push(printRow(category, tag, quotes[i]));
+            rows.push(printQuote(category, tag, quotes[i]));
 
         return rows;
     }
-    function getEmptyRow(word, quote, category, file) {
+
+    function createRow(category, word, quote, audio, file) {
         return `<tr> 
         <td>                            
         <label class='form-check-label'><b>"${word}"</b></label>
@@ -57,32 +52,24 @@ $(document).ready(function () {
         <label class='form-check-label'><i>${quote}</i></label>
         </td>
         <td><i>${category}</i></td> 
-        <td></td>                   
+        <td>${audio}</td>                   
         <td>${file}</td>
     </tr>`
     }
-    function printRow(category, word, data) {
+
+    function printQuote(category, word, data) {
         var file = data.file + "." + data.type;
         var src = wiki + data.wiki + "/" + file;
 
-        return `<tr>
-                    <td>
-                        <label class='form-check-label'><b>"${word}"</b></label>
-                    </td>
-                    <td>
-                        <label class='form-check-label'>${highlightWord(word, data.text)}</label>
-                    </td>
-                    <td>${category}</td>
-                    <td>
-                        <div>
-                            <audio controls='controls' preload='none' style='max-width: 100%; width: 180px;'>
-                                <source src=\"${src}\" type=\"audio/${data.type}\">
-                            </audio>
-                        </div>
-                    </td>
-                    <td>${file}</td>
-                </tr>`;
+        var audio = `<div>
+                        <audio controls='controls' preload='none' style='max-width: 100%; width: 180px;'>
+                            <source src=\"${src}\" type=\"audio/${data.type}\">
+                        </audio>
+                    </div>`;
+
+        return createRow(category,word,highlightWord(word, data.text),audio,file);
     }
+
     function printResult(thisQuote, i) {
 
         let show = i == 0 ? "show" : "";
@@ -94,7 +81,7 @@ $(document).ready(function () {
                 content.push(thisQuote.rows[j]);
         }
         else {
-            content.push(getEmptyRow(thisQuote.text, "No quotes were found", "Not found", "nope.avi"));
+            content.push(createRow("Not found", thisQuote.text, "No quotes were found", "", "nope.avi"));
         }
 
         return `<div class="accordion-item">
@@ -151,16 +138,23 @@ $(document).ready(function () {
                 toastr["info"]("Words must be less than 50 characters each");
                 return false;
             }
-
         }
 
         return true;
+    }
+    function formatCitation(citation){
+        let info_link = citation.split('|');
+
+        if(info_link.length == 2){
+            return `<p>${info_link[0]} <a href='${info_link[1]}' target='_blank'>${info_link[1]}</a></p>`;
+        }
     }
     function searchQuotes() {
 
         clearResults();
 
         let html = [];
+        let citations = [];
         let tags = userTags.getData();
 
         let taunts = $('#chkTaunts').is(':checked');
@@ -169,13 +163,17 @@ $(document).ready(function () {
 
         if (!isValid(tags, commands, responses, taunts)) return;
 
-        lockUI();
+        Loading(true);
 
         //Search JSON for results
-        $.getJSON("./json/" + selCharacter.val(), function (data) {
+        $.getJSON("./json/" + $('#selCharacter').val(), function (data) {
 
             let allQuotes = [];
-            let caseSensitive = rdbEnabled.is(':checked')
+            let caseSensitive = $('#rdbEnabled').is(':checked')
+            
+            if (commands) citations.push(formatCitation(data.character.citations.responses));
+            if (responses) citations.push(formatCitation(data.character.citations.commands));
+            if (taunts) citations.push(formatCitation(data.character.citations.taunts));
 
             for (let i = 0; i < tags.length; i++) {
 
@@ -202,21 +200,19 @@ $(document).ready(function () {
 
                 html.push(printResult(thisQuote, i));
             }
-
         })
             .fail(function (textStatus, error) {
                 var err = "Request Failed: " + textStatus.statusText;
                 console.log(error, textStatus, err);
                 toastr["error"](err);
-
-                unlockUI();
+                Loading(false);
             })
             .always(function () {
-                divResults.html(warpContent(tags.length > 1 ? "Words" : "Word", html.join("")));
+                divResults.html(wrapContent(tags.length > 1 ? "Words" : "Word", html.join("")));
+                divCitations.html(wrapContent("Citations",`<div class='text-center'>${citations.join("")}</div>`));
                 buildDataTable();
                 goToId(divResults);
-
-                unlockUI();
+                Loading(false);
             });
     }
     function goToId(element) {
@@ -234,7 +230,7 @@ $(document).ready(function () {
         });
 
         dataTable.on('click', 'tr', function () { $(this).toggleClass('selected'); });
-        btnGenerate.show();
+        $('#btnGenerate').show();
     }
 
     function getSelectedQuotes() {
@@ -261,7 +257,7 @@ $(document).ready(function () {
                                 </tr>`);
                 }
             } else {
-                content.push(getEmptyRow(tags[i].text, "<b class='text-danger'>Select a quote</b>", "---", "---"));
+                content.push(createRow("---", tags[i].text, "<b class='text-danger'>Select a quote</b>", "---", "---"));
                 notSelected++;
             }
         }
@@ -274,7 +270,7 @@ $(document).ready(function () {
 
         let idTable = "generatedList";
 
-        divOutput.html(warpContent("Results", printTable(idTable, content.join(""))));
+        divOutput.html(wrapContent("Results", printTable(idTable, content.join(""))));
 
         idTable = "#" + idTable;
 
@@ -283,7 +279,7 @@ $(document).ready(function () {
         goToId(divOutput);
     }
 
-    function warpContent(title, content) {
+    function wrapContent(title, content) {
         return `<div class='mt-5'><h3 class='text-center'>${title}</h3>${content}</div>`
     }
 
@@ -291,18 +287,23 @@ $(document).ready(function () {
         userTags.reset();
         $("#userTags").focus();
     }
-    function lockUI() {
-        jSuites.loading.show();
-        btnSearch.html("<span class=\"spinner-border spinner-border-sm\" role=\"status\" aria-hidden=\"true\"></span>&nbsp;Loading...");
-        btnSearch.prop('disabled', true);
+
+    function Loading(isLoading) {
+        if (isLoading) {
+            jSuites.loading.show();
+            $("#btnSearch").html("<span class=\"spinner-border spinner-border-sm\" role=\"status\" aria-hidden=\"true\"></span>&nbsp;Loading...");
+            $("#btnSearch").prop('disabled', true);
+        } else {
+            jSuites.loading.hide();
+            $("#btnSearch").text("Search");
+            $("#btnSearch").prop('disabled', false);
+        }
     }
-    function unlockUI() {
-        jSuites.loading.hide();
-        btnSearch.text("Search");
-        btnSearch.prop('disabled', false);
-    }
+
     function clearResults() {
-        divResults.html("");
         divOutput.html("");
+        divResults.html("");
+        divCitations.html("");
+        $('#btnGenerate').hide();
     }
 });
