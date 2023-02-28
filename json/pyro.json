@@ -1,283 +1,1630 @@
 {
-"character": {
-    "name": "Pyro",    
-
-    "responses":[
-        { "type": "wav", "file": "Pyro_taunts04", "text": "Ow dow how dow.", "wiki": "d/d5"},
-        { "type": "wav", "file": "Pyro_specialcompleted-assistedkill01", "text": "Mmph mphna mprh.", "wiki": "a/ad"},
-        { "type": "wav", "file": "Pyro_taunts01", "text": "Murr hurr mphuphurrur, hurr mph phrr.", "wiki": "2/2c"},
-        { "type": "wav", "file": "Pyro_taunts02", "text": "Murr hurr mphuphurrur, hurr mph phrr.", "wiki": "0/02"},
-        { "type": "wav", "file": "Pyro_taunts03", "text": "Murr hurr mphuphurrur, hurr mph phrr.", "wiki": "9/95"},
-        { "type": "wav", "file": "Pyro_laughevil01", "text": "Evil laugh", "wiki": "5/52"},
-        { "type": "wav", "file": "Pyro_laughevil02", "text": "Evil laugh 2", "wiki": "d/d3"},
-        { "type": "wav", "file": "Pyro_laughlong01", "text": "Long laugh", "wiki": "7/72"},
-        { "type": "wav", "file": "Pyro_laughhappy01", "text": "Happy laugh", "wiki": "c/c0"},
-        { "type": "wav", "file": "Pyro_battlecry01", "text": "Mmmmmmmrrrrrrrpppghhh!", "wiki": "d/dd"},
-        { "type": "wav", "file": "Pyro_activatecharge01", "text": "Hudda hudda huh!", "wiki": "5/52"},
-        { "type": "wav", "file": "Pyro_battlecry02", "text": "Hudda hudda huuh!", "wiki": "3/34"},
-        { "type": "wav", "file": "Pyro_jeers01", "text": "Mhhhhoooooo!", "wiki": "1/11"},
-        { "type": "wav", "file": "Pyro_jeers02", "text": "Mrghfrr!", "wiki": "e/e2"},
-        { "type": "wav", "file": "Pyro_autodejectedtie01", "text": "Mmmrpgh crpyha drghya!", "wiki": "9/90"},
-        { "type": "wav", "file": "Pyro_autoonfire01", "text": "Mmmh,mmh!", "wiki": "4/43"},
-        { "type": "wav", "file": "Pyro_autoonfire02", "text": "Mmmrgh!", "wiki": "4/44"},
-        { "type": "wav", "file": "Pyro_paincrticialdeath01", "text": "*Dying muffled scream*", "wiki": "f/fc"},
-        { "type": "wav", "file": "Pyro_paincrticialdeath02", "text": "*Dying muffled scream*", "wiki": "a/a4"},
-        { "type": "wav", "file": "Pyro_paincrticialdeath03", "text": "*Dying muffled scream*", "wiki": "c/cd"},
-        { "type": "mp3", "file": "Pyro_painsevere01", "text": "Aaah!", "wiki": "4/40"},
-        { "type": "wav", "file": "Pyro_painsevere02", "text": "[*Whimper*]", "wiki": "7/79"},
-        { "type": "wav", "file": "Pyro_painsevere03", "text": "Agh!", "wiki": "e/eb"},
-        { "type": "wav", "file": "Pyro_painsevere04", "text": "Ungh!", "wiki": "8/8e"},
-        { "type": "wav", "file": "Pyro_painsevere05", "text": "Ah!", "wiki": "c/c2"},
-        { "type": "wav", "file": "Pyro_painsevere06", "text": "Unh!", "wiki": "a/a2"},
-        { "type": "wav", "file": "Pyro_painsharp01", "text": "Oof!", "wiki": "b/bc"},
-        { "type": "wav", "file": "Pyro_painsharp02", "text": "Ah!", "wiki": "9/9a"},
-        { "type": "wav", "file": "Pyro_painsharp03", "text": "Ow!", "wiki": "e/ef"},
-        { "type": "wav", "file": "Pyro_painsharp04", "text": "Uh!", "wiki": "d/d4"},
-        { "type": "wav", "file": "Pyro_painsharp05", "text": "Uf!", "wiki": "2/25"},
-        { "type": "wav", "file": "Pyro_painsharp06", "text": "Arg!", "wiki": "4/4b"},
-        { "type": "wav", "file": "Pyro_painsharp07", "text": "Ungh!", "wiki": "3/3d"},
-        { "type": "wav", "file": "Pyro_thanksfortheteleporter01", "text": "Mmphn frphha herrpha.", "wiki": "c/cf"},
-        { "type": "wav", "file": "Pyro_thanksfortheheal01", "text": "Mhnk nhya mhph.", "wiki": "0/04"},
-        { "type": "wav", "file": "Pyro_specialcompleted01", "text": "Mumbling gibberish", "wiki": "c/c2"},
-        { "type": "wav", "file": "Pyro_autocappedintelligence01", "text": "Mmmphya harrgh mrgha hrghgph!", "wiki": "1/19"},
-        { "type": "wav", "file": "Pyro_autocappedcontrolpoint01", "text": "Hurrururururu!", "wiki": "c/c5"},
-        { "type": "wav", "file": "Pyro_standonthepoint01", "text": "Mrh! Hrt hr nha phrnt yrh mrprph!", "wiki": "6/67"},
-        { "type": "wav", "file": "Pyro_cheers01", "text": "Mrfer!", "wiki": "4/4a"},
-        { "type": "mp3", "file": "Cm_pyro_pregamewonlast_01", "text": "Heh dum dummad", "wiki": "6/67"},
-        { "type": "mp3", "file": "Cm_pyro_pregamelostlast_01", "text": "Awwwww!", "wiki": "9/91"},
-        { "type": "mp3", "file": "Cm_pyro_pregamelostlast_02", "text": "Heh thubba theh then, wohha?", "wiki": "a/ac"},
-        { "type": "mp3", "file": "Cm_pyro_pregamelostlast_03", "text": "Yah fuddah gon den dey fhumah!", "wiki": "9/9c"},
-        { "type": "wav", "file": "Pyro_negativevocalization01", "text": "Eeuaghafvada...", "wiki": "b/b2"},
-        { "type": "wav", "file": "Pyro_thanks01", "text": "Mmph mphna.", "wiki": "4/47"},
-        { "type": "wav", "file": "Pyro_cloakedspyidentify01", "text": "Ah hyro ifva phy!", "wiki": "5/5a"},
-        { "type": "wav", "file": "Pyro_helpmecapture01", "text": "Helfp ee cafpter!", "wiki": "b/b1"},
-        { "type": "wav", "file": "Pyro_helpmedefend01", "text": "Helfp ee defen!", "wiki": "1/1a"},
-        { "type": "wav", "file": "Pyro_sf13_influx_small01", "text": "*Small chuckle*", "wiki": "5/56"},
-        { "type": "wav", "file": "Pyro_sf13_influx_big01", "text": "*Evil laugh*", "wiki": "d/d2"},
-        { "type": "wav", "file": "Pyro_sf13_spell_generic01", "text": "Mumuno, muh bumuno! (Pactum diabolus! and Mortis animataris!)", "wiki": "c/cf"},
-        { "type": "wav", "file": "Pyro_sf13_spell_generic02", "text": "Bumunuh, bun! (Imputum fulminus!)", "wiki": "f/fc"},
-        { "type": "wav", "file": "Pyro_sf13_spell_generic03", "text": "Buh blumunuh! (Amplus tripudio!)", "wiki": "0/05"},
-        { "type": "wav", "file": "Pyro_sf13_spell_generic04", "text": "Cuhts me trihp! (Deus invictus! and Barpo kabalto!)", "wiki": "3/33"},
-        { "type": "wav", "file": "Pyro_sf13_spell_generic05", "text": "Muphituh lurr! (Barpo invisium!)", "wiki": "6/6a"},
-        { "type": "wav", "file": "Pyro_sf13_spell_generic06", "text": "Muhk niphurr! (Ipsum instanterium! and Seismela tremoro!)", "wiki": "5/55"},
-        { "type": "wav", "file": "Pyro_sf13_spell_generic07", "text": "Buh phuh murrit uph truph!", "wiki": "1/12"},
-        { "type": "wav", "file": "Pyro_sf13_spell_generic08", "text": "Cuhts me trihp! (Paidum celeris!)", "wiki": "a/a5"},
-        { "type": "wav", "file": "Pyro_sf13_spell_generic09", "text": "Muhk muttuh! (Invokum Monoculus!)", "wiki": "0/02"}
-    ],
-    
-    "commands": [
-        { "type": "wav", "file": "Pyro_medic01", "text": "Mrrdrr!", "wiki": "0/0f"},
-        { "type": "wav", "file": "Pyro_thanks01", "text": "Fink fhu.", "wiki": "4/47"},
-        { "type": "wav", "file": "Pyro_specialcompleted-assistedkill01", "text": "Mmph mphna mprh.", "wiki": "a/ad"},
-        { "type": "wav", "file": "Pyro_go01", "text": "Gho gho gho!", "wiki": "a/a3"},
-        { "type": "wav", "file": "Pyro_moveup01", "text": "Oove! Oove up! Oove up!", "wiki": "0/07"},
-        { "type": "wav", "file": "Pyro_headleft01", "text": "Oohthuhhumph!", "wiki": "8/83"},
-        { "type": "wav", "file": "Pyro_headright01", "text": "OOoh la ruuh", "wiki": "2/2d"},
-        { "type": "wav", "file": "Pyro_yes01", "text": "Uh-huh (muffled)", "wiki": "3/34"},
-        { "type": "wav", "file": "Pyro_no01", "text": "Nho.", "wiki": "7/72"},
-        { "type": "wav", "file": "Pyro_incoming01", "text": "Khamahh!", "wiki": "f/f3"},
-        { "type": "wav", "file": "Pyro_cloakedspy01", "text": "Mrr hurrdurr hm hurr!", "wiki": "2/26"},
-        { "type": "wav", "file": "Pyro_sentryahead01", "text": "Sphenty ahefv!", "wiki": "b/b5"},
-        { "type": "wav", "file": "Pyro_needteleporter01", "text": "Phudda Teddapudda heah!", "wiki": "c/c9"},
-        { "type": "wav", "file": "Pyro_needdispenser01", "text": "Phudda Dipenza heah!", "wiki": "f/f6"},
-        { "type": "wav", "file": "Pyro_needsentry01", "text": "Pudda Sfenty heah!", "wiki": "9/94"},
-        { "type": "wav", "file": "Pyro_activatecharge01", "text": "Hudda hudda huh! ", "wiki": "5/52"},
-        { "type": "wav", "file": "Pyro_helpme01", "text": "Heelp mfe!", "wiki": "e/e9"},
-        { "type": "wav", "file": "Pyro_helpmedefend01", "text": "Helfp ee defen!", "wiki": "1/1a"},
-        { "type": "wav", "file": "Pyro_helpmecapture01", "text": "Helfp ee cafpter!", "wiki": "b/b1"},
-        { "type": "wav", "file": "Pyro_standonthepoint01", "text": "Mrh! Hrt hr nha phrnt yrh mrprph!", "wiki": "6/67"},
-        { "type": "wav", "file": "Pyro_battlecry01", "text": "Khamaahh!", "wiki": "d/dd"},
-        { "type": "wav", "file": "Pyro_battlecry02", "text": "Hudda hudda huh! ", "wiki": "3/34"},
-        { "type": "wav", "file": "Pyro_specialcompleted01", "text": "Mhhph mh mh mhhp mh mhp mhpph mhhpp!", "wiki": "c/c2"},
-        { "type": "wav", "file": "Pyro_autocappedintelligence01", "text": "Mmmphya harrgh mrgha hrghgph.", "wiki": "1/19"},
-        { "type": "wav", "file": "Pyro_laughevil02", "text": "Evil laugh", "wiki": "d/d3"},
-        { "type": "wav", "file": "Pyro_cheers01", "text": "Fhanks a lah!", "wiki": "4/4a"},
-        { "type": "wav", "file": "Pyro_jeers01", "text": "Bvoooh!", "wiki": "1/11"},
-        { "type": "wav", "file": "Pyro_jeers02", "text": "Yahf fvaorarh!", "wiki": "e/e2"},
-        { "type": "wav", "file": "Pyro_positivevocalization01", "text": "Exfellend!", "wiki": "d/d8"},
-        { "type": "wav", "file": "Pyro_laughevil03", "text": "Evil laugh", "wiki": "d/d3"},
-        { "type": "wav", "file": "Pyro_laughevil04", "text": "Evil laugh 2", "wiki": "c/c7"},
-        { "type": "wav", "file": "Pyro_laughshort01", "text": "Short laugh", "wiki": "c/c6"},
-        { "type": "wav", "file": "Pyro_negativevocalization01", "text": "Eeuaghafvada...", "wiki": "b/b2"},
-        { "type": "wav", "file": "Pyro_niceshot01", "text": "Phice fah.", "wiki": "1/1a"},
-        { "type": "wav", "file": "Pyro_goodjob01", "text": "Gvuuh jovhh.", "wiki": "d/d3"},
-        { "type": "wav", "file": "Pyro_battlecry02leaked", "text": "Come on!", "wiki": "7/71"},
-        { "type": "wav", "file": "Pyro_incominggroup01", "text": "We've got company!", "wiki": "0/0f"}
-    ],
-
-    "taunts": [
-        { "type": "wav", "file": "Pyro_laughlong01", "text": "cackling triumphantly", "wiki": "7/72"},
-        { "type": "wav", "file": "Pyro_paincrticialdeath01", "text": "second", "wiki": "f/fc"},
-        { "type": "wav", "file": "Pyro_paincrticialdeath03", "text": "third", "wiki": "c/cd"},
-        { "type": "mp3", "file": "Pyro_painsevere01", "text": "charges up", "wiki": "4/40"},
-        { "type": "wav", "file": "Pyro_headright01", "text": "fires", "wiki": "2/2d"},
-        { "type": "wav", "file": "Taunt_rockstar", "text": "Air guitar", "wiki": "d/d1"},
-        { "type": "wav", "file": "Taunt_rockstar_end", "text": "Air guitar end", "wiki": "1/1b"},
-        { "type": "wav", "file": "Pyro_guitar_solo_no_verb", "text": "Heavy metal air guitar", "wiki": "f/fc"},
-        { "type": "wav", "file": "Sign_bass_solo", "text": "Bass air guitar", "wiki": "d/db"},
-        { "type": "wav", "file": "Pyro_positivevocalization01", "text": "Exfellend!", "wiki": "d/d8"},
-        { "type": "wav", "file": "Pyro_highfive_success01", "text": "*Laugh* Mweh!", "wiki": "2/27"},
-        { "type": "wav", "file": "Pyro_highfive_success02", "text": "*Laugh* Hueh.", "wiki": "f/f6"},
-        { "type": "wav", "file": "Pyro_highfive_success03", "text": "*Gleeful laugh*", "wiki": "c/c7"},
-        { "type": "wav", "file": "Pyro_taunt_cong_fun_08", "text": "[gleeful laughter]", "wiki": "a/ab"},
-        { "type": "wav", "file": "Pyro_taunt_cong_fun_11", "text": "[rhythmic laughter]", "wiki": "e/eb"},
-        { "type": "wav", "file": "Pyro_taunt_cong_fun_13", "text": "[rhythmic humming]", "wiki": "7/73"},
-        { "type": "wav", "file": "Pyro_taunt_dosi_fun_02", "text": "[gleeful laughter]", "wiki": "b/bf"},
-        { "type": "wav", "file": "Pyro_taunt_dosi_fun_05", "text": "[muffled laughter]", "wiki": "9/90"},
-        { "type": "wav", "file": "Pyro_taunt_flip_fun_06", "text": "Wooo hoo hoo hoo!", "wiki": "c/ce"},
-        { "type": "wav", "file": "Pyro_taunt_flip_fun_09", "text": "Woo hoo hoo hoo hoo hoo!", "wiki": "3/39"},
-        { "type": "wav", "file": "Pyro_taunt_flip_fun_10", "text": "Woo hoo hoo hoo hoo hoo!", "wiki": "c/c8"},
-        { "type": "wav", "file": "Pyro_taunt_flip_fun_11", "text": "Ah ha ha ha ha ha!", "wiki": "2/2f"},
-        { "type": "wav", "file": "Pyro_taunt_flip_int_02", "text": "Whoo hoo hoo! Hudda!", "wiki": "3/36"},
-        { "type": "wav", "file": "Pyro_taunt_flip_int_05", "text": "Hoo! Hud hudda!", "wiki": "d/d8"},
-        { "type": "wav", "file": "Pyro_taunt_ballon_11", "text": "[maniacal laughter]", "wiki": "4/46"},
-        { "type": "wav", "file": "Pyro_laughevil02", "text": "[evil laugh]", "wiki": "d/d3"},
-        { "type": "wav", "file": "Pyro_laughevil04", "text": "[evil laugh 2]", "wiki": "c/c7"},
-        { "type": "wav", "file": "Taunt_springrider_sit", "text": "[sitting down]", "wiki": "5/5b"},
-        { "type": "wav", "file": "Taunt_springrider_squeak1", "text": "[Squeak 1]", "wiki": "b/b8"},
-        { "type": "wav", "file": "Taunt_springrider_squeak2", "text": "[Squeak 2]", "wiki": "d/d9"},
-        { "type": "wav", "file": "Taunt_springrider_squeak3", "text": "[Squeak 3]", "wiki": "0/02"},
-        { "type": "wav", "file": "Taunt_springrider_squeak4", "text": "[Squeak 4]", "wiki": "f/fc"},
-        { "type": "wav", "file": "Taunt_springrider_squeak5", "text": "[Squeak 5]", "wiki": "9/91"},
-        { "type": "wav", "file": "Taunt_springrider_getup", "text": "[getting up]", "wiki": "e/e0"},
-        { "type": "wav", "file": "Pyro_taunt_ballon_06", "text": "[puffing sounds]", "wiki": "e/ef"},
-        { "type": "wav", "file": "Pyro_taunt_ballon_07", "text": "[busy mumbling]", "wiki": "9/9d"},
-        { "type": "wav", "file": "Pyro_taunt_clap1", "text": "[clap]", "wiki": "8/89"},
-        { "type": "wav", "file": "Pyro_taunt_clap2", "text": "[clap]", "wiki": "2/21"},
-        { "type": "wav", "file": "Pyro_taunt_clap3", "text": "[clap]", "wiki": "f/f0"},
-        { "type": "wav", "file": "Pyro_taunt_clap4", "text": "[clap]", "wiki": "e/eb"},
-        { "type": "wav", "file": "Pyro_taunt_clap5", "text": "[clap]", "wiki": "7/78"},
-        { "type": "wav", "file": "Pyro_taunt_clap6", "text": "[clap]", "wiki": "f/f8"},
-        { "type": "wav", "file": "Pyro_taunt_clap7", "text": "[clap]", "wiki": "4/4d"},
-        { "type": "wav", "file": "Pyro_taunt_flip_exert_02", "text": "Uhrah!", "wiki": "4/41"},
-        { "type": "wav", "file": "Pyro_taunt_flip_exert_04", "text": "Uhhrah!", "wiki": "c/c1"},
-        { "type": "wav", "file": "Pyro_taunt_flip_exert_05", "text": "Ah-oop!", "wiki": "e/ee"},
-        { "type": "wav", "file": "Pyro_taunt_head_exert_03", "text": "[muffled grunt of effort]", "wiki": "4/47"},
-        { "type": "wav", "file": "Pyro_taunt_exert_12", "text": "Huhyah!", "wiki": "2/28"},
-        { "type": "wav", "file": "Pyro_taunt_dosi_int_07", "text": "[mumbled] Dance time!", "wiki": "7/78"},
-        { "type": "wav", "file": "Pyro_taunt_int_11", "text": "Huhfallah!", "wiki": "f/f9"},
-        { "type": "wav", "file": "Pyro_taunt_int_21", "text": "Ruh dyah!", "wiki": "6/6b"},
-        { "type": "wav", "file": "Pyro_taunt_flip_admire_03", "text": "You know the drill!", "wiki": "e/e0"},
-        { "type": "wav", "file": "Pyro_taunt_flip_exert_06", "text": "(sing-song) Up you go!", "wiki": "e/e8"},
-        { "type": "wav", "file": "Pyro_trade_03", "text": "Euduh rah!", "wiki": "3/37"},
-        { "type": "wav", "file": "Pyro_trade_04", "text": "Ohh...ruddah buddoh.", "wiki": "1/1d"},
-        { "type": "wav", "file": "Pyro_taunt_dosi_fun_06", "text": "[mumbled scat singing]", "wiki": "b/bd"},
-        { "type": "wav", "file": "Pyro_goodjob01", "text": "Gvuuh jovhh.", "wiki": "d/d3"},
-        { "type": "wav", "file": "Pyro_niceshot01", "text": "Phice fah.", "wiki": "1/1a"},
-        { "type": "wav", "file": "Pyro_thanks01", "text": "Fink fhu.", "wiki": "4/47"},
-        { "type": "wav", "file": "Pyro_yes01", "text": "Uh-huh. (muffled)", "wiki": "3/34"},
-        { "type": "wav", "file": "Pyro_taunt_thanks_08", "text": "Thanks a lot!", "wiki": "b/bd"},
-        { "type": "wav", "file": "Pyro_taunt_thanks_07", "text": "Thanks again!", "wiki": "a/ad"},
-        { "type": "wav", "file": "Pyro_trade_01", "text": "Huh-nah! Huh-naaah...", "wiki": "0/0e"},
-        { "type": "wav", "file": "Pyro_laughevil03", "text": "[evil laugh]", "wiki": "d/d3"},
-        { "type": "wav", "file": "Taunt_scorchers_solo1", "text": "Dreams of Cruelty", "wiki": "4/40"},
-        { "type": "wav", "file": "Taunt_scorchers_solo2", "text": "Team Fortress 2 Main Theme", "wiki": "f/f2"},
-        { "type": "wav", "file": "Bm_sapper_scream_01", "text": "[Long scream 1]", "wiki": "2/26"},
-        { "type": "wav", "file": "Bm_sapper_scream_02", "text": "[Long scream 2]", "wiki": "0/0a"},
-        { "type": "wav", "file": "Bm_throwable_growl_01", "text": "[Happy scream 1]", "wiki": "e/e8"},
-        { "type": "wav", "file": "Bm_throwable_growl_02", "text": "[Happy scream 2]", "wiki": "7/7f"},
-        { "type": "wav", "file": "Bm_throwable_attack_01", "text": "[Growl 1]", "wiki": "0/0b"},
-        { "type": "wav", "file": "Bm_throwable_attack_02", "text": "[Growl 2]", "wiki": "7/72"},
-        { "type": "wav", "file": "Bm_throwable_attack_03", "text": "[Growl 3]", "wiki": "b/b1"},
-        { "type": "wav", "file": "Bm_throwable_attack_04", "text": "[Growl 4]", "wiki": "6/62"},
-        { "type": "wav", "file": "Bm_throwable_attack_05", "text": "[Growl 5]", "wiki": "8/81"},
-        { "type": "wav", "file": "Bm_throwable_attack_06", "text": "[Growl 6]", "wiki": "e/e3"},
-        { "type": "wav", "file": "Bm_throwable_attack_07", "text": "[Growl 7]", "wiki": "9/9b"},
-        { "type": "wav", "file": "Bm_throwable_attack_08", "text": "[Growl 8]", "wiki": "7/75"},
-        { "type": "wav", "file": "Bm_throwable_attack_09", "text": "[Growl 9]", "wiki": "2/24"},
-        { "type": "wav", "file": "Bm_throwable_attack_10", "text": "[Growl 10]", "wiki": "b/b3"},
-        { "type": "wav", "file": "Bm_sapper_snap_01", "text": "[Snap 1]", "wiki": "d/dd"},
-        { "type": "wav", "file": "Bm_sapper_snap_02", "text": "[Snap 2]", "wiki": "d/db"},
-        { "type": "wav", "file": "Bm_sapper_snap_03", "text": "[Snap 3]", "wiki": "3/32"},
-        { "type": "wav", "file": "Bm_sapper_snap_04", "text": "[Snap 4]", "wiki": "9/99"},
-        { "type": "wav", "file": "Bm_sapper_snap_05", "text": "[Snap 5]", "wiki": "e/e5"},
-        { "type": "wav", "file": "Bm_sapper_snap_06", "text": "[Snap 6]", "wiki": "a/a9"},
-        { "type": "wav", "file": "Bm_sapper_snap_07", "text": "[Snap 7]", "wiki": "2/27"},
-        { "type": "wav", "file": "Bm_sapper_snap_08", "text": "[Snap 8]", "wiki": "8/85"},
-        { "type": "wav", "file": "Pyro_taunt_cong_fun_05", "text": "[amused laughter]", "wiki": "f/f0"},
-        { "type": "wav", "file": "Pyro_taunt_cong_fun_09", "text": "[cheerful humming]", "wiki": "e/ed"},
-        { "type": "wav", "file": "Pyro_taunt_cong_fun_10", "text": "[rhythmic laughter]", "wiki": "9/99"},
-        { "type": "wav", "file": "Pyro_taunt_cong_fun_12", "text": "[rhythmic humming]", "wiki": "e/e5"},
-        { "type": "wav", "file": "Pyro_taunt_cong_fun_14", "text": "Whoo hoo!", "wiki": "6/6e"},
-        { "type": "wav", "file": "Pyro_highfive02", "text": "Huddah!", "wiki": "9/9d"},
-        { "type": "wav", "file": "Pyro_taunt_head_int_01", "text": "[muffled] Right here!", "wiki": "a/a1"},
-        { "type": "wav", "file": "Pyro_taunt_head_int_03", "text": "[muffled challenging]", "wiki": "e/e8"},
-        { "type": "wav", "file": "Pyro_taunt_head_int_04", "text": "[menacing muffles]", "wiki": "2/2b"},
-        { "type": "wav", "file": "Pyro_taunt_flip_int_07", "text": "Hellooo! Let's load 'em up!!", "wiki": "2/2b"},
-        { "type": "wav", "file": "Pyro_taunt_flip_fun_01", "text": "Woooh!", "wiki": "6/6c"},
-        { "type": "wav", "file": "Pyro_taunt_flip_fun_04", "text": "I'm flying!", "wiki": "8/8b"},
-        { "type": "wav", "file": "Pyro_taunt_flip_fun_05", "text": "Hah da-ra!", "wiki": "a/ac"},
-        { "type": "wav", "file": "Pyro_taunt_flip_admire_01", "text": "Yee haw!", "wiki": "8/87"},
-        { "type": "wav", "file": "Pyro_taunt_flip_admire_02", "text": "Ha ha ha!", "wiki": "4/41"},
-        { "type": "wav", "file": "Pyro_taunt_flip_admire_05", "text": "Come to me!", "wiki": "d/d0"},
-        { "type": "wav", "file": "Pyro_taunt_flip_admire_06", "text": "Hud hudda hud hah!", "wiki": "1/16"},
-        { "type": "wav", "file": "Pyro_taunt_thanks_09", "text": "Thank you for the (unintelligible)!", "wiki": "1/10"},
-        { "type": "wav", "file": "Pyro_highfive01", "text": "Hit me!", "wiki": "1/1a"},
-        { "type": "wav", "file": "Pyro_taunt_rps_int_02", "text": "Rock, paper, scissors!", "wiki": "0/0a"},
-        { "type": "wav", "file": "Pyro_taunt_rps_int_04", "text": "(liltingly) Who wants to throw?", "wiki": "7/72"},
-        { "type": "wav", "file": "Pyro_taunt_rps_int_05", "text": "Anyone want a throw?", "wiki": "4/46"},
-        { "type": "wav", "file": "Pyro_taunt_rps_int_07", "text": "Betta!", "wiki": "d/d0"},
-        { "type": "wav", "file": "Pyro_taunt_rps_int_08", "text": "Betta bah", "wiki": "0/0a"},
-        { "type": "wav", "file": "Pyro_taunt_rps_exert_18", "text": "Here we go!", "wiki": "1/14"},
-        { "type": "wav", "file": "Pyro_taunt_rps_exert_21", "text": "One!", "wiki": "9/9c"},
-        { "type": "wav", "file": "Pyro_taunt_rps_exert_22", "text": "Two!", "wiki": "e/e8"},
-        { "type": "wav", "file": "Pyro_taunt_rps_exert_23", "text": "Three!", "wiki": "a/ab"},
-        { "type": "wav", "file": "Pyro_laughevil01", "text": "Evil laugh", "wiki": "5/52"},
-        { "type": "wav", "file": "Pyro_taunt_rps_lose_03", "text": "[crying]", "wiki": "2/2b"},
-        { "type": "wav", "file": "Pyro_paincrticialdeath02", "text": "*Dying muffled scream*", "wiki": "a/a4"},
-        { "type": "wav", "file": "Pyro_negativevocalization01", "text": "Eeuaghafvada...", "wiki": "b/b2"},
-        { "type": "wav", "file": "Pyro_laugh_addl04", "text": "laughs a hearty laugh", "wiki": "6/65"},
-        { "type": "wav", "file": "Pyro_jeers02", "text": "scolding it", "wiki": "e/e2"},
-        { "type": "wav", "file": "Shred_Alert", "text": "intense solo", "wiki": "1/15"},
-        { "type": "wav", "file": "Pyro_taunt_int_05", "text": "[muffled]Right here!", "wiki": "5/52"},
-        { "type": "wav", "file": "Pyro_taunt_int_07", "text": "[muffled]Let's headbutt!", "wiki": "e/e7"},
-        { "type": "wav", "file": "Pyro_taunt_int_12", "text": "[muffled]A headbutt?", "wiki": "a/a9"},
-        { "type": "wav", "file": "Pyro_taunt_int_13", "text": "[muffled]Come on!", "wiki": "a/a2"},
-        { "type": "wav", "file": "Pyro_taunt_int_15", "text": "[muffled]Let's do this!", "wiki": "b/bc"},
-        { "type": "wav", "file": "Pyro_taunt_int_22", "text": "[muffled]Let's do this!", "wiki": "b/b3"},
-        { "type": "wav", "file": "Pyro_taunt_int_24", "text": "[muffled](possibly) Come get your skull cracked!", "wiki": "5/58"},
-        { "type": "wav", "file": "Pyro_taunt_head_pain_03", "text": "[exhausted grunt]", "wiki": "c/c1"},
-        { "type": "wav", "file": "Pyro_taunt_head_pain_04", "text": "Ow!", "wiki": "2/27"},
-        { "type": "wav", "file": "Pyro_taunt_head_pain_21", "text": "[rocking out]", "wiki": "5/5d"},
-        { "type": "wav", "file": "Pyro_taunt_head_pain_22", "text": "[intense rocking out]", "wiki": "2/2d"},
-        { "type": "wav", "file": "Pyro_taunt_dosi_int_01", "text": "[mumbled] Do-si-do!", "wiki": "0/04"},
-        { "type": "wav", "file": "Pyro_taunt_dosi_int_02", "text": "[mumbled] Do-si-do!", "wiki": "8/85"},
-        { "type": "wav", "file": "Pyro_taunt_dosi_int_05", "text": "[mumbled] Do-si-do time!", "wiki": "3/35"},
-        { "type": "wav", "file": "Pyro_taunt_dosi_int_13", "text": "[excited mumbling]", "wiki": "d/d6"},
-        { "type": "wav", "file": "Pyro_taunt_dosi_int_14", "text": "[mumbled] Do-si-do!", "wiki": "3/3c"},
-        { "type": "wav", "file": "Pyro_taunt_dosi_int_16", "text": "[mumbled] Dance time!", "wiki": "e/e8"},
-        { "type": "wav", "file": "Pyro_taunt_dosi_fun_03", "text": "[mumbled singing]", "wiki": "2/27"},
-        { "type": "wav", "file": "Pyro_taunt_dosi_fun_04", "text": "[mumbled comment]", "wiki": "d/d8"},
-        { "type": "wav", "file": "Pyro_taunt_dosi_end_05", "text": "(liltingly) Do-si-do?", "wiki": "0/06"},
-        { "type": "wav", "file": "Pyro_taunt_dosi_end_06", "text": "[offended mumbling]", "wiki": "e/e2"},
-        { "type": "wav", "file": "Pyro_taunt_dosi_end_08", "text": "[mumbled compliment]", "wiki": "4/48"},
-        { "type": "wav", "file": "Pyro_taunt_dosi_end_09", "text": "[mumbled] Boo!", "wiki": "4/43"},
-        { "type": "wav", "file": "Taunt_yeti_standee_speaker_growl", "text": "[roar 1]", "wiki": "7/7d"},
-        { "type": "wav", "file": "Taunt_yeti_standee_break", "text": "[breaking wood]", "wiki": "d/d4"},
-        { "type": "wav", "file": "Taunt_yeti_standee_speaker_growl_broken", "text": "[roar 2]", "wiki": "d/da"},
-        { "type": "wav", "file": "Taunt_yeti_appear_snow", "text": "[snow falling, loud roar]", "wiki": "f/f6"},
-        { "type": "wav", "file": "Taunt_yeti_land", "text": "[landing from jump]", "wiki": "a/a5"},
-        { "type": "wav", "file": "Taunt_yeti_roar_beginning", "text": "[short roar]", "wiki": "c/cc"},
-        { "type": "wav", "file": "Taunt_yeti_roar_first", "text": "[long roar 1]", "wiki": "7/7a"},
-        { "type": "wav", "file": "Taunt_yeti_chest_hit1", "text": "[chest hit 1]", "wiki": "3/3b"},
-        { "type": "wav", "file": "Taunt_yeti_chest_hit2", "text": "[chest hit 2]", "wiki": "6/6d"},
-        { "type": "wav", "file": "Taunt_yeti_chest_hit3", "text": "[chest hit 3]", "wiki": "4/49"},
-        { "type": "wav", "file": "Taunt_yeti_chest_hit4", "text": "[chest hit 4]", "wiki": "9/92"},
-        { "type": "wav", "file": "Taunt_yeti_chest_hit5", "text": "[chest hit 5]", "wiki": "c/c0"},
-        { "type": "wav", "file": "Taunt_yeti_chest_hit6", "text": "[chest hit 6]", "wiki": "e/e4"},
-        { "type": "wav", "file": "Taunt_yeti_chest_hit7", "text": "[chest hit 7]", "wiki": "f/f8"},
-        { "type": "wav", "file": "Taunt_yeti_chest_hit8", "text": "[chest hit 8]", "wiki": "7/76"},
-        { "type": "wav", "file": "Taunt_yeti_chest_hit9", "text": "[chest hit 9]", "wiki": "c/c6"},
-        { "type": "wav", "file": "Taunt_yeti_roar_second", "text": "[long roar 2]", "wiki": "2/29"},
-        { "type": "wav", "file": "Taunt_yeti_ground_pound", "text": "[slamming the ground]", "wiki": "c/ce"},
-        { "type": "wav", "file": "Pyro_autoonfire02", "text": "Mmmrgh!", "wiki": "4/44"},
-        { "type": "wav", "file": "Pyro_activatecharge01", "text": "Hudda hudda huh!", "wiki": "5/52"},
-        { "type": "wav", "file": "Pyro_trade_02", "text": "Media:pyro_trade_02.wav", "wiki": "9/99"},
-        { "type": "wav", "file": "Pyro_trade_06", "text": "Media:pyro_trade_06.wav", "wiki": "0/03"},
-        { "type": "wav", "file": "Pyro_trade_09", "text": "Media:pyro_trade_09.wav", "wiki": "0/0b"},
-        { "type": "wav", "file": "Pyro_trade_12", "text": "Media:pyro_trade_12.wav", "wiki": "d/d4"},
-        { "type": "wav", "file": "Pyro_trade_15", "text": "Media:pyro_trade_15.wav", "wiki": "5/53"},
-        { "type": "wav", "file": "Pyro_trade_17", "text": "Media:pyro_trade_17.wav", "wiki": "2/29"}
-    ]
-}
+    "character": {
+        "name": "Pyro",
+        "citations": {
+            "responses": "\"Pyro responses.\" Team Fortress Wiki, . 26 Jan 2023, 04:10 UTC. 28 Feb 2023, 16:39 |https://wiki.teamfortress.com/w/index.php?title=Pyro_responses&oldid=3359309",
+            "commands": "\"Pyro voice commands.\" Team Fortress Wiki, . 18 Mar 2021, 01:01 UTC. 28 Feb 2023, 16:39 |https://wiki.teamfortress.com/w/index.php?title=Pyro_voice_commands&oldid=2951789",
+            "taunts": "\"Pyro taunts.\" Team Fortress Wiki, . 18 Feb 2023, 13:29 UTC. 28 Feb 2023, 16:39 |https://wiki.teamfortress.com/w/index.php?title=Pyro_taunts&oldid=3375472"
+        },
+        "responses": [
+            {
+                "type": "wav",
+                "file": "Pyro_taunts04",
+                "text": "Ow dow how dow.",
+                "wiki": "d/d5"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_specialcompleted-assistedkill01",
+                "text": "Mmph mphna mprh.",
+                "wiki": "a/ad"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunts01",
+                "text": "Murr hurr mphuphurrur, hurr mph phrr.",
+                "wiki": "2/2c"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunts02",
+                "text": "Murr hurr mphuphurrur, hurr mph phrr.",
+                "wiki": "0/02"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunts03",
+                "text": "Murr hurr mphuphurrur, hurr mph phrr.",
+                "wiki": "9/95"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_laughevil01",
+                "text": "Evil laugh",
+                "wiki": "5/52"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_laughevil02",
+                "text": "Evil laugh 2",
+                "wiki": "d/d3"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_laughlong01",
+                "text": "Long laugh",
+                "wiki": "7/72"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_laughhappy01",
+                "text": "Happy laugh",
+                "wiki": "c/c0"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_battlecry01",
+                "text": "Mmmmmmmrrrrrrrpppghhh!",
+                "wiki": "d/dd"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_activatecharge01",
+                "text": "Hudda hudda huh!",
+                "wiki": "5/52"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_battlecry02",
+                "text": "Hudda hudda huuh!",
+                "wiki": "3/34"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_jeers01",
+                "text": "Mhhhhoooooo!",
+                "wiki": "1/11"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_jeers02",
+                "text": "Mrghfrr!",
+                "wiki": "e/e2"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_autodejectedtie01",
+                "text": "Mmmrpgh crpyha drghya!",
+                "wiki": "9/90"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_autoonfire01",
+                "text": "Mmmh,mmh!",
+                "wiki": "4/43"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_autoonfire02",
+                "text": "Mmmrgh!",
+                "wiki": "4/44"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_paincrticialdeath01",
+                "text": "*Dying muffled scream*",
+                "wiki": "f/fc"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_paincrticialdeath02",
+                "text": "*Dying muffled scream*",
+                "wiki": "a/a4"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_paincrticialdeath03",
+                "text": "*Dying muffled scream*",
+                "wiki": "c/cd"
+            },
+            {
+                "type": "mp3",
+                "file": "Pyro_painsevere01",
+                "text": "Aaah!",
+                "wiki": "4/40"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_painsevere02",
+                "text": "[*Whimper*]",
+                "wiki": "7/79"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_painsevere03",
+                "text": "Agh!",
+                "wiki": "e/eb"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_painsevere04",
+                "text": "Ungh!",
+                "wiki": "8/8e"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_painsevere05",
+                "text": "Ah!",
+                "wiki": "c/c2"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_painsevere06",
+                "text": "Unh!",
+                "wiki": "a/a2"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_painsharp01",
+                "text": "Oof!",
+                "wiki": "b/bc"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_painsharp02",
+                "text": "Ah!",
+                "wiki": "9/9a"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_painsharp03",
+                "text": "Ow!",
+                "wiki": "e/ef"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_painsharp04",
+                "text": "Uh!",
+                "wiki": "d/d4"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_painsharp05",
+                "text": "Uf!",
+                "wiki": "2/25"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_painsharp06",
+                "text": "Arg!",
+                "wiki": "4/4b"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_painsharp07",
+                "text": "Ungh!",
+                "wiki": "3/3d"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_thanksfortheteleporter01",
+                "text": "Mmphn frphha herrpha.",
+                "wiki": "c/cf"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_thanksfortheheal01",
+                "text": "Mhnk nhya mhph.",
+                "wiki": "0/04"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_specialcompleted01",
+                "text": "Mumbling gibberish",
+                "wiki": "c/c2"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_autocappedintelligence01",
+                "text": "Mmmphya harrgh mrgha hrghgph!",
+                "wiki": "1/19"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_autocappedcontrolpoint01",
+                "text": "Hurrururururu!",
+                "wiki": "c/c5"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_standonthepoint01",
+                "text": "Mrh! Hrt hr nha phrnt yrh mrprph!",
+                "wiki": "6/67"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_cheers01",
+                "text": "Mrfer!",
+                "wiki": "4/4a"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_pyro_pregamewonlast_01",
+                "text": "Heh dum dummad",
+                "wiki": "6/67"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_pyro_pregamelostlast_01",
+                "text": "Awwwww!",
+                "wiki": "9/91"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_pyro_pregamelostlast_02",
+                "text": "Heh thubba theh then, wohha?",
+                "wiki": "a/ac"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_pyro_pregamelostlast_03",
+                "text": "Yah fuddah gon den dey fhumah!",
+                "wiki": "9/9c"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_negativevocalization01",
+                "text": "Eeuaghafvada...",
+                "wiki": "b/b2"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_thanks01",
+                "text": "Mmph mphna.",
+                "wiki": "4/47"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_cloakedspyidentify01",
+                "text": "Ah hyro ifva phy!",
+                "wiki": "5/5a"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_helpmecapture01",
+                "text": "Helfp ee cafpter!",
+                "wiki": "b/b1"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_helpmedefend01",
+                "text": "Helfp ee defen!",
+                "wiki": "1/1a"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_sf13_influx_small01",
+                "text": "*Small chuckle*",
+                "wiki": "5/56"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_sf13_influx_big01",
+                "text": "*Evil laugh*",
+                "wiki": "d/d2"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_sf13_spell_generic01",
+                "text": "Mumuno, muh bumuno! (Pactum diabolus! and Mortis animataris!)",
+                "wiki": "c/cf"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_sf13_spell_generic02",
+                "text": "Bumunuh, bun! (Imputum fulminus!)",
+                "wiki": "f/fc"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_sf13_spell_generic03",
+                "text": "Buh blumunuh! (Amplus tripudio!)",
+                "wiki": "0/05"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_sf13_spell_generic04",
+                "text": "Cuhts me trihp! (Deus invictus! and Barpo kabalto!)",
+                "wiki": "3/33"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_sf13_spell_generic05",
+                "text": "Muphituh lurr! (Barpo invisium!)",
+                "wiki": "6/6a"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_sf13_spell_generic06",
+                "text": "Muhk niphurr! (Ipsum instanterium! and Seismela tremoro!)",
+                "wiki": "5/55"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_sf13_spell_generic07",
+                "text": "Buh phuh murrit uph truph!",
+                "wiki": "1/12"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_sf13_spell_generic08",
+                "text": "Cuhts me trihp! (Paidum celeris!)",
+                "wiki": "a/a5"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_sf13_spell_generic09",
+                "text": "Muhk muttuh! (Invokum Monoculus!)",
+                "wiki": "0/02"
+            }
+        ],
+        "commands": [
+            {
+                "type": "wav",
+                "file": "Pyro_medic01",
+                "text": "Mrrdrr!",
+                "wiki": "0/0f"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_thanks01",
+                "text": "Fink fhu.",
+                "wiki": "4/47"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_specialcompleted-assistedkill01",
+                "text": "Mmph mphna mprh.",
+                "wiki": "a/ad"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_go01",
+                "text": "Gho gho gho!",
+                "wiki": "a/a3"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_moveup01",
+                "text": "Oove! Oove up! Oove up!",
+                "wiki": "0/07"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_headleft01",
+                "text": "Oohthuhhumph!",
+                "wiki": "8/83"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_headright01",
+                "text": "OOoh la ruuh",
+                "wiki": "2/2d"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_yes01",
+                "text": "Uh-huh (muffled)",
+                "wiki": "3/34"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_no01",
+                "text": "Nho.",
+                "wiki": "7/72"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_incoming01",
+                "text": "Khamahh!",
+                "wiki": "f/f3"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_cloakedspy01",
+                "text": "Mrr hurrdurr hm hurr!",
+                "wiki": "2/26"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_sentryahead01",
+                "text": "Sphenty ahefv!",
+                "wiki": "b/b5"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_needteleporter01",
+                "text": "Phudda Teddapudda heah!",
+                "wiki": "c/c9"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_needdispenser01",
+                "text": "Phudda Dipenza heah!",
+                "wiki": "f/f6"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_needsentry01",
+                "text": "Pudda Sfenty heah!",
+                "wiki": "9/94"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_activatecharge01",
+                "text": "Hudda hudda huh! ",
+                "wiki": "5/52"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_helpme01",
+                "text": "Heelp mfe!",
+                "wiki": "e/e9"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_helpmedefend01",
+                "text": "Helfp ee defen!",
+                "wiki": "1/1a"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_helpmecapture01",
+                "text": "Helfp ee cafpter!",
+                "wiki": "b/b1"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_standonthepoint01",
+                "text": "Mrh! Hrt hr nha phrnt yrh mrprph!",
+                "wiki": "6/67"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_battlecry01",
+                "text": "Khamaahh!",
+                "wiki": "d/dd"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_battlecry02",
+                "text": "Hudda hudda huh! ",
+                "wiki": "3/34"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_specialcompleted01",
+                "text": "Mhhph mh mh mhhp mh mhp mhpph mhhpp!",
+                "wiki": "c/c2"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_autocappedintelligence01",
+                "text": "Mmmphya harrgh mrgha hrghgph.",
+                "wiki": "1/19"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_laughevil02",
+                "text": "Evil laugh",
+                "wiki": "d/d3"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_cheers01",
+                "text": "Fhanks a lah!",
+                "wiki": "4/4a"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_jeers01",
+                "text": "Bvoooh!",
+                "wiki": "1/11"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_jeers02",
+                "text": "Yahf fvaorarh!",
+                "wiki": "e/e2"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_positivevocalization01",
+                "text": "Exfellend!",
+                "wiki": "d/d8"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_laughevil03",
+                "text": "Evil laugh",
+                "wiki": "d/d3"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_laughevil04",
+                "text": "Evil laugh 2",
+                "wiki": "c/c7"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_laughshort01",
+                "text": "Short laugh",
+                "wiki": "c/c6"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_negativevocalization01",
+                "text": "Eeuaghafvada...",
+                "wiki": "b/b2"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_niceshot01",
+                "text": "Phice fah.",
+                "wiki": "1/1a"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_goodjob01",
+                "text": "Gvuuh jovhh.",
+                "wiki": "d/d3"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_battlecry02leaked",
+                "text": "Come on!",
+                "wiki": "7/71"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_incominggroup01",
+                "text": "We've got company!",
+                "wiki": "0/0f"
+            }
+        ],
+        "taunts": [
+            {
+                "type": "wav",
+                "file": "Pyro_laughlong01",
+                "text": "cackling triumphantly",
+                "wiki": "7/72"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_paincrticialdeath01",
+                "text": "second",
+                "wiki": "f/fc"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_paincrticialdeath03",
+                "text": "third",
+                "wiki": "c/cd"
+            },
+            {
+                "type": "mp3",
+                "file": "Pyro_painsevere01",
+                "text": "charges up",
+                "wiki": "4/40"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_headright01",
+                "text": "fires",
+                "wiki": "2/2d"
+            },
+            {
+                "type": "wav",
+                "file": "Taunt_rockstar",
+                "text": "Air guitar",
+                "wiki": "d/d1"
+            },
+            {
+                "type": "wav",
+                "file": "Taunt_rockstar_end",
+                "text": "Air guitar end",
+                "wiki": "1/1b"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_guitar_solo_no_verb",
+                "text": "Heavy metal air guitar",
+                "wiki": "f/fc"
+            },
+            {
+                "type": "wav",
+                "file": "Sign_bass_solo",
+                "text": "Bass air guitar",
+                "wiki": "d/db"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_positivevocalization01",
+                "text": "Exfellend!",
+                "wiki": "d/d8"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_highfive_success01",
+                "text": "*Laugh* Mweh!",
+                "wiki": "2/27"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_highfive_success02",
+                "text": "*Laugh* Hueh.",
+                "wiki": "f/f6"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_highfive_success03",
+                "text": "*Gleeful laugh*",
+                "wiki": "c/c7"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_cong_fun_08",
+                "text": "[gleeful laughter]",
+                "wiki": "a/ab"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_cong_fun_11",
+                "text": "[rhythmic laughter]",
+                "wiki": "e/eb"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_cong_fun_13",
+                "text": "[rhythmic humming]",
+                "wiki": "7/73"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_dosi_fun_02",
+                "text": "[gleeful laughter]",
+                "wiki": "b/bf"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_dosi_fun_05",
+                "text": "[muffled laughter]",
+                "wiki": "9/90"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_flip_fun_06",
+                "text": "Wooo hoo hoo hoo!",
+                "wiki": "c/ce"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_flip_fun_09",
+                "text": "Woo hoo hoo hoo hoo hoo!",
+                "wiki": "3/39"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_flip_fun_10",
+                "text": "Woo hoo hoo hoo hoo hoo!",
+                "wiki": "c/c8"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_flip_fun_11",
+                "text": "Ah ha ha ha ha ha!",
+                "wiki": "2/2f"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_flip_int_02",
+                "text": "Whoo hoo hoo! Hudda!",
+                "wiki": "3/36"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_flip_int_05",
+                "text": "Hoo! Hud hudda!",
+                "wiki": "d/d8"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_ballon_11",
+                "text": "[maniacal laughter]",
+                "wiki": "4/46"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_laughevil02",
+                "text": "[evil laugh]",
+                "wiki": "d/d3"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_laughevil04",
+                "text": "[evil laugh 2]",
+                "wiki": "c/c7"
+            },
+            {
+                "type": "wav",
+                "file": "Taunt_springrider_sit",
+                "text": "[sitting down]",
+                "wiki": "5/5b"
+            },
+            {
+                "type": "wav",
+                "file": "Taunt_springrider_squeak1",
+                "text": "[Squeak 1]",
+                "wiki": "b/b8"
+            },
+            {
+                "type": "wav",
+                "file": "Taunt_springrider_squeak2",
+                "text": "[Squeak 2]",
+                "wiki": "d/d9"
+            },
+            {
+                "type": "wav",
+                "file": "Taunt_springrider_squeak3",
+                "text": "[Squeak 3]",
+                "wiki": "0/02"
+            },
+            {
+                "type": "wav",
+                "file": "Taunt_springrider_squeak4",
+                "text": "[Squeak 4]",
+                "wiki": "f/fc"
+            },
+            {
+                "type": "wav",
+                "file": "Taunt_springrider_squeak5",
+                "text": "[Squeak 5]",
+                "wiki": "9/91"
+            },
+            {
+                "type": "wav",
+                "file": "Taunt_springrider_getup",
+                "text": "[getting up]",
+                "wiki": "e/e0"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_ballon_06",
+                "text": "[puffing sounds]",
+                "wiki": "e/ef"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_ballon_07",
+                "text": "[busy mumbling]",
+                "wiki": "9/9d"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_clap1",
+                "text": "[clap]",
+                "wiki": "8/89"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_clap2",
+                "text": "[clap]",
+                "wiki": "2/21"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_clap3",
+                "text": "[clap]",
+                "wiki": "f/f0"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_clap4",
+                "text": "[clap]",
+                "wiki": "e/eb"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_clap5",
+                "text": "[clap]",
+                "wiki": "7/78"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_clap6",
+                "text": "[clap]",
+                "wiki": "f/f8"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_clap7",
+                "text": "[clap]",
+                "wiki": "4/4d"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_flip_exert_02",
+                "text": "Uhrah!",
+                "wiki": "4/41"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_flip_exert_04",
+                "text": "Uhhrah!",
+                "wiki": "c/c1"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_flip_exert_05",
+                "text": "Ah-oop!",
+                "wiki": "e/ee"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_head_exert_03",
+                "text": "[muffled grunt of effort]",
+                "wiki": "4/47"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_exert_12",
+                "text": "Huhyah!",
+                "wiki": "2/28"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_dosi_int_07",
+                "text": "[mumbled] Dance time!",
+                "wiki": "7/78"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_int_11",
+                "text": "Huhfallah!",
+                "wiki": "f/f9"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_int_21",
+                "text": "Ruh dyah!",
+                "wiki": "6/6b"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_flip_admire_03",
+                "text": "You know the drill!",
+                "wiki": "e/e0"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_flip_exert_06",
+                "text": "(sing-song) Up you go!",
+                "wiki": "e/e8"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_trade_03",
+                "text": "Euduh rah!",
+                "wiki": "3/37"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_trade_04",
+                "text": "Ohh...ruddah buddoh.",
+                "wiki": "1/1d"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_dosi_fun_06",
+                "text": "[mumbled scat singing]",
+                "wiki": "b/bd"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_goodjob01",
+                "text": "Gvuuh jovhh.",
+                "wiki": "d/d3"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_niceshot01",
+                "text": "Phice fah.",
+                "wiki": "1/1a"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_thanks01",
+                "text": "Fink fhu.",
+                "wiki": "4/47"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_yes01",
+                "text": "Uh-huh. (muffled)",
+                "wiki": "3/34"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_thanks_08",
+                "text": "Thanks a lot!",
+                "wiki": "b/bd"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_thanks_07",
+                "text": "Thanks again!",
+                "wiki": "a/ad"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_trade_01",
+                "text": "Huh-nah! Huh-naaah...",
+                "wiki": "0/0e"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_laughevil03",
+                "text": "[evil laugh]",
+                "wiki": "d/d3"
+            },
+            {
+                "type": "wav",
+                "file": "Taunt_scorchers_solo1",
+                "text": "Dreams of Cruelty",
+                "wiki": "4/40"
+            },
+            {
+                "type": "wav",
+                "file": "Taunt_scorchers_solo2",
+                "text": "Team Fortress 2 Main Theme",
+                "wiki": "f/f2"
+            },
+            {
+                "type": "wav",
+                "file": "Bm_sapper_scream_01",
+                "text": "[Long scream 1]",
+                "wiki": "2/26"
+            },
+            {
+                "type": "wav",
+                "file": "Bm_sapper_scream_02",
+                "text": "[Long scream 2]",
+                "wiki": "0/0a"
+            },
+            {
+                "type": "wav",
+                "file": "Bm_throwable_growl_01",
+                "text": "[Happy scream 1]",
+                "wiki": "e/e8"
+            },
+            {
+                "type": "wav",
+                "file": "Bm_throwable_growl_02",
+                "text": "[Happy scream 2]",
+                "wiki": "7/7f"
+            },
+            {
+                "type": "wav",
+                "file": "Bm_throwable_attack_01",
+                "text": "[Growl 1]",
+                "wiki": "0/0b"
+            },
+            {
+                "type": "wav",
+                "file": "Bm_throwable_attack_02",
+                "text": "[Growl 2]",
+                "wiki": "7/72"
+            },
+            {
+                "type": "wav",
+                "file": "Bm_throwable_attack_03",
+                "text": "[Growl 3]",
+                "wiki": "b/b1"
+            },
+            {
+                "type": "wav",
+                "file": "Bm_throwable_attack_04",
+                "text": "[Growl 4]",
+                "wiki": "6/62"
+            },
+            {
+                "type": "wav",
+                "file": "Bm_throwable_attack_05",
+                "text": "[Growl 5]",
+                "wiki": "8/81"
+            },
+            {
+                "type": "wav",
+                "file": "Bm_throwable_attack_06",
+                "text": "[Growl 6]",
+                "wiki": "e/e3"
+            },
+            {
+                "type": "wav",
+                "file": "Bm_throwable_attack_07",
+                "text": "[Growl 7]",
+                "wiki": "9/9b"
+            },
+            {
+                "type": "wav",
+                "file": "Bm_throwable_attack_08",
+                "text": "[Growl 8]",
+                "wiki": "7/75"
+            },
+            {
+                "type": "wav",
+                "file": "Bm_throwable_attack_09",
+                "text": "[Growl 9]",
+                "wiki": "2/24"
+            },
+            {
+                "type": "wav",
+                "file": "Bm_throwable_attack_10",
+                "text": "[Growl 10]",
+                "wiki": "b/b3"
+            },
+            {
+                "type": "wav",
+                "file": "Bm_sapper_snap_01",
+                "text": "[Snap 1]",
+                "wiki": "d/dd"
+            },
+            {
+                "type": "wav",
+                "file": "Bm_sapper_snap_02",
+                "text": "[Snap 2]",
+                "wiki": "d/db"
+            },
+            {
+                "type": "wav",
+                "file": "Bm_sapper_snap_03",
+                "text": "[Snap 3]",
+                "wiki": "3/32"
+            },
+            {
+                "type": "wav",
+                "file": "Bm_sapper_snap_04",
+                "text": "[Snap 4]",
+                "wiki": "9/99"
+            },
+            {
+                "type": "wav",
+                "file": "Bm_sapper_snap_05",
+                "text": "[Snap 5]",
+                "wiki": "e/e5"
+            },
+            {
+                "type": "wav",
+                "file": "Bm_sapper_snap_06",
+                "text": "[Snap 6]",
+                "wiki": "a/a9"
+            },
+            {
+                "type": "wav",
+                "file": "Bm_sapper_snap_07",
+                "text": "[Snap 7]",
+                "wiki": "2/27"
+            },
+            {
+                "type": "wav",
+                "file": "Bm_sapper_snap_08",
+                "text": "[Snap 8]",
+                "wiki": "8/85"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_cong_fun_05",
+                "text": "[amused laughter]",
+                "wiki": "f/f0"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_cong_fun_09",
+                "text": "[cheerful humming]",
+                "wiki": "e/ed"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_cong_fun_10",
+                "text": "[rhythmic laughter]",
+                "wiki": "9/99"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_cong_fun_12",
+                "text": "[rhythmic humming]",
+                "wiki": "e/e5"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_cong_fun_14",
+                "text": "Whoo hoo!",
+                "wiki": "6/6e"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_highfive02",
+                "text": "Huddah!",
+                "wiki": "9/9d"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_head_int_01",
+                "text": "[muffled] Right here!",
+                "wiki": "a/a1"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_head_int_03",
+                "text": "[muffled challenging]",
+                "wiki": "e/e8"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_head_int_04",
+                "text": "[menacing muffles]",
+                "wiki": "2/2b"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_flip_int_07",
+                "text": "Hellooo! Let's load 'em up!!",
+                "wiki": "2/2b"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_flip_fun_01",
+                "text": "Woooh!",
+                "wiki": "6/6c"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_flip_fun_04",
+                "text": "I'm flying!",
+                "wiki": "8/8b"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_flip_fun_05",
+                "text": "Hah da-ra!",
+                "wiki": "a/ac"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_flip_admire_01",
+                "text": "Yee haw!",
+                "wiki": "8/87"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_flip_admire_02",
+                "text": "Ha ha ha!",
+                "wiki": "4/41"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_flip_admire_05",
+                "text": "Come to me!",
+                "wiki": "d/d0"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_flip_admire_06",
+                "text": "Hud hudda hud hah!",
+                "wiki": "1/16"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_thanks_09",
+                "text": "Thank you for the (unintelligible)!",
+                "wiki": "1/10"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_highfive01",
+                "text": "Hit me!",
+                "wiki": "1/1a"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_rps_int_02",
+                "text": "Rock, paper, scissors!",
+                "wiki": "0/0a"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_rps_int_04",
+                "text": "(liltingly) Who wants to throw?",
+                "wiki": "7/72"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_rps_int_05",
+                "text": "Anyone want a throw?",
+                "wiki": "4/46"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_rps_int_07",
+                "text": "Betta!",
+                "wiki": "d/d0"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_rps_int_08",
+                "text": "Betta bah",
+                "wiki": "0/0a"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_rps_exert_18",
+                "text": "Here we go!",
+                "wiki": "1/14"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_rps_exert_21",
+                "text": "One!",
+                "wiki": "9/9c"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_rps_exert_22",
+                "text": "Two!",
+                "wiki": "e/e8"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_rps_exert_23",
+                "text": "Three!",
+                "wiki": "a/ab"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_laughevil01",
+                "text": "Evil laugh",
+                "wiki": "5/52"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_rps_lose_03",
+                "text": "[crying]",
+                "wiki": "2/2b"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_paincrticialdeath02",
+                "text": "*Dying muffled scream*",
+                "wiki": "a/a4"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_negativevocalization01",
+                "text": "Eeuaghafvada...",
+                "wiki": "b/b2"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_laugh_addl04",
+                "text": "laughs a hearty laugh",
+                "wiki": "6/65"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_jeers02",
+                "text": "scolding it",
+                "wiki": "e/e2"
+            },
+            {
+                "type": "wav",
+                "file": "Shred_Alert",
+                "text": "intense solo",
+                "wiki": "1/15"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_int_05",
+                "text": "[muffled]Right here!",
+                "wiki": "5/52"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_int_07",
+                "text": "[muffled]Let's headbutt!",
+                "wiki": "e/e7"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_int_12",
+                "text": "[muffled]A headbutt?",
+                "wiki": "a/a9"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_int_13",
+                "text": "[muffled]Come on!",
+                "wiki": "a/a2"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_int_15",
+                "text": "[muffled]Let's do this!",
+                "wiki": "b/bc"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_int_22",
+                "text": "[muffled]Let's do this!",
+                "wiki": "b/b3"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_int_24",
+                "text": "[muffled](possibly) Come get your skull cracked!",
+                "wiki": "5/58"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_head_pain_03",
+                "text": "[exhausted grunt]",
+                "wiki": "c/c1"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_head_pain_04",
+                "text": "Ow!",
+                "wiki": "2/27"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_head_pain_21",
+                "text": "[rocking out]",
+                "wiki": "5/5d"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_head_pain_22",
+                "text": "[intense rocking out]",
+                "wiki": "2/2d"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_dosi_int_01",
+                "text": "[mumbled] Do-si-do!",
+                "wiki": "0/04"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_dosi_int_02",
+                "text": "[mumbled] Do-si-do!",
+                "wiki": "8/85"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_dosi_int_05",
+                "text": "[mumbled] Do-si-do time!",
+                "wiki": "3/35"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_dosi_int_13",
+                "text": "[excited mumbling]",
+                "wiki": "d/d6"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_dosi_int_14",
+                "text": "[mumbled] Do-si-do!",
+                "wiki": "3/3c"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_dosi_int_16",
+                "text": "[mumbled] Dance time!",
+                "wiki": "e/e8"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_dosi_fun_03",
+                "text": "[mumbled singing]",
+                "wiki": "2/27"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_dosi_fun_04",
+                "text": "[mumbled comment]",
+                "wiki": "d/d8"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_dosi_end_05",
+                "text": "(liltingly) Do-si-do?",
+                "wiki": "0/06"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_dosi_end_06",
+                "text": "[offended mumbling]",
+                "wiki": "e/e2"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_dosi_end_08",
+                "text": "[mumbled compliment]",
+                "wiki": "4/48"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_taunt_dosi_end_09",
+                "text": "[mumbled] Boo!",
+                "wiki": "4/43"
+            },
+            {
+                "type": "wav",
+                "file": "Taunt_yeti_standee_speaker_growl",
+                "text": "[roar 1]",
+                "wiki": "7/7d"
+            },
+            {
+                "type": "wav",
+                "file": "Taunt_yeti_standee_break",
+                "text": "[breaking wood]",
+                "wiki": "d/d4"
+            },
+            {
+                "type": "wav",
+                "file": "Taunt_yeti_standee_speaker_growl_broken",
+                "text": "[roar 2]",
+                "wiki": "d/da"
+            },
+            {
+                "type": "wav",
+                "file": "Taunt_yeti_appear_snow",
+                "text": "[snow falling, loud roar]",
+                "wiki": "f/f6"
+            },
+            {
+                "type": "wav",
+                "file": "Taunt_yeti_land",
+                "text": "[landing from jump]",
+                "wiki": "a/a5"
+            },
+            {
+                "type": "wav",
+                "file": "Taunt_yeti_roar_beginning",
+                "text": "[short roar]",
+                "wiki": "c/cc"
+            },
+            {
+                "type": "wav",
+                "file": "Taunt_yeti_roar_first",
+                "text": "[long roar 1]",
+                "wiki": "7/7a"
+            },
+            {
+                "type": "wav",
+                "file": "Taunt_yeti_chest_hit1",
+                "text": "[chest hit 1]",
+                "wiki": "3/3b"
+            },
+            {
+                "type": "wav",
+                "file": "Taunt_yeti_chest_hit2",
+                "text": "[chest hit 2]",
+                "wiki": "6/6d"
+            },
+            {
+                "type": "wav",
+                "file": "Taunt_yeti_chest_hit3",
+                "text": "[chest hit 3]",
+                "wiki": "4/49"
+            },
+            {
+                "type": "wav",
+                "file": "Taunt_yeti_chest_hit4",
+                "text": "[chest hit 4]",
+                "wiki": "9/92"
+            },
+            {
+                "type": "wav",
+                "file": "Taunt_yeti_chest_hit5",
+                "text": "[chest hit 5]",
+                "wiki": "c/c0"
+            },
+            {
+                "type": "wav",
+                "file": "Taunt_yeti_chest_hit6",
+                "text": "[chest hit 6]",
+                "wiki": "e/e4"
+            },
+            {
+                "type": "wav",
+                "file": "Taunt_yeti_chest_hit7",
+                "text": "[chest hit 7]",
+                "wiki": "f/f8"
+            },
+            {
+                "type": "wav",
+                "file": "Taunt_yeti_chest_hit8",
+                "text": "[chest hit 8]",
+                "wiki": "7/76"
+            },
+            {
+                "type": "wav",
+                "file": "Taunt_yeti_chest_hit9",
+                "text": "[chest hit 9]",
+                "wiki": "c/c6"
+            },
+            {
+                "type": "wav",
+                "file": "Taunt_yeti_roar_second",
+                "text": "[long roar 2]",
+                "wiki": "2/29"
+            },
+            {
+                "type": "wav",
+                "file": "Taunt_yeti_ground_pound",
+                "text": "[slamming the ground]",
+                "wiki": "c/ce"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_autoonfire02",
+                "text": "Mmmrgh!",
+                "wiki": "4/44"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_activatecharge01",
+                "text": "Hudda hudda huh!",
+                "wiki": "5/52"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_trade_02",
+                "text": "Media:pyro_trade_02.wav",
+                "wiki": "9/99"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_trade_06",
+                "text": "Media:pyro_trade_06.wav",
+                "wiki": "0/03"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_trade_09",
+                "text": "Media:pyro_trade_09.wav",
+                "wiki": "0/0b"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_trade_12",
+                "text": "Media:pyro_trade_12.wav",
+                "wiki": "d/d4"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_trade_15",
+                "text": "Media:pyro_trade_15.wav",
+                "wiki": "5/53"
+            },
+            {
+                "type": "wav",
+                "file": "Pyro_trade_17",
+                "text": "Media:pyro_trade_17.wav",
+                "wiki": "2/29"
+            }
+        ]
+    }
 }
