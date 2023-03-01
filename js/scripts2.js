@@ -32,10 +32,14 @@ $(document).ready(function () {
 
         let rows = [];
 
-        let quotes = array.filter(
-            caseSensitive
-                ? o => o.text.includes(tag)
-                : o => o.text.indexOf(tag) != -1);
+        let quotes = [];
+
+        if(caseSensitive){
+            quotes = array.filter(o => o.text.includes(tag));     
+        }else{
+            let lowerCaseWord = tag.toLowerCase();
+            quotes = array.filter((o) => o.text.toLowerCase().includes(lowerCaseWord));
+        } 
 
         for (let i = 0; i < quotes.length; i++)
             rows.push(printQuote(category, tag, quotes[i]));
@@ -63,8 +67,9 @@ $(document).ready(function () {
 
         var audio = `<div>
                         <audio controls='controls' preload='none' style='max-width: 100%; width: 180px;'>
-                            <source src=\"${src}\" type=\"audio/${data.type}\">
+                            <source src=\"${src}\" type=\"audio/${data.type}\">                            
                         </audio>
+                        <small class='text-center'><i>this audio is property of<br><a href="https://www.valvesoftware.com/" target="_blank">Valve Corporation</a></i></small>
                     </div>`;
 
         return createRow(category,word,highlightWord(word, data.text),audio,file);
@@ -146,7 +151,7 @@ $(document).ready(function () {
         let info_link = citation.split('|');
 
         if(info_link.length == 2){
-            return `<p>${info_link[0]} <a href='${info_link[1]}' target='_blank'>${info_link[1]}</a></p>`;
+            return `<p class='pt-2'>${info_link[0]} <a href='${info_link[1]}' target='_blank'>${info_link[1]}</a></p>`;
         }
     }
     function searchQuotes() {
@@ -163,7 +168,7 @@ $(document).ready(function () {
 
         if (!isValid(tags, commands, responses, taunts)) return;
 
-        Loading(true);
+        loading(true);
 
         //Search JSON for results
         $.getJSON("./json/" + $('#selCharacter').val(), function (data) {
@@ -171,6 +176,9 @@ $(document).ready(function () {
             let allQuotes = [];
             let caseSensitive = $('#rdbEnabled').is(':checked')
             
+            citations.push(`<p><i>All the audio content is the property of <a href="https://www.valvesoftware.com/" target="_blank">Valve Corporation</a></i></p>`);
+            
+            citations.push(`<p><i>All quotations are available at the following link(s):</i></p>`);
             if (commands) citations.push(formatCitation(data.character.citations.responses));
             if (responses) citations.push(formatCitation(data.character.citations.commands));
             if (taunts) citations.push(formatCitation(data.character.citations.taunts));
@@ -205,14 +213,14 @@ $(document).ready(function () {
                 var err = "Request Failed: " + textStatus.statusText;
                 console.log(error, textStatus, err);
                 toastr["error"](err);
-                Loading(false);
+                loading(false);
             })
             .always(function () {
                 divResults.html(wrapContent(tags.length > 1 ? "Words" : "Word", html.join("")));
                 divCitations.html(wrapContent("Citations",`<div class='text-center'>${citations.join("")}</div>`));
                 buildDataTable();
                 goToId(divResults);
-                Loading(false);
+                loading(false);
             });
     }
     function goToId(element) {
@@ -288,10 +296,10 @@ $(document).ready(function () {
         $("#userTags").focus();
     }
 
-    function Loading(isLoading) {
-        if (isLoading) {
+    function loading(isloading) {
+        if (isloading) {
             jSuites.loading.show();
-            $("#btnSearch").html("<span class=\"spinner-border spinner-border-sm\" role=\"status\" aria-hidden=\"true\"></span>&nbsp;Loading...");
+            $("#btnSearch").html("<span class=\"spinner-border spinner-border-sm\" role=\"status\" aria-hidden=\"true\"></span>&nbsp;loading...");
             $("#btnSearch").prop('disabled', true);
         } else {
             jSuites.loading.hide();
