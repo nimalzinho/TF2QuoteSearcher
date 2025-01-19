@@ -9,6 +9,7 @@ Try it out here: https://nimalzinho.github.io/TF2QuoteSearcher/
 All the audio content is the property of Valve Corporation https://www.valvesoftware.com/
 
 # Citations
+All the JSON files were created using the TF2 Wiki.
 
 "Scout responses." Team Fortress Wiki, . 15 Jan 2023, 18:42 UTC. 28 Feb 2023, 16:34  
 https://wiki.teamfortress.com/w/index.php?title=Scout_responses&oldid=3354962 
