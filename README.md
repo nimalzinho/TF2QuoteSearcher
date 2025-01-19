@@ -5,9 +5,10 @@ This is a simple site designed to help you with that. You can search for multipl
 
 Try it out here: https://nimalzinho.github.io/TF2QuoteSearcher/
 
-# Citations
-
+# Property
 All the audio content is the property of Valve Corporation https://www.valvesoftware.com/
+
+# Citations
 
 "Scout responses." Team Fortress Wiki, . 15 Jan 2023, 18:42 UTC. 28 Feb 2023, 16:34  
 https://wiki.teamfortress.com/w/index.php?title=Scout_responses&oldid=3354962 
