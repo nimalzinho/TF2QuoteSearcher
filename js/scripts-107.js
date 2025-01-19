@@ -330,9 +330,7 @@ $(document).ready(function () {
 
         html.attr('data-bs-theme', theme);
     }
-
     function setTheme(theme) {
         localStorage.setItem('theme', theme);
         applyTheme();
     }
-});
