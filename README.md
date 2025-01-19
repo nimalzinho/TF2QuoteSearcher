@@ -6,7 +6,7 @@ This is a simple site designed to help you with that. You can search for multipl
 Try it out here: https://nimalzinho.github.io/TF2QuoteSearcher/
 
 # Property
-All the audio content is the property of Valve Corporation https://www.valvesoftware.com/
+All the audio content and quotes are the property of Valve Corporation. https://www.valvesoftware.com/
 
 # Citations
 All the JSON files were created using the TF2 Wiki.
