@@ -128,7 +128,7 @@ $(document).ready(function () {
     }
     function isValid(tags, commands, responses, taunts) {
         if (!commands && !responses && !taunts) {
-            toastr["info"]("Select at least one category");
+            toastr["info"]("Please select at least one category to proceed.");
             return false;
         }
 
@@ -136,19 +136,19 @@ $(document).ready(function () {
             let word = tags[0].text.replaceAll(" ", "");
 
             if (word === "") {
-                toastr["info"]("Enter at least one word");
+                toastr["info"]("Please enter at least one word to continue.");
                 return false;
             }
         }
 
         if (tags.length > 200) {
-            toastr["info"]("You must enter less than 200 words");
+            toastr["info"]("The maximum word limit is 200. Please reduce the number of words.");
             return false;
         }
 
         for (let i = 0; i < tags.length; i++) {
             if (tags[i].text.length > 50) {
-                toastr["info"]("Words must be less than 50 characters each");
+                toastr["info"]("Each word must be less than 50 characters.");
                 return false;
             }
         }
@@ -278,9 +278,9 @@ $(document).ready(function () {
         }
 
         if (notSelected > 0) {
-            toastr["info"]("List generated, but not yet selected all the words.");
+            toastr["info"]("The list has been generated, but not all words have been selected yet.");
         } else {
-            toastr["success"]("List generated");
+            toastr["success"]("Your list has been generated successfully.");
         }
 
         let idTable = "generatedList";
