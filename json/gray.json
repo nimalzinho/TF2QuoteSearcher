@@ -1,0 +1,202 @@
+{
+    "character": {
+        "name": "gray",
+        "citations": {
+            "responses": "\"Versus Saxton Hale responses.\" Team Fortress Wiki, . 16 May 2026, 19:09 UTC. 7 Oct 2026, 03:22 |https://wiki.teamfortress.com/w/index.php?title=Versus_Saxton_Hale_responses&oldid=4196967",
+            "commands": "",
+            "taunts": ""
+        },
+        "responses": [
+            {
+                "type": "mp3",
+                "file": "Saxton_Hale_round_start_4saxton_01",
+                "text": "Welcome, Saxton Hale! To your doom!",
+                "wiki": "5/5b"
+            },
+            {
+                "type": "mp3",
+                "file": "Saxton_Hale_round_start_4saxton_02",
+                "text": "Saxton, I am the CEO of Mann Co. now! Get out of my property, or my mercenaries will force you out!",
+                "wiki": "e/e7"
+            },
+            {
+                "type": "mp3",
+                "file": "Saxton_Hale_round_start_4saxton_03",
+                "text": "We meet again, Saxton Hale! Too bad it'll be for the last time!",
+                "wiki": "5/5d"
+            },
+            {
+                "type": "mp3",
+                "file": "Saxton_Hale_round_start_4saxton_04",
+                "text": "Saxton Hale! You have been a thorn in my side for too long! It's time for me to end this, once and for all!",
+                "wiki": "5/5f"
+            },
+            {
+                "type": "mp3",
+                "file": "Saxton_Hale_round_start_4saxton_05",
+                "text": "We meet again, Saxton Hale! Too bad it'll be the last time...",
+                "wiki": "2/22"
+            },
+            {
+                "type": "mp3",
+                "file": "Saxton_Hale_round_start_long_03",
+                "text": "Attention, Mann Co. employees! I, Gray Mann, am the new CEO of Mann Co.! And I order you to get Hale out of my property!",
+                "wiki": "1/15"
+            },
+            {
+                "type": "mp3",
+                "file": "Saxton_Hale_round_start_long_04",
+                "text": "Attention, mercenaries! I, Gray Mann, am the rightful owner and CEO of Mann Co. — the company you're working for! And Saxton Hale is just an intruder! Get him out!",
+                "wiki": "a/a5"
+            },
+            {
+                "type": "mp3",
+                "file": "Saxton_Hale_round_start_long_05",
+                "text": "You all work for me now! Well, it's sort of a gray area. Heh heh. Get it? Gray area? Oh, that's funny.",
+                "wiki": "f/f5"
+            },
+            {
+                "type": "mp3",
+                "file": "Saxton_Hale_round_start_after_loss_01",
+                "text": "You were an embarrassment! Don't fail me this time!",
+                "wiki": "8/8d"
+            },
+            {
+                "type": "mp3",
+                "file": "Saxton_Hale_point_enabled_02",
+                "text": "The control point is enabled! Capture it!",
+                "wiki": "d/d6"
+            },
+            {
+                "type": "mp3",
+                "file": "Saxton_Hale_point_enabled_03",
+                "text": "Capture that control point!",
+                "wiki": "4/41"
+            },
+            {
+                "type": "mp3",
+                "file": "Saxton_Hale_point_enabled_04",
+                "text": "Capture that point before Hale kills you all!",
+                "wiki": "d/d2"
+            },
+            {
+                "type": "mp3",
+                "file": "Saxton_Hale_point_enabled_05",
+                "text": "Control point enabled!",
+                "wiki": "b/b8"
+            },
+            {
+                "type": "mp3",
+                "file": "Saxton_Hale_mercs_win_01",
+                "text": "I win? I win!",
+                "wiki": "0/04"
+            },
+            {
+                "type": "mp3",
+                "file": "Saxton_Hale_mercs_win_02",
+                "text": "Take that, Saxton Fail! [laughter]",
+                "wiki": "c/c7"
+            },
+            {
+                "type": "mp3",
+                "file": "Saxton_Hale_mercs_win_03",
+                "text": "I win!",
+                "wiki": "c/c8"
+            },
+            {
+                "type": "mp3",
+                "file": "Saxton_Hale_mercs_win_kill_06",
+                "text": "You've done it! You've eliminated the biggest threat to my Mann Co.! I have no use for you anymore. You're all fired!",
+                "wiki": "0/0c"
+            },
+            {
+                "type": "mp3",
+                "file": "Saxton_Hale_mercs_win_kill_07",
+                "text": "You've done it! You've eliminated the biggest threat to my Mann Co.! I have no use for you anymore. You're all fired!",
+                "wiki": "5/5b"
+            },
+            {
+                "type": "mp3",
+                "file": "Saxton_Hale_mercs_win_kill_10",
+                "text": "No hard feelings, Hale! [laughter]",
+                "wiki": "7/7b"
+            },
+            {
+                "type": "mp3",
+                "file": "Saxton_Hale_hale_win_07",
+                "text": "You're all useless idiots! You're fired!",
+                "wiki": "e/ea"
+            },
+            {
+                "type": "mp3",
+                "file": "Saxton_Hale_hale_win_08",
+                "text": "I'll get you, Saxton — if it's the last thing I do!",
+                "wiki": "1/15"
+            },
+            {
+                "type": "mp3",
+                "file": "Saxton_Hale_hale_win_09",
+                "text": "I'll get you, Saxton! Next time.",
+                "wiki": "d/dc"
+            },
+            {
+                "type": "mp3",
+                "file": "Saxton_Hale_hale_win_13",
+                "text": "How hard can it be to kill a single man?! You're fired!",
+                "wiki": "8/88"
+            },
+            {
+                "type": "mp3",
+                "file": "Saxton_Hale_hale_win_14",
+                "text": "You lost! Why did my useless brothers ever hire any of you?!",
+                "wiki": "e/e8"
+            },
+            {
+                "type": "mp3",
+                "file": "Saxton_Hale_hale_win_15",
+                "text": "You lose!",
+                "wiki": "4/41"
+            },
+            {
+                "type": "mp3",
+                "file": "Saxton_Hale_hale_win_16",
+                "text": "You lose!",
+                "wiki": "2/26"
+            },
+            {
+                "type": "mp3",
+                "file": "Saxton_Hale_hale_win_17",
+                "text": "Yooou loooose!",
+                "wiki": "e/e6"
+            },
+            {
+                "type": "mp3",
+                "file": "Saxton_Hale_hale_win_18",
+                "text": "You're all useless idiots! You're fired!",
+                "wiki": "f/fc"
+            },
+            {
+                "type": "mp3",
+                "file": "Saxton_Hale_bailout_09",
+                "text": "Saxton Hale has bailed out?! Ha-ha-ha! What a coward!",
+                "wiki": "e/e0"
+            }
+        ],
+        "commands": [
+            {
+                "type": "",
+                "file": "",
+                "text": "",
+                "wiki": ""
+            }
+        ],
+        "taunts": [
+            {
+                "type": "",
+                "file": "",
+                "text": "",
+                "wiki": ""
+            }
+        ]
+    }
+}

@@ -1,0 +1,4978 @@
+{
+    "character": {
+        "name": "administrator",
+        "citations": {
+            "responses": "\"Administrator responses.\" Team Fortress Wiki, . 15 Apr 2026, 14:32 UTC. 7 Oct 2026, 00:02 |https://wiki.teamfortress.com/w/index.php?title=Administrator_responses&oldid=4183402",
+            "commands": "",
+            "taunts": ""
+        },
+        "responses": [
+            {
+                "type": "wav",
+                "file": "Announcer_attack_controlpoints",
+                "text": "Prepare to attack the enemy's control points!",
+                "wiki": "d/d6"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_capture_controlpoints",
+                "text": "Prepare to capture all control points.",
+                "wiki": "4/49"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_begins_60sec",
+                "text": "Mission begins in sixty seconds.",
+                "wiki": "7/78"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_begins_30sec",
+                "text": "Mission begins in thirty seconds.",
+                "wiki": "4/4d"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_begins_10sec",
+                "text": "Mission begins in ten seconds.",
+                "wiki": "7/7e"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_begins_5sec",
+                "text": "Five.",
+                "wiki": "2/24"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_begins_4sec",
+                "text": "Four.",
+                "wiki": "8/8b"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_begins_3sec",
+                "text": "Three.",
+                "wiki": "3/31"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_begins_2sec",
+                "text": "Two.",
+                "wiki": "4/45"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_begins_1sec",
+                "text": "One.",
+                "wiki": "2/29"
+            },
+            {
+                "type": "mp3",
+                "file": "Announcer_ends_5min",
+                "text": "Attention! Five minutes left in the mission, five minutes left in the mission.",
+                "wiki": "f/fa"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_ends_2min",
+                "text": "Attention! Two minutes left in the mission, two minutes left in the mission.",
+                "wiki": "e/e4"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_ends_60sec",
+                "text": "Mission ends in sixty seconds.",
+                "wiki": "6/64"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_ends_30sec",
+                "text": "Mission ends in thirty seconds.",
+                "wiki": "7/74"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_ends_10sec",
+                "text": "Mission ends in ten seconds.",
+                "wiki": "3/3f"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_ends_5sec",
+                "text": "Five!",
+                "wiki": "7/75"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_ends_4sec",
+                "text": "Four!",
+                "wiki": "0/0e"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_ends_3sec",
+                "text": "Three!",
+                "wiki": "4/4e"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_ends_2sec",
+                "text": "Two!",
+                "wiki": "a/a3"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_ends_1sec",
+                "text": "One!",
+                "wiki": "e/e5"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_time_added",
+                "text": "Time has been added.",
+                "wiki": "3/38"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_time_added_enemy",
+                "text": "The enemy has received additional time.",
+                "wiki": "3/32"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_time_awarded",
+                "text": "Additional time has been awarded.",
+                "wiki": "a/ac"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_time_awarded_congrats",
+                "text": "Congratulations. We have been awarded additional time.",
+                "wiki": "a/ae"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_time_awarded_success",
+                "text": "Success. We have been awarded additional time.",
+                "wiki": "1/10"
+            },
+            {
+                "type": "wav",
+                "file": "Your_team_won",
+                "text": "Victory. (cheers)",
+                "wiki": "9/93"
+            },
+            {
+                "type": "wav",
+                "file": "Your_team_lost",
+                "text": "You've failed! (boos)",
+                "wiki": "3/3a"
+            },
+            {
+                "type": "wav",
+                "file": "Your_team_suddendeath",
+                "text": "You've failed. Prepare for sudden death! (outcry of disapproval)",
+                "wiki": "e/e9"
+            },
+            {
+                "type": "wav",
+                "file": "Your_team_stalemate",
+                "text": "You've failed. Stalemate. (outcry of disapproval)",
+                "wiki": "8/80"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_overtime",
+                "text": "Overtime.",
+                "wiki": "8/84"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_overtime2",
+                "text": "Overtime!",
+                "wiki": "2/2d"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_overtime3",
+                "text": "Overtime...",
+                "wiki": "c/cb"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_overtime4",
+                "text": "Overtime.",
+                "wiki": "7/7a"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_control_point_warning",
+                "text": "Alert! Our control point is being captured.",
+                "wiki": "6/69"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_control_point_warning2",
+                "text": "Alert! The control point is being contested.",
+                "wiki": "7/7f"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_control_point_warning3",
+                "text": "Alert! The control point is being captured.",
+                "wiki": "a/ab"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_capincite05",
+                "text": "Defend our control point!",
+                "wiki": "c/c1"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_capincite06",
+                "text": "Defend our control points!",
+                "wiki": "3/30"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_last_flag",
+                "text": "Alert! Our last control point is being captured.",
+                "wiki": "a/a1"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_last_flag2",
+                "text": "Alert! The final control point is being contested.",
+                "wiki": "0/0a"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_rocket_warnings11",
+                "text": "We are about to deploy the device!",
+                "wiki": "2/28"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_rocket_warnings09",
+                "text": "The enemy is about to deploy the device!",
+                "wiki": "f/fb"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_plr_racegeneral11",
+                "text": "They're coming into the final stretch!",
+                "wiki": "7/76"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_plr_racegeneral12",
+                "text": "You're coming into the final stretch!",
+                "wiki": "0/0b"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_we_captured_control",
+                "text": "We have captured the control point!",
+                "wiki": "9/91"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_we_secured_control",
+                "text": "We have secured the control point!",
+                "wiki": "f/fe"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_we_lost_control",
+                "text": "We have lost the control point!",
+                "wiki": "5/51"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_gamestarting01",
+                "text": "Get to the cart!",
+                "wiki": "a/ad"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_gamestarting02",
+                "text": "To the cart!",
+                "wiki": "6/68"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_gamestarting03",
+                "text": "Defend our cart!",
+                "wiki": "a/aa"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_cart_attacker_warning1",
+                "text": "The bomb is nearing a checkpoint.",
+                "wiki": "4/40"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_cart_attacker_warning2",
+                "text": "The bomb is nearing a checkpoint!",
+                "wiki": "a/af"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_cart_attacker_warning3",
+                "text": "The payload is nearing a checkpoint.",
+                "wiki": "2/20"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_cart_attacker_warning4",
+                "text": "The bomb is nearing a checkpoint!",
+                "wiki": "a/ab"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_cart_defender_warning1",
+                "text": "The payload is nearing a checkpoint.",
+                "wiki": "b/bd"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_cart_defender_warning2",
+                "text": "The payload is nearing a checkpoint!",
+                "wiki": "a/a5"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_cart_defender_warning3",
+                "text": "The cart is nearing a checkpoint.",
+                "wiki": "2/23"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_cart_defender_warning4",
+                "text": "The cart is nearing a checkpoint!",
+                "wiki": "e/ea"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_cart_defender_warning5",
+                "text": "The bomb is nearing a checkpoint.",
+                "wiki": "0/0d"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_cart_defender_warning6",
+                "text": "The bomb is nearing a checkpoint!",
+                "wiki": "8/84"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_cart_attacker_finalwarning1",
+                "text": "The bomb has almost reached the final terminus!",
+                "wiki": "6/6b"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_cart_attacker_finalwarning2",
+                "text": "The bomb has almost reached the final terminus!",
+                "wiki": "d/d3"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_cart_attacker_finalwarning3",
+                "text": "The payload has almost reached the final terminus!",
+                "wiki": "a/a6"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_cart_attacker_finalwarning4",
+                "text": "The payload has almost reached the final terminus!",
+                "wiki": "7/70"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_cart_attacker_finalwarning5",
+                "text": "The bomb has almost reached the final terminus! (Maniacal Laughter)",
+                "wiki": "b/be"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_cart_defender_finalwarning1",
+                "text": "The payload has almost reached the final terminus!",
+                "wiki": "7/79"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_cart_defender_finalwarning2",
+                "text": "The cart has almost reached the final terminus!",
+                "wiki": "f/f8"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_cart_defender_finalwarning3",
+                "text": "The cart has almost reached the final terminus!",
+                "wiki": "0/05"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_cart_defender_finalwarning4",
+                "text": "The bomb has almost reached the final terminus!",
+                "wiki": "8/8e"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_cart_defender_finalwarning5",
+                "text": "The cart has almost reached the final terminus!",
+                "wiki": "3/37"
+            },
+            {
+                "type": "wav",
+                "file": "Intel_teamstolen",
+                "text": "We have taken the enemy intelligence.",
+                "wiki": "a/a9"
+            },
+            {
+                "type": "wav",
+                "file": "Intel_enemystolen",
+                "text": "Alert! The enemy has taken our intelligence!",
+                "wiki": "4/49"
+            },
+            {
+                "type": "wav",
+                "file": "Intel_enemystolen2",
+                "text": "Alert! The enemy has taken our intelligence!",
+                "wiki": "f/f3"
+            },
+            {
+                "type": "wav",
+                "file": "Intel_enemystolen3",
+                "text": "Alert! The enemy has taken our intelligence!",
+                "wiki": "6/6a"
+            },
+            {
+                "type": "wav",
+                "file": "Intel_enemystolen4",
+                "text": "Alert! The enemy has taken our intelligence.",
+                "wiki": "3/3d"
+            },
+            {
+                "type": "wav",
+                "file": "Intel_teamcaptured",
+                "text": "Success! We have secured the enemy intelligence.",
+                "wiki": "1/18"
+            },
+            {
+                "type": "wav",
+                "file": "Intel_enemycaptured",
+                "text": "You've failed. The enemy has captured our intelligence.",
+                "wiki": "c/c6"
+            },
+            {
+                "type": "wav",
+                "file": "Intel_enemycaptured2",
+                "text": "You've failed. The enemy has secured our intelligence.",
+                "wiki": "4/47"
+            },
+            {
+                "type": "wav",
+                "file": "Intel_teamdropped",
+                "text": "We have dropped the enemy intelligence!",
+                "wiki": "6/68"
+            },
+            {
+                "type": "wav",
+                "file": "Intel_teamdropped2",
+                "text": "We have dropped the enemy intelligence.",
+                "wiki": "d/d3"
+            },
+            {
+                "type": "wav",
+                "file": "Intel_enemydropped",
+                "text": "The enemy has dropped our intelligence.",
+                "wiki": "d/dd"
+            },
+            {
+                "type": "wav",
+                "file": "Intel_enemydropped2",
+                "text": "The enemy has dropped our intelligence.",
+                "wiki": "1/14"
+            },
+            {
+                "type": "wav",
+                "file": "Intel_enemyreturned",
+                "text": "Our intelligence has returned to our base.",
+                "wiki": "3/36"
+            },
+            {
+                "type": "wav",
+                "file": "Intel_enemyreturned2",
+                "text": "Our intelligence has returned to our base.",
+                "wiki": "3/3b"
+            },
+            {
+                "type": "wav",
+                "file": "Intel_enemyreturned3",
+                "text": "Our intelligence has returned to our base.",
+                "wiki": "6/68"
+            },
+            {
+                "type": "wav",
+                "file": "Intel_teamreturned",
+                "text": "The enemy intelligence was returned to their base.",
+                "wiki": "5/51"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_gamestarting05",
+                "text": "Time to fight!",
+                "wiki": "c/cf"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_roundstart01",
+                "text": "Fight!",
+                "wiki": "a/a6"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_roundstart03",
+                "text": "Begin!",
+                "wiki": "0/01"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_roundstart04",
+                "text": "Fight to the death!",
+                "wiki": "a/a3"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_gamestarting04",
+                "text": "Let the games begin!",
+                "wiki": "9/99"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_teamscramble01",
+                "text": "Let's even this out. Team scramble!",
+                "wiki": "b/b9"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_teamscramble02",
+                "text": "Commence team scramble, now.",
+                "wiki": "8/89"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_teamscramble03",
+                "text": "Teams are being scrambled.",
+                "wiki": "c/cf"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_capenabled01",
+                "text": "Control point enabled.",
+                "wiki": "3/30"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_capenabled02",
+                "text": "The point is now available for capture.",
+                "wiki": "4/49"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_capenabled03",
+                "text": "Control point enabled, get going!",
+                "wiki": "f/fe"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_capenabled04",
+                "text": "Control point enabled, move!",
+                "wiki": "3/30"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_firstblood01",
+                "text": "First blood.",
+                "wiki": "b/b6"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_firstblood02",
+                "text": "First blood!",
+                "wiki": "2/22"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_firstblood04",
+                "text": "First blood!!",
+                "wiki": "f/f2"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_firstblood05",
+                "text": "First blood.",
+                "wiki": "1/16"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_firstblood06",
+                "text": "First Blood! That was fast!",
+                "wiki": "6/6a"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_firstblood03",
+                "text": "First blood, finally!",
+                "wiki": "9/98"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_flawlessdefeat01",
+                "text": "Flawless defeat!",
+                "wiki": "7/75"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_flawlessdefeat02",
+                "text": "Humiliating defeat!",
+                "wiki": "b/ba"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_flawlessdefeat03",
+                "text": "You didn't kill any of them!",
+                "wiki": "5/58"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_flawlessdefeat04",
+                "text": "Next time try killing one of them.",
+                "wiki": "f/fc"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_flawlessvictory01",
+                "text": "Flawless victory!",
+                "wiki": "1/17"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_flawlessvictory02",
+                "text": "Flawless victory, you did well! Finally.",
+                "wiki": "5/59"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_flawlessvictory03",
+                "text": "Flawless victory, now do it again!",
+                "wiki": "5/54"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_dec_missionbegins10s01",
+                "text": "Friendship ends in ten seconds.",
+                "wiki": "8/8b"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_dec_missionbegins30s01",
+                "text": "Friendship ends in thirty seconds.",
+                "wiki": "7/7c"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_dec_missionbegins30s02",
+                "text": "Betrayal will not be tolerated.",
+                "wiki": "c/cf"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_dec_missionbegins30s03",
+                "text": "You cannot hide anything from us, mercenaries. And now you will pay the price.",
+                "wiki": "e/e8"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_dec_missionbegins30s04",
+                "text": "All you ever do is disappoint and betray me. Cheating. Stealing. Friend-Making!",
+                "wiki": "0/09"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_dec_missionbegins30s05",
+                "text": "It's not too late to repent, kill your friend now and end this. Listen to your conscience!",
+                "wiki": "9/9f"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_dec_missionbegins30s06",
+                "text": "It's me or him, and I pay your salary. Make your choice!",
+                "wiki": "e/e3"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_dec_missionbegins60s01",
+                "text": "Alert! A friendship has been detected, and will be eliminated.",
+                "wiki": "c/ca"
+            },
+            {
+                "type": "mp3",
+                "file": "Announcer_dec_missionbegins60s02",
+                "text": "You cannot hide anything from us, mercenaries. And now you will pay the price.",
+                "wiki": "0/00"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_dec_missionbegins60s03",
+                "text": "Warning! A friendship has been detected!",
+                "wiki": "b/bf"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_dec_missionbegins60s04",
+                "text": "How could you betray me?!",
+                "wiki": "7/74"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_dec_missionbegins60s05",
+                "text": "Friendships are in direct contravention of mercenary conduct as delineated in your contracts; and on a personal note: I am very, very, disappointed with you.",
+                "wiki": "2/29"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_dec_missionbegins60s06",
+                "text": "I won't single any one of you out. I will just say that some of you have betrayed the trust of your employers...and because of that you must die. The rest of you are *cough* satisfactory.",
+                "wiki": "7/7b"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_dec_failure01",
+                "text": "You have failed me... with your friendships.",
+                "wiki": "7/79"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_dec_failure02",
+                "text": "You have betrayed my trust! You have betrayed everyone!",
+                "wiki": "f/f7"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_dec_success01",
+                "text": "Success! Despite your friendships.",
+                "wiki": "b/b5"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_dec_success02",
+                "text": "Success! No thanks to the 'best friends' among you.",
+                "wiki": "1/17"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_dec_kill01",
+                "text": "Yes, good.",
+                "wiki": "5/51"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_dec_kill02",
+                "text": "Yes, good!",
+                "wiki": "6/65"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_dec_kill03",
+                "text": "Yes, yes! More!",
+                "wiki": "7/7f"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_dec_kill04",
+                "text": "Yes, yes that's good!",
+                "wiki": "f/f9"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_dec_kill05",
+                "text": "Yes! Do it! Good!",
+                "wiki": "8/87"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_dec_kill06",
+                "text": "Yes, that's it!",
+                "wiki": "b/b5"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_dec_kill07",
+                "text": "Kill him, slaughter him like a dog!",
+                "wiki": "3/3a"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_dec_kill08",
+                "text": "Dominate him! Crush his bones to powder!",
+                "wiki": "e/ef"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_dec_kill09",
+                "text": "Kill him again, and again and AGAIN!",
+                "wiki": "6/6a"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_dec_kill10",
+                "text": "Good, good! Never forget, you work for me.",
+                "wiki": "b/b3"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_dec_kill11",
+                "text": "He is your enemy. Never forget that again!",
+                "wiki": "f/fe"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_dec_kill12",
+                "text": "You are not his friend. You are a killer!",
+                "wiki": "5/5d"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_dec_kill13",
+                "text": "Yes! Good!",
+                "wiki": "0/03"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_dec_kill14",
+                "text": "Yes, more!",
+                "wiki": "8/82"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_dec_kill15",
+                "text": "Yes! Good!",
+                "wiki": "a/a2"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_success",
+                "text": "Success!",
+                "wiki": "0/02"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_failure",
+                "text": "Failure.",
+                "wiki": "4/41"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_monkeynaut_start01",
+                "text": "Gentlemen, today we launch a monkey into space.",
+                "wiki": "6/60"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_monkeynaut_start02",
+                "text": "Gentlemen, let's launch that monkey.",
+                "wiki": "1/15"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_monkeynaut_start03",
+                "text": "Operation Monkeynaut is go!",
+                "wiki": "a/a0"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_monkeynaut_start04",
+                "text": "Gentlemen, find that Australium and today we make history!",
+                "wiki": "5/57"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_monkeynaut_start05",
+                "text": "Gentlemen, with our help, Poopy Joe will ride this rocket to the stars!",
+                "wiki": "3/39"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_monkeynaut_start06",
+                "text": "America has given us the monkey, and Mann Co. has provided the fuel. Let's put those two together and make history!",
+                "wiki": "8/82"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_round_start04",
+                "text": "The Australium will be available for pickup in forty-five seconds.",
+                "wiki": "f/f5"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_round_start05",
+                "text": "The Australium will be available for pickup in three, two, one.",
+                "wiki": "7/77"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_drop_site04",
+                "text": "The Australium is ready for pickup. Go!",
+                "wiki": "8/84"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_drop_site01",
+                "text": "The Australium has returned to the drop site.",
+                "wiki": "e/ef"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_possession01",
+                "text": "We have the Australium.",
+                "wiki": "f/ff"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_possession16",
+                "text": "We have the Australium.",
+                "wiki": "5/58"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_possession21",
+                "text": "We have taken the Australium.",
+                "wiki": "e/e2"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_possession24",
+                "text": "We have taken the Australium.",
+                "wiki": "8/80"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_possession03",
+                "text": "They have the Australium!",
+                "wiki": "3/35"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_possession07",
+                "text": "Alert! The enemy has taken Australium!",
+                "wiki": "9/9b"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_possession13",
+                "text": "They have the Australium!",
+                "wiki": "0/0f"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_possession25",
+                "text": "We have dropped the Australium!",
+                "wiki": "1/1a"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_possession28",
+                "text": "We have dropped the Australium!",
+                "wiki": "1/1d"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_possession10",
+                "text": "Alert! The enemy has dropped the Australium!",
+                "wiki": "5/5c"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_possession19",
+                "text": "Alert! The enemy has dropped the Australium.",
+                "wiki": "9/93"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_rocket_warnings02",
+                "text": "We are about to launch the rocket!",
+                "wiki": "1/1e"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_rocket_warnings05",
+                "text": "We are on the lift!",
+                "wiki": "4/43"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_rocket_warnings06",
+                "text": "We are opening the rocket!",
+                "wiki": "4/4e"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_rocket_warnings07",
+                "text": "We are about to launch the rocket!",
+                "wiki": "f/f8"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_rocket_warnings01",
+                "text": "The enemy is about to launch the rocket!",
+                "wiki": "7/7f"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_rocket_warnings03",
+                "text": "Hurry! The enemy is on the lift!",
+                "wiki": "1/1d"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_rocket_warnings04",
+                "text": "Hurry! The enemy is opening the rocket!",
+                "wiki": "0/05"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_rocket_warnings08",
+                "text": "Hurry! The enemy is about to launch the rocket!",
+                "wiki": "8/8b"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_generic_success_fail01",
+                "text": "Success. We have delivered the Australium.",
+                "wiki": "8/8b"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_generic_success_fail04",
+                "text": "No! The enemy has delivered the Australium.",
+                "wiki": "2/24"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_monkeynaut_end01",
+                "text": "Excellent! We have launched the rocket! We've--",
+                "wiki": "4/47"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_monkeynaut_end02",
+                "text": "Go, Poopy Joe! Soar to the heavens, soar--",
+                "wiki": "f/f8"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_monkeynaut_end03",
+                "text": "Go, Poopy Joe, soar! Kill Vladimir Bananas--",
+                "wiki": "3/36"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_monkeynaut_end04",
+                "text": "Yes, blow your little trumpet, Poopy Joe. For y--",
+                "wiki": "2/20"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_monkeynaut_end05",
+                "text": "Monkeynaut 1 is go! We've done it, we've--",
+                "wiki": "f/f2"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_monkeynaut_end06",
+                "text": "Ooh, that poor monkey..",
+                "wiki": "7/75"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_monkeynaut_end07",
+                "text": "One small step for one small monkey. One giant lea--",
+                "wiki": "c/cf"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_rocket_launch01",
+                "text": "We did it! We have launched the rocket!",
+                "wiki": "4/48"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_rocket_launch03",
+                "text": "Success! We have destroyed the enemy base!",
+                "wiki": "1/17"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_rocket_launch06",
+                "text": "Yes! Yes! We've launched the rocket!",
+                "wiki": "6/61"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_rocket_launch02",
+                "text": "You failed! The enemy has launched the rocket!",
+                "wiki": "9/9b"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_rocket_launch04",
+                "text": "You failed! The enemy has destroyed our base!",
+                "wiki": "c/c4"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_rocket_launch05",
+                "text": "Rocket launches in: Three...Two...One...",
+                "wiki": "0/01"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_rocket_launch07",
+                "text": "No! They've launched the rocket!",
+                "wiki": "7/76"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_monkeynaut_end_crash01",
+                "text": "Oh no.",
+                "wiki": "2/21"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_monkeynaut_end_crash02",
+                "text": "Oh, no. Gentlemen, this never happened.",
+                "wiki": "5/52"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_monkeynaut_end_crash03",
+                "text": "Uh-oh.",
+                "wiki": "5/59"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_monkeynaut_end_crash04",
+                "text": "Oh no. Poopy Joe, taken too soon.",
+                "wiki": "5/5e"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_get_to_upgrade01",
+                "text": "Get to an Upgrade Station before they return.",
+                "wiki": "4/46"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_get_to_upgrade02",
+                "text": "Get to an Upgrade Station.",
+                "wiki": "f/f9"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_get_to_upgrade03",
+                "text": "Get to an Upgrade Station and prepare for the next wave.",
+                "wiki": "4/43"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_get_to_upgrade04",
+                "text": "Get to an Upgrade Station.",
+                "wiki": "2/27"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_get_to_upgrade05",
+                "text": "Now find an Upgrade Station.",
+                "wiki": "e/ea"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_get_to_upgrade06",
+                "text": "Now get to an Upgrade Station.",
+                "wiki": "2/2e"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_get_to_upgrade07",
+                "text": "Now, head to an Upgrade Station.",
+                "wiki": "c/c7"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_get_to_upgrade08",
+                "text": "Quickly, find an Upgrade Station!",
+                "wiki": "6/6e"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_get_to_upgrade09",
+                "text": "Quickly, get to an Upgrade Station.",
+                "wiki": "9/9e"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_get_to_upgrade10",
+                "text": "Get to an Upgrade Station. Quickly!",
+                "wiki": "c/c7"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_get_to_upgrade11",
+                "text": "Hurry, get to an Upgrade Station!",
+                "wiki": "0/06"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_general_wav_start01",
+                "text": "Another wave of robots will attack in three, two, one.",
+                "wiki": "d/d3"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_general_wav_start02",
+                "text": "Incoming robot batallion in three, two, one.",
+                "wiki": "d/dd"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_general_wav_start03",
+                "text": "Robot attack imminent. Prepare for battle in three, two, one.",
+                "wiki": "5/5b"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_general_wav_start04",
+                "text": "The robots arrive in three, two, one.",
+                "wiki": "3/38"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_general_wav_start05",
+                "text": "They'll be upon us in three, two, one.",
+                "wiki": "6/61"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_general_wav_start06",
+                "text": "Wave starts in three, two, one.",
+                "wiki": "0/05"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_general_wav_start07",
+                "text": "Begin defending in three... two... one.",
+                "wiki": "c/c4"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_general_wav_start08",
+                "text": "The robots arrive in three, two, one.",
+                "wiki": "e/e4"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_firstwave_start01",
+                "text": "The first wave of robots is upon us.",
+                "wiki": "0/0d"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_firstwave_start02",
+                "text": "The first robot battalion is here.",
+                "wiki": "4/4e"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_firstwave_start03",
+                "text": "They're here! If they get that bomb to the hatchway, we're all done for!",
+                "wiki": "d/d8"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_firstwave_start04",
+                "text": "This is it. Do not fail me!",
+                "wiki": "3/3c"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_firstwave_start05",
+                "text": "The first wave of robots is here.",
+                "wiki": "5/5d"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_firstwave_start06",
+                "text": "The first wave of robots is here.",
+                "wiki": "5/5a"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_wave_start01",
+                "text": "We're under attack!",
+                "wiki": "0/0f"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_wave_start02",
+                "text": "We're under attack. Protect this facility!",
+                "wiki": "e/e6"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_wave_start03",
+                "text": "We're under attack. Protect the facility!",
+                "wiki": "6/6a"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_wave_start04",
+                "text": "Mann Co. is under attack.",
+                "wiki": "c/cc"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_wave_start05",
+                "text": "Mann Co. is under attack!",
+                "wiki": "2/23"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_wave_start06",
+                "text": "Mann Co. is under attack. You must defend it!",
+                "wiki": "0/0f"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_wave_start07",
+                "text": "Defend our honor! Kill these robots!",
+                "wiki": "d/d3"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_wave_start08",
+                "text": "The robots are here! Protect Mann Co.!",
+                "wiki": "6/6f"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_wave_start09",
+                "text": "The attack has started!",
+                "wiki": "8/89"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_wave_start10",
+                "text": "Here they come!",
+                "wiki": "c/cd"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_wave_start11",
+                "text": "Here they come!",
+                "wiki": "e/e7"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_wave_start12",
+                "text": "The robots are here! Protect Mann Co.! You owe me, Hale.",
+                "wiki": "2/29"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_wave_end01",
+                "text": "Another wave down. But there are more on the way.",
+                "wiki": "0/0e"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_wave_end02",
+                "text": "One wave down. But they'll be back.",
+                "wiki": "a/af"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_wave_end03",
+                "text": "Wave completed.",
+                "wiki": "9/96"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_wave_end04",
+                "text": "Wave defeated. Well done.",
+                "wiki": "d/d0"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_wave_end05",
+                "text": "Wave completed. Well done.",
+                "wiki": "d/d3"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_wave_end06",
+                "text": "You've defeated the wave. Good.",
+                "wiki": "7/72"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_wave_end07",
+                "text": "Wave completed. But we're not done yet.",
+                "wiki": "5/58"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_wave_end08",
+                "text": "You've beaten them back. For the moment.",
+                "wiki": "9/9a"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_final_wave_start01",
+                "text": "The last robot batallion is upon us. Fight!",
+                "wiki": "1/16"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_final_wave_start02",
+                "text": "Prepare yourselves! The last of the robots are here.",
+                "wiki": "b/b1"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_final_wave_start03",
+                "text": "This is it, the last wave. Defend the facility at all costs!",
+                "wiki": "e/ef"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_final_wave_start04",
+                "text": "The final wave is upon us!",
+                "wiki": "e/e1"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_final_wave_start05",
+                "text": "This is it! The final wave!",
+                "wiki": "1/14"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_final_wave_start06",
+                "text": "This is the final wave! Fight!",
+                "wiki": "2/2e"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_final_wave_start07",
+                "text": "This is the final wave!",
+                "wiki": "8/86"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_final_wave_start08",
+                "text": "This is it, the last wave! Do not fail now!",
+                "wiki": "5/55"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_final_wave_start09",
+                "text": "This is it, the last wave! Defend Mann Co. at all costs!",
+                "wiki": "f/fc"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_final_wave_start10",
+                "text": "This is the final wave! Do not fail me!",
+                "wiki": "7/70"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_final_wave_start11",
+                "text": "One more wave and we win!",
+                "wiki": "0/06"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_final_wave_start12",
+                "text": "This is the last wave! Fight!",
+                "wiki": "9/9e"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_final_wave_end01",
+                "text": "That's it! That's the last of them! You've done it, gentlemen!",
+                "wiki": "f/f3"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_final_wave_end02",
+                "text": "That's it! We win! You've done it, gentlemen.",
+                "wiki": "1/1d"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_final_wave_end03",
+                "text": "We win! We win it all!",
+                "wiki": "3/3e"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_final_wave_end04",
+                "text": "Flawless victory, gentlemen!",
+                "wiki": "b/b3"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_final_wave_end05",
+                "text": "You did it! You beat them!",
+                "wiki": "d/da"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_final_wave_end06",
+                "text": "You did it! I can't believe you actually beat them.",
+                "wiki": "8/88"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_wave_lose01",
+                "text": "Wave lost!",
+                "wiki": "8/8b"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_wave_lose02",
+                "text": "How could you let them beat us?!",
+                "wiki": "e/e7"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_wave_lose03",
+                "text": "Wave lost, how could you?!",
+                "wiki": "2/28"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_wave_lose04",
+                "text": "They're beating us! Fight harder!",
+                "wiki": "f/f0"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_wave_lose05",
+                "text": "Wave lost. Get back out there and win this time!",
+                "wiki": "b/bf"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_wave_lose06",
+                "text": "Get back out there and fight harder!",
+                "wiki": "a/a0"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_wave_lose07",
+                "text": "Wave lost. I'm running out of patience!",
+                "wiki": "c/c4"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_wave_lose08",
+                "text": "You've lost the wave. Perhaps I should just hire them!",
+                "wiki": "1/1d"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_wave_lose09",
+                "text": "Wave lost.",
+                "wiki": "1/10"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_wave_lose10",
+                "text": "Wave lost!",
+                "wiki": "7/7d"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_wave_lose11",
+                "text": "They're beating us!",
+                "wiki": "3/3b"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_wave_lose12",
+                "text": "Wave lost! You imbeciles.",
+                "wiki": "1/18"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_all_dead01",
+                "text": "You're all dead!",
+                "wiki": "b/bd"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_all_dead02",
+                "text": "How could you all die at once?",
+                "wiki": "2/22"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_all_dead03",
+                "text": "Do not all die at once!",
+                "wiki": "1/1e"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_bonus01",
+                "text": "I'm giving you a bonus.",
+                "wiki": "5/58"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_bonus02",
+                "text": "Good. I'm giving you a bonus.",
+                "wiki": "6/69"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_bonus03",
+                "text": "Greed is good. Have a bonus.",
+                "wiki": "4/4e"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_another_bomb01",
+                "text": "The robots have picked up the bomb.",
+                "wiki": "3/30"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_another_bomb02",
+                "text": "The robots are moving the bomb forward again!",
+                "wiki": "a/ae"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_another_bomb03",
+                "text": "The robots have recovered the bomb.",
+                "wiki": "4/4e"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_another_bomb04",
+                "text": "The robots are bringing out another bomb.",
+                "wiki": "6/60"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_another_bomb05",
+                "text": "Another bomb is com--",
+                "wiki": "f/fc"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_another_bomb06",
+                "text": "Incoming! Another bomb is here!",
+                "wiki": "1/15"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_another_bomb07",
+                "text": "They're bringing out another bomb!",
+                "wiki": "4/44"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_another_bomb08",
+                "text": "Another bomb is in the facility.",
+                "wiki": "f/ff"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_bomb_alerts01",
+                "text": "Alert! A bomb has entered the area.",
+                "wiki": "9/9b"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_bomb_alerts02",
+                "text": "Alert! A bomb has entered the area.",
+                "wiki": "9/9d"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_bomb_alerts03",
+                "text": "Alert! The bomb is almost to the hatch.",
+                "wiki": "4/4b"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_bomb_alerts04",
+                "text": "Alert! Do not let the bomb get to the hatch!",
+                "wiki": "d/d3"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_bomb_alerts05",
+                "text": "Alert! The bomb is about to be deployed.",
+                "wiki": "6/6a"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_bomb_alerts06",
+                "text": "Alert! The tank is deploying its bomb.",
+                "wiki": "5/5a"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_bomb_alerts07",
+                "text": "Alert! The tank is deploying its bomb!",
+                "wiki": "6/61"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_bomb_alerts08",
+                "text": "Alert! They're deploying the bomb!",
+                "wiki": "8/81"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_bomb_alerts09",
+                "text": "Alert! They're deploying the bomb.",
+                "wiki": "2/21"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_bomb_alerts10",
+                "text": "Alert! They're deploying the bomb. Stop them!",
+                "wiki": "4/47"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_bomb_alerts11",
+                "text": "Stop them from deploying the bomb. Stop them!",
+                "wiki": "8/83"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_bomb_alerts12",
+                "text": "Alert! Stop them from deploying the bomb!",
+                "wiki": "4/44"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_bomb_alerts13",
+                "text": "Alert! If they deploy the bomb, all is lost!",
+                "wiki": "e/ef"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_bomb_alerts14",
+                "text": "Alert! If they deploy the bomb, all is lost!",
+                "wiki": "2/2d"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_robots_planted01",
+                "text": "The robots have planted their bomb!",
+                "wiki": "a/ab"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_bomb_back01",
+                "text": "Yes! You've driven the bomb carrier back!",
+                "wiki": "4/4a"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_bomb_back02",
+                "text": "Yes! The bomb has been set back to the start!",
+                "wiki": "9/97"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_bomb_reset01",
+                "text": "You've driven the bomb carrier back.",
+                "wiki": "1/18"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_bomb_reset02",
+                "text": "You've driven the bomb back.",
+                "wiki": "e/e0"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_bomb_reset03",
+                "text": "You've driven the bomb carrier back.",
+                "wiki": "c/cd"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_tank_alerts01",
+                "text": "Tank! Kill it!",
+                "wiki": "8/8f"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_tank_alerts02",
+                "text": "Alert! A tank has entered the area!",
+                "wiki": "c/c8"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_tank_alerts03",
+                "text": "Alert! Another tank has entered the area!",
+                "wiki": "d/d7"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_tank_alerts04",
+                "text": "Alert! Another tank has entered the area!",
+                "wiki": "9/94"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_tank_alerts05",
+                "text": "Alert! The tank is half-way through!",
+                "wiki": "5/5a"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_tank_alerts06",
+                "text": "Alert! The tank is almost to the hatch!",
+                "wiki": "d/d7"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_tank_alerts07",
+                "text": "The tank is almost to the hatch! Stop it!",
+                "wiki": "2/20"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_tank_alerts08",
+                "text": "Stop that tank!",
+                "wiki": "c/c1"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_tank_alerts09",
+                "text": "Multiple tanks! Stop them!",
+                "wiki": "f/f3"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_tank_alerts10",
+                "text": "Alert! There are multiple tanks!",
+                "wiki": "5/56"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_tank_alerts11",
+                "text": "Alert! There are multiple tanks!",
+                "wiki": "0/08"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_tank_alerts12",
+                "text": "Stop those tanks!",
+                "wiki": "d/d2"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_tank_planted01",
+                "text": "The tank has planted its bomb!",
+                "wiki": "f/f9"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_tank_planted02",
+                "text": "The tank has planted its bomb!",
+                "wiki": "d/d5"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_general_destruction01",
+                "text": "Yes!",
+                "wiki": "6/6d"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_general_destruction02",
+                "text": "Excellent!",
+                "wiki": "c/cc"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_general_destruction03",
+                "text": "Bwahahaha, you did it! You did it!",
+                "wiki": "3/3b"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_general_destruction04",
+                "text": "(triumphant laughter)",
+                "wiki": "5/5a"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_general_destruction05",
+                "text": "Destroy them!",
+                "wiki": "b/b8"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_general_destruction06",
+                "text": "Turn them into scrap!",
+                "wiki": "4/4e"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_general_destruction07",
+                "text": "Yes! Destroy them, destroy all of them!",
+                "wiki": "9/91"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_general_destruction08",
+                "text": "Yes, kill them all!",
+                "wiki": "8/8e"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_general_destruction09",
+                "text": "Destroy them!",
+                "wiki": "8/8d"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_general_destruction10",
+                "text": "Destroy them!",
+                "wiki": "e/e7"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_general_destruction11",
+                "text": "Destroy them! Turn them into scrap!",
+                "wiki": "8/80"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_general_destruction12",
+                "text": "Yes, yes, kill them all!",
+                "wiki": "8/8c"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_general_destruction13",
+                "text": "Yes, break them! Break their metal bones!",
+                "wiki": "7/76"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_sentry_buster_alerts01",
+                "text": "Alert! A Sentry Buster has entered the area!",
+                "wiki": "0/0d"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_sentry_buster_alerts02",
+                "text": "Alert! Another Sentry Buster has entered the area!",
+                "wiki": "4/4a"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_sentry_buster_alerts03",
+                "text": "Alert! Another Sentry Buster has entered the area!",
+                "wiki": "d/d1"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_sentry_buster_alerts04",
+                "text": "Heads up, Engineers! A Sentry Buster has entered the area!",
+                "wiki": "5/57"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_sentry_buster_alerts05",
+                "text": "Attention, Engineers! We've got a Sentry Buster!",
+                "wiki": "3/3d"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_sentry_buster_alerts06",
+                "text": "Engineers, look out for that Sentry Buster!",
+                "wiki": "0/00"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_sentry_buster_alerts07",
+                "text": "Engineers, look out for that Sentry Buster!",
+                "wiki": "7/7d"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_spy_spawn01",
+                "text": "Here come the Spies!",
+                "wiki": "2/24"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_spy_spawn02",
+                "text": "Incoming Spies.",
+                "wiki": "a/a6"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_spy_spawn03",
+                "text": "Alert! There are Spies coming.",
+                "wiki": "2/2e"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_spy_spawn04",
+                "text": "The Spies are here!",
+                "wiki": "8/8f"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_spybot_death01",
+                "text": "You have killed a Spy!",
+                "wiki": "9/97"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_spybot_death02",
+                "text": "You have killed a Spy-bot!",
+                "wiki": "b/be"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_spybot_death03",
+                "text": "Spy-bot destroyed!",
+                "wiki": "0/0f"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_spybot_death04",
+                "text": "All Spy-bots destroyed!",
+                "wiki": "7/73"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_spybot_death05",
+                "text": "You have killed all the Spies.",
+                "wiki": "3/36"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_spybot_death06",
+                "text": "You have destroyed all Spy-bots!",
+                "wiki": "4/4d"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_spybot_death07",
+                "text": "You have destroyed all Spy-bots!",
+                "wiki": "5/50"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_spybot_death08",
+                "text": "Six Spy-bots remain.",
+                "wiki": "f/f1"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_spybot_death09",
+                "text": "Five Spy-bots remain.",
+                "wiki": "0/08"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_spybot_death10",
+                "text": "Four Spy-bots remain.",
+                "wiki": "0/04"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_spybot_death11",
+                "text": "Three Spy-bots remain.",
+                "wiki": "3/34"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_spybot_death12",
+                "text": "Two Spy-bots remain.",
+                "wiki": "8/87"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_spybot_death13",
+                "text": "Only one Spy-bot remains!",
+                "wiki": "f/fe"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_mvm_engbot_arrive01",
+                "text": "An Engineer-bot has appeared!",
+                "wiki": "5/59"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_mvm_engbot_arrive02",
+                "text": "An Engineer-bot has teleported in!",
+                "wiki": "4/4e"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_mvm_engbot_arrive03",
+                "text": "An Engineer-bot has appeared! Destroy it before it builds a Teleporter!",
+                "wiki": "d/d0"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_mvm_engbot_another01",
+                "text": "Another Engineer-bot has appeared!",
+                "wiki": "4/48"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_mvm_engbot_another02",
+                "text": "Another Engineer-bot has teleported in!",
+                "wiki": "a/a9"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_mvm_engbot_dead_notele01",
+                "text": "The Engineer-bot is dead. Excellent work.",
+                "wiki": "3/32"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_mvm_engbot_dead_notele02",
+                "text": "Engineer-bot terminated.",
+                "wiki": "a/a3"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_mvm_engbot_dead_notele03",
+                "text": "Engineer-bot terminated. Good work.",
+                "wiki": "c/cd"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_mvm_engbot_dead_tele01",
+                "text": "The Engineer-bot is dead, but there's still an active Teleporter.",
+                "wiki": "2/2e"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_mvm_engbot_dead_tele02",
+                "text": "Engineer-bot destroyed, now take down its Teleporter!",
+                "wiki": "7/79"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_mvm_engbots_arrive01",
+                "text": "Multiple Engineer-bots have teleported in!",
+                "wiki": "5/54"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_mvm_engbots_arrive02",
+                "text": "Multiple Engineer-bots have appeared! Destroy them, before they build Teleporters!",
+                "wiki": "2/26"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_mvm_engbots_dead_notele01",
+                "text": "Engineer-bots destroyed! Good!",
+                "wiki": "c/c1"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_mvm_engbots_dead_notele02",
+                "text": "Engineer-bots destroyed! Good work!",
+                "wiki": "c/ca"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_mvm_engbots_dead_tele01",
+                "text": "The Engineer-bots are dead, but there's still an active Teleporter!",
+                "wiki": "f/f1"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_mvm_engbots_dead_tele02",
+                "text": "Engineer-bots destroyed, now take down their Teleporters!",
+                "wiki": "2/22"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_mvm_eng_tele_activated01",
+                "text": "Robot Teleporter activated!",
+                "wiki": "9/94"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_mvm_eng_tele_activated02",
+                "text": "The robots have installed a Teleporter!",
+                "wiki": "a/a2"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_mvm_eng_tele_activated03",
+                "text": "Enemy Teleporter activated! Destroy it!",
+                "wiki": "e/ee"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_mvm_eng_tele_activated04",
+                "text": "Robot Teleporter activated! Destroy it!",
+                "wiki": "6/6b"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_mvm_eng_tele_activated05",
+                "text": "Robot Teleporter activated!",
+                "wiki": "6/63"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_mann_up_mode01",
+                "text": "Welcome, lambs, to the slaughter!",
+                "wiki": "4/46"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_mann_up_mode02",
+                "text": "Mann Up Mode activated! I won't lie to you: you're going to die!",
+                "wiki": "f/fe"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_mann_up_mode03",
+                "text": "Mann Up Mode activated... What were you thinking?!",
+                "wiki": "2/21"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_mann_up_mode04",
+                "text": "If you have any loved ones, say goodbye to them now.",
+                "wiki": "4/41"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_mann_up_mode05",
+                "text": "I hope your affairs are in order.",
+                "wiki": "b/b1"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_mann_up_mode06",
+                "text": "Get ready to Mann Up!",
+                "wiki": "b/b8"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_mann_up_mode07",
+                "text": "Congratulations on Manning Up. Prepare to die.",
+                "wiki": "2/2a"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_mann_up_mode08",
+                "text": "Mann Up Mode activated!",
+                "wiki": "c/cf"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_mann_up_mode09",
+                "text": "You have activated Mann Up Mode... You poor fools.",
+                "wiki": "0/02"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_mann_up_mode10",
+                "text": "Mann Up Mode has been activated!",
+                "wiki": "3/35"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_mann_up_mode11",
+                "text": "Welcome to Mann Up Mode.",
+                "wiki": "a/a7"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_mann_up_mode12",
+                "text": "You have just Manned Up.",
+                "wiki": "d/d2"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_mann_up_mode13",
+                "text": "Brace yourselves for Mann Up Mode.",
+                "wiki": "6/6e"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_mann_up_mode14",
+                "text": "Mann Up Mode activated.",
+                "wiki": "b/b8"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_mann_up_mode15",
+                "text": "Mann Up Mode activated! (diabolical laughter)",
+                "wiki": "4/4d"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_manned_up01",
+                "text": "Congratulations. You've certainly Manned Up for this one.",
+                "wiki": "2/2f"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_manned_up02",
+                "text": "Well done. You've all made Saxton proud.",
+                "wiki": "a/a0"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_manned_up03",
+                "text": "Well done. You've all Manned Up.",
+                "wiki": "9/97"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_mannup_wave_end01",
+                "text": "That was an exceptional victory!",
+                "wiki": "b/bf"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_mannup_wave_end02",
+                "text": "You win! This was truly above and beyond the call of duty!",
+                "wiki": "7/75"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_security_alert",
+                "text": "Security alert!",
+                "wiki": "3/3b"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_security_warning",
+                "text": "Security warning!",
+                "wiki": "2/23"
+            },
+            {
+                "type": "mp3",
+                "file": "Intel_teamcaptured_excited",
+                "text": "(Metal guitar, cheering) Success! We have captured the enemy intelligence.",
+                "wiki": "a/a2"
+            },
+            {
+                "type": "mp3",
+                "file": "Intel_teamcaptured_excited2",
+                "text": "(Metal guitar, cheering) Success! We have secured the enemy intelligence.",
+                "wiki": "d/d1"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_ks_19",
+                "text": "Kill them! Slaughter them like dogs!",
+                "wiki": "6/67"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_ks_26",
+                "text": "Dominate them! Crush them! Destroy them all!",
+                "wiki": "7/7a"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_map_intro_02",
+                "text": "You must destroy the enemy's robots and collect their reactor cores to win. Retrieve stolen power cores by invading the Enemy Vault.",
+                "wiki": "0/09"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_captureflag_enemystolen_01",
+                "text": "Alert! The enemy has stolen our core!",
+                "wiki": "a/aa"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_captureflag_enemystolen_02",
+                "text": "ALERT! Our core has been taken!",
+                "wiki": "e/ea"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_captureflag_teamstolen_01",
+                "text": "We have taken the enemy reactor core!",
+                "wiki": "3/38"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_captureflag_teamstolen_02",
+                "text": "We have the enemy's core!",
+                "wiki": "e/e7"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_captureflag_teamstolen_03",
+                "text": "Yes! We have taken the enemy reactor core!",
+                "wiki": "7/7d"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_captureflag_enemycaptured_01",
+                "text": "The enemy has captured our reactor core!",
+                "wiki": "2/20"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_captureflag_teamcaptured_01",
+                "text": "Excellent! We have captured the enemy reactor core!",
+                "wiki": "6/65"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_captureflag_teamcaptured_02",
+                "text": "Good! We have the core!",
+                "wiki": "6/64"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_captureflag_enemydropped_01",
+                "text": "The enemy has dropped our reactor core!",
+                "wiki": "a/a0"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_captureflag_enemydropped_02",
+                "text": "The enemy has dropped our core!",
+                "wiki": "3/37"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_captureflag_teamdropped_01",
+                "text": "Noo! We've lost the reactor core!",
+                "wiki": "0/07"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_captureflag_teamdropped_04",
+                "text": "You imbeciles! You've dropped the enemy reactor core!",
+                "wiki": "c/c7"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_captureflag_teamdropped_07",
+                "text": "Alert! We've lost the reactor core!",
+                "wiki": "0/0b"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_captureflag_teamdropped_08",
+                "text": "Alert! We've dropped the enemy reactor core!",
+                "wiki": "6/66"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_captureflag_teamreturned_01",
+                "text": "The enemy reactor core has returned to their vault!",
+                "wiki": "a/a3"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_captureflag_teamreturned_02",
+                "text": "The enemy's core is back in their vault!",
+                "wiki": "3/30"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_captureflag_enemyreturned_01",
+                "text": "Our reactor core has returned to our vault!",
+                "wiki": "2/26"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_captureflag_enemyreturned_02",
+                "text": "The core has been returned to our vault!",
+                "wiki": "3/33"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_captureflag_enemyreturned_03",
+                "text": "The reactor core is back in our vault!",
+                "wiki": "b/be"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_captureflag_enemyreturned_04",
+                "text": "The reactor core has returned to our vault!",
+                "wiki": "6/69"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_map.enemyclosetowinning_01",
+                "text": "The enemy team's reactor is almost online!",
+                "wiki": "0/0e"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_map.enemyclosetowinning_02",
+                "text": "No! The enemy's reactor is almost up!",
+                "wiki": "d/d1"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_map.enemyclosetowinning_03",
+                "text": "The enemy's reactor is almost up!",
+                "wiki": "b/b7"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_map.enemyclosetowinning_05",
+                "text": "Hurry! The enemy's reactor is almost up!",
+                "wiki": "5/5d"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_map.teamclosetowinning_01",
+                "text": "Our reactor is almost online!",
+                "wiki": "d/de"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_map.teamclosetowinning_02",
+                "text": "Yes! Our reactor is almost up!",
+                "wiki": "d/de"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_map.teamclosetowinning_03",
+                "text": "Our reactor is almost up!",
+                "wiki": "b/bd"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_captureflag_miscspace_01",
+                "text": "Protect your robots!",
+                "wiki": "c/c0"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_captureflag_miscspace_02",
+                "text": "Protect your reactor!",
+                "wiki": "d/d1"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_captureflag_miscspace_03",
+                "text": "Destroy the enemy robots!",
+                "wiki": "2/2d"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_captureflag_miscspace_04",
+                "text": "You must destroy the enemy robots!",
+                "wiki": "6/65"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_captureflag_miscspace_05",
+                "text": "Quickly! Steal the enemy's reactor!",
+                "wiki": "7/79"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_captureflag_miscspace_06",
+                "text": "Hurry! Steal all the enemy's reactor!",
+                "wiki": "7/71"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_captureflag_miscspace_07",
+                "text": "Now! Steal their reactor core!",
+                "wiki": "b/b8"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_captureflag_miscspace_08",
+                "text": "The launch is imminent!",
+                "wiki": "6/61"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_captureflag_miscspace_09",
+                "text": "We must launch that shuttle!",
+                "wiki": "c/cb"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_captureflag_miscspace_10",
+                "text": "We must launch that missile!",
+                "wiki": "a/a4"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_captureflag_miscspace_11",
+                "text": "We must launch that transport ship!",
+                "wiki": "b/b9"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_captureflag_miscspace_12",
+                "text": "We must stop that launch!",
+                "wiki": "d/d6"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_captureflag_miscspace_13",
+                "text": "We need to stop their ship from launching!",
+                "wiki": "f/f2"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_captureflag_miscspace_14",
+                "text": "We need to stop their missile from launching!",
+                "wiki": "e/e1"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_captureflag_miscspace_15",
+                "text": "You must protect the reactor to win!",
+                "wiki": "8/8b"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_captureflag_miscspace_16",
+                "text": "Your reactor is charging! Protect it!",
+                "wiki": "1/14"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_captureflag_miscspace_17",
+                "text": "The enemy's reactor is charging! Take it!",
+                "wiki": "6/65"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_captureflag_miscspace_18",
+                "text": "The enemy's reactor is charging! Take it before it's too late!",
+                "wiki": "c/c1"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_captureflag_miscspace_19",
+                "text": "We're running out of time!",
+                "wiki": "5/55"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_compbegins60_01",
+                "text": "Competition begins in sixty seconds.",
+                "wiki": "b/b1"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_compbegins60_02",
+                "text": "Prepare to compete in sixty seconds.",
+                "wiki": "3/3e"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_compbegins30_01",
+                "text": "Competition begins in thirty seconds.",
+                "wiki": "2/21"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_compbegins30_02",
+                "text": "Prepare to compete in thirty seconds.",
+                "wiki": "9/9c"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_compbegins10_01",
+                "text": "Competition begins in ten seconds.",
+                "wiki": "0/0b"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_compbegins10_02",
+                "text": "Prepare to compete in ten seconds.",
+                "wiki": "b/be"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_compbegins10_rare_01",
+                "text": "Get ready.",
+                "wiki": "3/37"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_compbegins10_rare_02",
+                "text": "Get ready!",
+                "wiki": "5/59"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_compbegins10_rare_03",
+                "text": "Are you ready?",
+                "wiki": "f/fd"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_compbegins05",
+                "text": "Five.",
+                "wiki": "7/7e"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_compbegins04",
+                "text": "Four.",
+                "wiki": "b/b3"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_compbegins03",
+                "text": "Three.",
+                "wiki": "7/7e"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_compbegins02",
+                "text": "Two.",
+                "wiki": "4/42"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_compbegins01",
+                "text": "One.",
+                "wiki": "a/ae"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_compfinalstart_01",
+                "text": "Tiebreaker!",
+                "wiki": "2/21"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_compfinalstart_02",
+                "text": "May the best team win!",
+                "wiki": "1/15"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_compfinalstart_03",
+                "text": "Final round!",
+                "wiki": "f/f3"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_compfinalstart_04",
+                "text": "Final round!",
+                "wiki": "e/e7"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_compfinalstart_05",
+                "text": "This game decides everything!",
+                "wiki": "6/6b"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_compfinalstart_06",
+                "text": "Last chance to win it all!",
+                "wiki": "4/44"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_tiegame_01",
+                "text": "The game is tied!",
+                "wiki": "d/dc"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_tiegame_02",
+                "text": "Tied game!",
+                "wiki": "8/8c"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_tiegame_03",
+                "text": "The game is tied!",
+                "wiki": "f/f5"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_compbeginsstart_01",
+                "text": "Go!",
+                "wiki": "b/b5"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_compbeginsstart_02",
+                "text": "Fight!",
+                "wiki": "7/79"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_compbeginsstart_03",
+                "text": "Fight!",
+                "wiki": "2/2e"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_compbeginsstart_04",
+                "text": "Fight!",
+                "wiki": "2/2e"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_compbeginsstart_05",
+                "text": "FIGHT!",
+                "wiki": "1/1e"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_compbeginsstart_06",
+                "text": "Get fighting!",
+                "wiki": "7/76"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_compbeginsstart_07",
+                "text": "Get fighting already!",
+                "wiki": "5/5d"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_round_start_01",
+                "text": "Go!",
+                "wiki": "0/02"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_round_start_02",
+                "text": "Go, go, go!",
+                "wiki": "7/74"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_round_start_03",
+                "text": "Kill!",
+                "wiki": "7/70"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_round_start_04",
+                "text": "Begin!",
+                "wiki": "d/d0"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_round_start_05",
+                "text": "Move!",
+                "wiki": "d/d9"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_round_start_06",
+                "text": "Good luck!",
+                "wiki": "e/e3"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_round_start_07",
+                "text": "Get out there!",
+                "wiki": "0/0c"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_round_start_08",
+                "text": "Get going!",
+                "wiki": "d/d6"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_round_start_09",
+                "text": "Get moving!",
+                "wiki": "7/7e"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_round_start_10",
+                "text": "Start fighting!",
+                "wiki": "3/3d"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_round_start_11",
+                "text": "Get moving!",
+                "wiki": "0/00"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_round_start_01",
+                "text": "Go!",
+                "wiki": "0/02"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_teamwipe_01",
+                "text": "Teamwipe!",
+                "wiki": "6/63"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_teamwipe_02",
+                "text": "Teamwipe!",
+                "wiki": "5/5c"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_teamwipe_03",
+                "text": "Teamwipe!",
+                "wiki": "6/6a"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_teamwipe_04",
+                "text": "Teamwipe!",
+                "wiki": "c/c2"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_teamwipe_05",
+                "text": "You've killed them all!",
+                "wiki": "b/b8"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_teamwipe_12",
+                "text": "Yes! You've killed all of them!",
+                "wiki": "7/72"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_teamwipe_13",
+                "text": "You've killed them all!",
+                "wiki": "3/35"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_teamwipe_14",
+                "text": "Teamwipe! You've killed them all!",
+                "wiki": "8/86"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_teamwipe_06",
+                "text": "RED team has been wiped out!",
+                "wiki": "7/70"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_teamwipe_08",
+                "text": "RED is dead!",
+                "wiki": "b/bf"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_teamwipe_07",
+                "text": "BLU team has been wiped out!",
+                "wiki": "f/fe"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_teamwipe_10",
+                "text": "BLU is through!",
+                "wiki": "c/c2"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_killstreak_01",
+                "text": "RED's on a killing spree!",
+                "wiki": "b/b4"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_killstreak_02",
+                "text": "RED's on a killstreak!",
+                "wiki": "e/ea"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_killstreak_03",
+                "text": "RED is on a rampage!",
+                "wiki": "b/b4"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_killstreak_04",
+                "text": "RED cannot be stopped!",
+                "wiki": "4/40"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_killstreak_05",
+                "text": "RED is unstoppable!",
+                "wiki": "3/37"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_killstreak_06",
+                "text": "RED is godlike!",
+                "wiki": "b/b1"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_killstreak_07",
+                "text": "RED is on a killstreak!",
+                "wiki": "e/e1"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_killstreak_08",
+                "text": "BLU is on a killing spree!",
+                "wiki": "d/d8"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_killstreak_09",
+                "text": "BLU is on a rampage!",
+                "wiki": "3/34"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_killstreak_10",
+                "text": "BLU cannot be stopped!",
+                "wiki": "0/0a"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_killstreak_11",
+                "text": "BLU is unstoppable!",
+                "wiki": "9/95"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_killstreak_12",
+                "text": "BLU is godlike!",
+                "wiki": "f/f2"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_misc_01",
+                "text": "Oh dear.",
+                "wiki": "e/e4"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_misc_02",
+                "text": "Unfortunate.",
+                "wiki": "7/75"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_misc_05",
+                "text": "To victory!",
+                "wiki": "2/26"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_misc_06",
+                "text": "Kill them already!",
+                "wiki": "4/41"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_misc_07",
+                "text": "What are you doing!",
+                "wiki": "7/7d"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_misc_08",
+                "text": "I can't say I'm surprised.",
+                "wiki": "b/b1"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_misc_09",
+                "text": "Oh dear.",
+                "wiki": "3/33"
+            },
+            {
+                "type": "mp3",
+                "file": "Your_team_cm_admin_roundwin_red_01",
+                "text": "RED wins.",
+                "wiki": "3/3f"
+            },
+            {
+                "type": "mp3",
+                "file": "Your_team_cm_admin_roundwin_red_02",
+                "text": "Winner: RED!",
+                "wiki": "3/3e"
+            },
+            {
+                "type": "mp3",
+                "file": "Your_team_cm_admin_roundwin_red_03",
+                "text": "RED wins!",
+                "wiki": "b/b9"
+            },
+            {
+                "type": "mp3",
+                "file": "Your_team_cm_admin_roundwin_red_04",
+                "text": "Winner: RED!",
+                "wiki": "c/c7"
+            },
+            {
+                "type": "mp3",
+                "file": "Your_team_cm_admin_roundwin_red_05",
+                "text": "RED wins!",
+                "wiki": "f/f6"
+            },
+            {
+                "type": "mp3",
+                "file": "Your_team_cm_admin_roundwin_red_06",
+                "text": "Winner: RED team!",
+                "wiki": "8/84"
+            },
+            {
+                "type": "mp3",
+                "file": "Your_team_cm_admin_roundwin_red_07",
+                "text": "RED wins the round!",
+                "wiki": "8/81"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_roundwin_red_07",
+                "text": "RED takes the round!",
+                "wiki": "a/a1"
+            },
+            {
+                "type": "mp3",
+                "file": "Your_team_cm_admin_roundwin_red_08",
+                "text": "RED wins the round!",
+                "wiki": "4/48"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_roundwin_red_08",
+                "text": "RED wins the round!",
+                "wiki": "4/4f"
+            },
+            {
+                "type": "mp3",
+                "file": "Your_team_cm_admin_roundwin_red_09",
+                "text": "RED wins the round!",
+                "wiki": "2/2b"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_roundwin_red_10",
+                "text": "The round belongs to RED!",
+                "wiki": "3/38"
+            },
+            {
+                "type": "mp3",
+                "file": "Your_team_cm_admin_matchwin_red_01",
+                "text": "RED team is victorious!",
+                "wiki": "d/d8"
+            },
+            {
+                "type": "mp3",
+                "file": "Your_team_cm_admin_matchwin_red_02",
+                "text": "RED team is victorious!",
+                "wiki": "4/4a"
+            },
+            {
+                "type": "mp3",
+                "file": "Your_team_cm_admin_matchwin_red_03",
+                "text": "RED team...is victorious!",
+                "wiki": "2/23"
+            },
+            {
+                "type": "mp3",
+                "file": "Your_team_cm_admin_matchwin_red_04",
+                "text": "Victory! RED team wins!",
+                "wiki": "a/ae"
+            },
+            {
+                "type": "mp3",
+                "file": "Your_team_cm_admin_matchwin_red_05",
+                "text": "Victory! For RED team!",
+                "wiki": "e/e9"
+            },
+            {
+                "type": "mp3",
+                "file": "Your_team_cm_admin_matchwin_red_07",
+                "text": "RED wins the match!",
+                "wiki": "1/1d"
+            },
+            {
+                "type": "mp3",
+                "file": "Your_team_cm_admin_matchwin_red_08",
+                "text": "RED wins the match!",
+                "wiki": "8/84"
+            },
+            {
+                "type": "mp3",
+                "file": "Your_team_cm_admin_matchwin_red_09",
+                "text": "RED wins the match.",
+                "wiki": "1/19"
+            },
+            {
+                "type": "mp3",
+                "file": "Your_team_cm_admin_roundwin_blu_01",
+                "text": "BLU wins.",
+                "wiki": "d/d6"
+            },
+            {
+                "type": "mp3",
+                "file": "Your_team_cm_admin_roundwin_blu_02",
+                "text": "Winner: BLU team!",
+                "wiki": "3/35"
+            },
+            {
+                "type": "mp3",
+                "file": "Your_team_cm_admin_roundwin_blu_03",
+                "text": "Winner: BLU team!",
+                "wiki": "8/80"
+            },
+            {
+                "type": "mp3",
+                "file": "Your_team_cm_admin_roundwin_blu_04",
+                "text": "Winner: BLU!",
+                "wiki": "9/98"
+            },
+            {
+                "type": "mp3",
+                "file": "Your_team_cm_admin_roundwin_blu_06",
+                "text": "BLU wins.",
+                "wiki": "b/b1"
+            },
+            {
+                "type": "mp3",
+                "file": "Your_team_cm_admin_roundwin_blu_07",
+                "text": "BLU wins!",
+                "wiki": "1/10"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_roundwin_blu_07",
+                "text": "BLU wins the round!",
+                "wiki": "6/67"
+            },
+            {
+                "type": "mp3",
+                "file": "Your_team_cm_admin_roundwin_blu_08",
+                "text": "BLU wins the round.",
+                "wiki": "e/e7"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_roundwin_blu_08",
+                "text": "BLU takes the round.",
+                "wiki": "d/d5"
+            },
+            {
+                "type": "mp3",
+                "file": "Your_team_cm_admin_roundwin_blu_09",
+                "text": "BLU wins the round!",
+                "wiki": "e/ed"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_roundwin_blu_09",
+                "text": "The round belongs to BLUE!",
+                "wiki": "0/04"
+            },
+            {
+                "type": "mp3",
+                "file": "Your_team_cm_admin_roundwin_blu_10",
+                "text": "BLU wins the round!",
+                "wiki": "1/1e"
+            },
+            {
+                "type": "mp3",
+                "file": "Your_team_cm_admin_matchwin_blu_01",
+                "text": "BLU team...is victorious!",
+                "wiki": "d/dc"
+            },
+            {
+                "type": "mp3",
+                "file": "Your_team_cm_admin_matchwin_blu_02",
+                "text": "BLU team is victorious!",
+                "wiki": "d/d6"
+            },
+            {
+                "type": "mp3",
+                "file": "Your_team_cm_admin_matchwin_blu_03",
+                "text": "BLU team is victorious!",
+                "wiki": "d/d0"
+            },
+            {
+                "type": "mp3",
+                "file": "Your_team_cm_admin_matchwin_blu_04",
+                "text": "Victory! BLU team wins!",
+                "wiki": "2/23"
+            },
+            {
+                "type": "mp3",
+                "file": "Your_team_cm_admin_matchwin_blu_05",
+                "text": "Victory! For BLU team!",
+                "wiki": "e/e4"
+            },
+            {
+                "type": "mp3",
+                "file": "Your_team_cm_admin_matchwin_blu_07",
+                "text": "BLU wins the match!",
+                "wiki": "d/d4"
+            },
+            {
+                "type": "mp3",
+                "file": "Your_team_cm_admin_matchwin_blu_08",
+                "text": "BLU wins the match!",
+                "wiki": "e/e4"
+            },
+            {
+                "type": "mp3",
+                "file": "Your_team_cm_admin_matchwin_blu_09",
+                "text": "BLU wins the match.",
+                "wiki": "e/e0"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_matchwin_rare_01",
+                "text": "Good game.",
+                "wiki": "8/8b"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_matchwin_rare_02",
+                "text": "Excellent game!",
+                "wiki": "0/00"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_matchwin_rare_03",
+                "text": "Well played!",
+                "wiki": "0/00"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_matchwin_rare_04",
+                "text": "Oh yes, uh, 'GG'.",
+                "wiki": "5/5f"
+            },
+            {
+                "type": "mp3",
+                "file": "Your_team_cm_admin_stalemate",
+                "text": "Stalemate!",
+                "wiki": "6/63"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_summary_screen_cheers_01",
+                "text": "Your winners!",
+                "wiki": "5/52"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_summary_screen_cheers_02",
+                "text": "Your victors!",
+                "wiki": "3/3d"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_summary_screen_cheers_03",
+                "text": "Meet your betters!",
+                "wiki": "d/d5"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_summary_screen_cheers_04",
+                "text": "Here are the winners!",
+                "wiki": "a/a4"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_summary_screen_cheers_05",
+                "text": "Presenting the victors!",
+                "wiki": "d/d7"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_summary_screen_cheers_06",
+                "text": "Meet your champions!",
+                "wiki": "e/e6"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_summary_screen_cheers_07",
+                "text": "Meet your champions!",
+                "wiki": "d/d9"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_summary_screen_cheers_09",
+                "text": "Look at them , they're all better than you!",
+                "wiki": "8/83"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_summary_screen_cheers_10",
+                "text": "Take note of their superiority!",
+                "wiki": "f/f6"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_summarycheer_01",
+                "text": "Meet your winners!",
+                "wiki": "a/a9"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_summarycheer_02",
+                "text": "Competition over! Here are your winners!",
+                "wiki": "d/da"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_summarycheer_04",
+                "text": "Good game!",
+                "wiki": "f/fe"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_summarycheer_07",
+                "text": "Ah, the best team did win!",
+                "wiki": "3/33"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_summarycheer_rare_01",
+                "text": "As you idiots say, 'GG'.",
+                "wiki": "d/d4"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_outlier_question_01",
+                "text": "Let's see if any one of you deserve some recognition.",
+                "wiki": "3/32"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_outlier_question_02",
+                "text": "Let's see which of you deserves some recognition.",
+                "wiki": "7/7c"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_outlier_question_03",
+                "text": "Who here is better than the others?",
+                "wiki": "2/2f"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_outlier_question_04",
+                "text": "Let's see which of you is a statistical outlier.",
+                "wiki": "7/71"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_outlier_question_05",
+                "text": "Let's see which of you deserves some recognition.",
+                "wiki": "a/a1"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_outlier_question_06",
+                "text": "Who here is superior to everyone else?",
+                "wiki": "a/ad"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_outlier_question_07",
+                "text": "Who here merits recognition?",
+                "wiki": "e/e2"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_outlier_question_08",
+                "text": "Who here stands out?",
+                "wiki": "5/57"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_question_01",
+                "text": "Who among you is spectacular?",
+                "wiki": "f/f6"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_question_02",
+                "text": "You're all winners! Now, let's see who's an actual winner.",
+                "wiki": "7/78"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_question_03",
+                "text": "Let's see, who here is the least disappointing?",
+                "wiki": "1/1f"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_question_04",
+                "text": "Let's see who's an outlier!",
+                "wiki": "9/91"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_question_05",
+                "text": "Did anyone here stand out?",
+                "wiki": "4/47"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_question_07",
+                "text": "Who here distinguished themselves?",
+                "wiki": "6/6f"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_question_08",
+                "text": "Who here went above and beyond?",
+                "wiki": "6/6a"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_question_10",
+                "text": "Did anyone here go above and beyond?",
+                "wiki": "4/4d"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_question_11",
+                "text": "Who among you is a glorious aberration?",
+                "wiki": "f/ff"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_question_12",
+                "text": "Who here is a deviant...at succeeding?",
+                "wiki": "b/b1"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_question_13",
+                "text": "Who here is above average?",
+                "wiki": "6/61"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_question_14",
+                "text": "Well, you're all the best at being average. Is there anyone here above average?",
+                "wiki": "7/73"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_question_15",
+                "text": "Who among you is spectacular!",
+                "wiki": "1/12"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_question_16",
+                "text": "Who here is the least disappointing?",
+                "wiki": "c/ca"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_outlier_yes_01",
+                "text": "Well done!",
+                "wiki": "5/5a"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_outlier_yes_02",
+                "text": "I must say, I'm impressed.",
+                "wiki": "4/44"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_outlier_yes_03",
+                "text": "Impressive.",
+                "wiki": "9/9d"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_outlier_yes_04",
+                "text": "Impressive.",
+                "wiki": "7/7b"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_outlier_yes_05",
+                "text": "Well done.",
+                "wiki": "6/61"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_outlier_yes_06",
+                "text": "Extraordinary.",
+                "wiki": "1/15"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_outlier_yes_07",
+                "text": "Extraordinary!",
+                "wiki": "1/14"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_outlier_yes_08",
+                "text": "Ah! Extraordinary!",
+                "wiki": "c/cd"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_outlier_yes_09",
+                "text": "Ah! Above and beyond!",
+                "wiki": "9/9f"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_outlier_yes_10",
+                "text": "You are the best of the best!",
+                "wiki": "4/4a"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_outlier_yes_11",
+                "text": "Ah, excellent!",
+                "wiki": "d/dd"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_outlier_yes_12",
+                "text": "Well done. You are statistically superior.",
+                "wiki": "b/bc"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_outlier_yes_13",
+                "text": "Well done.",
+                "wiki": "c/cf"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_outlier_yes_14",
+                "text": "Exemplary!",
+                "wiki": "6/6e"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_yes_01",
+                "text": "Yes, excellent work!",
+                "wiki": "f/fd"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_yes_03",
+                "text": "Incredible!",
+                "wiki": "3/32"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_yes_04",
+                "text": "Remarkable!",
+                "wiki": "7/75"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_yes_06",
+                "text": "Most commendable!",
+                "wiki": "7/76"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_yes_08",
+                "text": "You're being noticed!",
+                "wiki": "6/69"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_yes_09",
+                "text": "I don't believe it! One of you is actually good at this!",
+                "wiki": "3/37"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_yes_10",
+                "text": "The numbers don't lie!",
+                "wiki": "b/ba"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_yes_11",
+                "text": "An admirable performance!",
+                "wiki": "8/8a"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_yes_12",
+                "text": "You're making your teammates look bad. Good.",
+                "wiki": "5/5c"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_yes_13",
+                "text": "You're making your teammates look bad. Heh heh, they're going to hate you for it! [laughter] Oh, I need a cigarette!",
+                "wiki": "e/e5"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_yes_14",
+                "text": "Hmmm, you're exceptional. I'll allow it.",
+                "wiki": "9/95"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_yes_15",
+                "text": "You are the best. Carry on.",
+                "wiki": "9/96"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_yes_17",
+                "text": "You failed me ag-...sorry, force of habit. You actually did well.",
+                "wiki": "d/d7"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_outlier_yes_rare_01",
+                "text": "I'm not proud of you, but I'm not unproud of you.",
+                "wiki": "5/5f"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_outlier_yes_rare_02",
+                "text": "I'm slightly less disappointed in you than the others.",
+                "wiki": "d/d0"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_outlier_yes_rare_03",
+                "text": "That makes you the least worst player here.",
+                "wiki": "7/78"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_outlier_yes_rare_04",
+                "text": "Now that is how you play 6s!",
+                "wiki": "0/01"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_outlier_yes_rare_05",
+                "text": "Well done. You've made me slightly less not-proud.",
+                "wiki": "4/46"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_outlier_no_01",
+                "text": "Hah! No one!",
+                "wiki": "d/db"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_outlier_no_02",
+                "text": "None of you! What a shame!",
+                "wiki": "3/31"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_outlier_no_03",
+                "text": "Mmm, nobody here!",
+                "wiki": "0/05"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_outlier_no_04",
+                "text": "At least you didn't disappoint me more than usual!",
+                "wiki": "e/e6"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_outlier_no_05",
+                "text": "Hah! None of you!",
+                "wiki": "6/6d"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_no_01",
+                "text": "Nobody! What a shock.",
+                "wiki": "7/7b"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_no_03",
+                "text": "Nobody! I'm so shocked, I need to lie down.",
+                "wiki": "4/48"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_no_04",
+                "text": "Nobody! Try to imagine my complete lack of surprise right now.",
+                "wiki": "0/0f"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_no_05",
+                "text": "You've tried and you failed! But always remember...you failed!",
+                "wiki": "d/d5"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_no_06",
+                "text": "Well, the least important thing is that you tried.",
+                "wiki": "0/06"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_no_07",
+                "text": "Don't let this lack of success go to your head.",
+                "wiki": "e/ee"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_no_08",
+                "text": "None of you are spectacular. I'll alert the news outlets.",
+                "wiki": "f/ff"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_no_10",
+                "text": "Being the best is difficult...evidently.",
+                "wiki": "0/00"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_no_11",
+                "text": "Hmmm, none of you. I'm shocked.",
+                "wiki": "a/a6"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_no_12",
+                "text": "Not a single [ding]-ing one of you.",
+                "wiki": "f/f7"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_no_13",
+                "text": "Nobody! I am giddy with indifference.",
+                "wiki": "8/8a"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_no_14",
+                "text": "I am dumbstruck by your mediocrity.",
+                "wiki": "a/ab"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_no_15",
+                "text": "You are the best! That's what I just told another group of players because they were the best. Unlike you, to be clear.",
+                "wiki": "c/c9"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_no_16",
+                "text": "No! Absolutely middling! Oh, I have an idea. I'm going to stop talking to you.",
+                "wiki": "2/22"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_no_18",
+                "text": "Well! Aren't you undistinguished.",
+                "wiki": "4/4a"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_no_20",
+                "text": "Go on! Give yourselves a hand! You're all so undistinguished.",
+                "wiki": "0/0c"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_no_21",
+                "text": "Well, you must be very proud of yourself! You shouldn't be.",
+                "wiki": "5/5f"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_no_22",
+                "text": "Just to avoid confusion, that means none of you are spectacular.",
+                "wiki": "a/ad"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_no_23",
+                "text": "Unremarkable in every conceivable way! It's...remarkable.",
+                "wiki": "4/4b"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_no_rare_01",
+                "text": "None of you! I'm speechless. Oh wait, here's one: 'Four score and seven years ago, you were awful. Leading up to just now, when nothing at all has changed. God bless the Badlands. Thank you and good night.'",
+                "wiki": "7/72"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_no_rare_02",
+                "text": "In all my years of administrating, I have never seen a group of people so exceptional at being undistinguished; unremarkable in every conceivable way. It's...remarkable.",
+                "wiki": "f/fa"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_no_rare_03",
+                "text": "Remarkable! You are like Icarus, if he never flew too close to the sun. Or flew at all. And nobody remembered him. Or cared. That's you. You don't even know what I'm talking about, do you?",
+                "wiki": "6/67"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_no_rare_04",
+                "text": "Yes, that's right! Reach for that brass ring! Here, let me lower it. [cranking sound] Oh, I guess it doesn't go that low. Oh well.",
+                "wiki": "5/5e"
+            },
+            {
+                "type": "mp3",
+                "file": "Cm_admin_callout_no_rare_05",
+                "text": "Congratulations! [clapping sound] That was a stunning display of mediocrity! You can stop clapping now Miss Pauling, I've made my point.",
+                "wiki": "9/9f"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_begins_20sec",
+                "text": "Mission begins in twenty seconds.",
+                "wiki": "a/a5"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_tournament_started1",
+                "text": "The mission has commenced.",
+                "wiki": "f/f6"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_tournament_started2",
+                "text": "The round has started.",
+                "wiki": "1/1d"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_tournament_started3",
+                "text": "The round has commenced.",
+                "wiki": "4/4e"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_tournament_started4",
+                "text": "The mission has started.",
+                "wiki": "f/f9"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_ends_20sec",
+                "text": "Mission ends in twenty seconds!",
+                "wiki": "8/86"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_ends_9sec",
+                "text": "Nine!",
+                "wiki": "d/d9"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_ends_8sec",
+                "text": "Eight!",
+                "wiki": "1/18"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_ends_7sec",
+                "text": "Seven!",
+                "wiki": "b/b9"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_ends_6sec",
+                "text": "Six!",
+                "wiki": "2/29"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_we_succeeded",
+                "text": "We have succeeded.",
+                "wiki": "0/0b"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_stalemate",
+                "text": "Stalemate.",
+                "wiki": "b/b8"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_do_not_fail_again",
+                "text": "Do not fail me again.",
+                "wiki": "d/da"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_do_not_fail_this_time",
+                "text": "Do not fail this time.",
+                "wiki": "b/be"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_you_must_not_fail_again",
+                "text": "You must not fail me again.",
+                "wiki": "c/cb"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_you_must_not_fail_this_time",
+                "text": "You must not fail this time.",
+                "wiki": "6/6b"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_you_failed",
+                "text": "You failed.",
+                "wiki": "8/82"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_alert",
+                "text": "Alert!",
+                "wiki": "e/ef"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_attention",
+                "text": "Attention.",
+                "wiki": "f/f3"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_warning",
+                "text": "Warning!",
+                "wiki": "c/c4"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_stop_courier",
+                "text": "Stop the courier.",
+                "wiki": "4/42"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_secure",
+                "text": "Secure!",
+                "wiki": "f/f8"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_ks_03",
+                "text": "You're a killer!",
+                "wiki": "f/ff"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_ks_04",
+                "text": "Ha ho ha ha ha! Bathe in their blood.",
+                "wiki": "b/bf"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_ks_05",
+                "text": "You're a killer!",
+                "wiki": "c/c0"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_ks_06",
+                "text": "You're a killer!",
+                "wiki": "7/79"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_ks_07",
+                "text": "You butcher!",
+                "wiki": "f/f5"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_ks_08",
+                "text": "Ho ho ho ho ho! You butcher!",
+                "wiki": "d/dd"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_ks_09",
+                "text": "Hmm hmm hmm hmm hmm! You butcher!",
+                "wiki": "5/5d"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_ks_11",
+                "text": "Yes! Kill them all!",
+                "wiki": "0/07"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_ks_12",
+                "text": "Ha ho ho ho ho ho! Kill them all!",
+                "wiki": "5/5f"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_ks_13",
+                "text": "Hmm hmm hmm hmm hmm hmm! Kill them all!",
+                "wiki": "c/c1"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_ks_14",
+                "text": "Yes! Kill them! Kill them all!",
+                "wiki": "a/ac"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_ks_15",
+                "text": "Today you are a god!",
+                "wiki": "1/1f"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_ks_16",
+                "text": "You are unstoppable!",
+                "wiki": "f/fe"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_ks_17",
+                "text": "More! More!",
+                "wiki": "a/af"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_ks_18",
+                "text": "Ha ho! Yes! That's it!",
+                "wiki": "e/e0"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_ks_19",
+                "text": "Kill them! Slaughter them like dogs!",
+                "wiki": "6/67"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_ks_21",
+                "text": "Yes! That's it!",
+                "wiki": "9/93"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_ks_22",
+                "text": "Spare no one!",
+                "wiki": "f/fd"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_ks_23",
+                "text": "Gut their fattened hogs!",
+                "wiki": "2/26"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_ks_24",
+                "text": "Spare no one! Gut them like fattened hogs!",
+                "wiki": "a/aa"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_ks_25",
+                "text": "Spare no one! Gut them like fattened hogs!",
+                "wiki": "4/42"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_ks_26",
+                "text": "Dominate them! Crush them! Destroy them all!",
+                "wiki": "7/7a"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_alert_center_control_being_captured",
+                "text": "Alert! The center control point is being captured!",
+                "wiki": "7/75"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_alert_center_control_being_contested",
+                "text": "Alert! The center control point is being contested!",
+                "wiki": "9/96"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_defend_controlpoints",
+                "text": "Prepare to defend our control points.",
+                "wiki": "2/20"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_success_captured_final_control",
+                "text": "Success! We have captured the enemy's final control point.",
+                "wiki": "3/3e"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_success_captured_last_control",
+                "text": "Success! We have captured the enemy's last control point.",
+                "wiki": "9/9a"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_success_secured_final_control",
+                "text": "Success! We have secured the enemy's final control point.",
+                "wiki": "c/c1"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_success_secured_last_control",
+                "text": "Success! We have secured the enemy's last control point.",
+                "wiki": "8/87"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_we_captured_center_control",
+                "text": "We have captured the center control point!",
+                "wiki": "0/03"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_we_lost_center_control",
+                "text": "We have lost the center control point!",
+                "wiki": "4/44"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_capture_intel",
+                "text": "Prepare to capture the enemy's intelligence.",
+                "wiki": "7/70"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_defend_intel",
+                "text": "You must defend our intelligence.",
+                "wiki": "0/01"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_you_must_defend_intel",
+                "text": "You must defend our intelligence.",
+                "wiki": "f/fa"
+            },
+            {
+                "type": "wav",
+                "file": "Intel_teamcaptured2",
+                "text": "Success! We have captured the enemy intelligence.",
+                "wiki": "3/39"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_roundstart02",
+                "text": "Start fighting, now!",
+                "wiki": "5/5b"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_capincite01",
+                "text": "Get to the control point.",
+                "wiki": "a/ac"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_capincite02",
+                "text": "Get to the control points.",
+                "wiki": "4/44"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_capincite03",
+                "text": "Seize the control point.",
+                "wiki": "a/a2"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_capincite04",
+                "text": "Seize the control points.",
+                "wiki": "7/7a"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_killstreak01",
+                "text": "Yes, yes, YES!",
+                "wiki": "5/58"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_killstreak02",
+                "text": "Well done!",
+                "wiki": "4/4e"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_killstreak03",
+                "text": "Amazing!",
+                "wiki": "e/eb"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_killstreak04",
+                "text": "You're a maniac!",
+                "wiki": "2/29"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_killstreak05",
+                "text": "You're a crazed killer!",
+                "wiki": "5/5f"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_killstreak06",
+                "text": "Good job. Let's see some more.",
+                "wiki": "9/95"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_killstreak07",
+                "text": "Yeeeeessss!",
+                "wiki": "7/72"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_killstreak08",
+                "text": "Yes!",
+                "wiki": "5/58"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_killstreak09",
+                "text": "Oh, I love this.",
+                "wiki": "8/80"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_killstreak10",
+                "text": "Crazed killer!",
+                "wiki": "e/ef"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_killstreak11",
+                "text": "Maniac!",
+                "wiki": "3/31"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_lastmanalive01",
+                "text": "Your friends are all dead. Good luck.",
+                "wiki": "0/00"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_lastmanalive02",
+                "text": "You are the last one alive.",
+                "wiki": "b/b8"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_lastmanalive03",
+                "text": "It's all up to you now.",
+                "wiki": "e/e4"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_lastmanalive04",
+                "text": "Your team is dead. Good luck.",
+                "wiki": "b/b6"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_lastmanforfeit01",
+                "text": "Coward!",
+                "wiki": "0/0e"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_lastmanforfeit02",
+                "text": "You were always a disappointment.",
+                "wiki": "9/95"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_lastmanforfeit03",
+                "text": "You're an embarrassment.",
+                "wiki": "1/15"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_am_lastmanforfeit04",
+                "text": "You disgust me.",
+                "wiki": "2/21"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_round_start02",
+                "text": "Prepare to capture the suitcase!",
+                "wiki": "2/2e"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_round_start03",
+                "text": "Prepare to capture the device.",
+                "wiki": "f/f9"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_round_start01",
+                "text": "Prepare to capture the Australium.",
+                "wiki": "c/c7"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_drop_site05",
+                "text": "The suitcase is ready for pickup. Go!",
+                "wiki": "1/1d"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_drop_site06",
+                "text": "The device is ready for pickup. Go!",
+                "wiki": "7/75"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_drop_site02",
+                "text": "The suitcase has returned to the drop site.",
+                "wiki": "7/76"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_drop_site03",
+                "text": "The device has returned to the drop site.",
+                "wiki": "c/c6"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_possession17",
+                "text": "We have the device.",
+                "wiki": "3/3e"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_possession23",
+                "text": "We have taken the device!",
+                "wiki": "f/fe"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_possession02",
+                "text": "We have the suitcase.",
+                "wiki": "3/33"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_possession18",
+                "text": "We have the suitcase.",
+                "wiki": "4/41"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_possession22",
+                "text": "We have taken the suitcase.",
+                "wiki": "0/05"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_possession04",
+                "text": "They have the suitcase!",
+                "wiki": "d/dd"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_possession14",
+                "text": "They have the suitcase!",
+                "wiki": "1/1f"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_possession05",
+                "text": "They have the device!",
+                "wiki": "4/47"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_possession15",
+                "text": "They have the device!",
+                "wiki": "9/93"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_possession06",
+                "text": "Hurry! They're taking the Australium to the rocket!",
+                "wiki": "d/d9"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_possession08",
+                "text": "Alert! The enemy has taken the suitcase.",
+                "wiki": "f/fe"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_possession09",
+                "text": "Alert! The enemy has taken the device.",
+                "wiki": "b/b5"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_possession26",
+                "text": "We have dropped the suitcase.",
+                "wiki": "4/4d"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_possession27",
+                "text": "We have dropped the device!",
+                "wiki": "9/92"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_possession11",
+                "text": "Alert! The enemy has dropped the suitcase!",
+                "wiki": "5/54"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_possession12",
+                "text": "Alert! The enemy has dropped the device!",
+                "wiki": "8/80"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_possession20",
+                "text": "Alert! The enemy has dropped the device.",
+                "wiki": "4/47"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_rocket_warnings11",
+                "text": "We are about to deploy the device!",
+                "wiki": "2/28"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_rocket_warnings09",
+                "text": "The enemy is about to deploy the device!",
+                "wiki": "f/fb"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_rocket_warnings10",
+                "text": "The enemy is about to launch the rocket!",
+                "wiki": "0/07"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_generic_success_fail02",
+                "text": "Success. We have delivered the device.",
+                "wiki": "f/fd"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_generic_success_fail03",
+                "text": "Success. We have delivered the device.",
+                "wiki": "7/72"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_generic_success_fail05",
+                "text": "No! The enemy has delivered the device.",
+                "wiki": "0/0f"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_misc_nags01",
+                "text": "Get the Australium to the rocket!",
+                "wiki": "9/9b"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_misc_nags02",
+                "text": "Get the suitcase to the rocket!",
+                "wiki": "0/0e"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_misc_nags03",
+                "text": "Get the device to the rocket!",
+                "wiki": "c/cf"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_misc_nags04",
+                "text": "You have the Australium! Get to the rocket!",
+                "wiki": "2/2b"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_misc_nags05",
+                "text": "You have the Australium! Get to the lift!",
+                "wiki": "8/86"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_self_destruct01",
+                "text": "The Australium is about to self-destruct!",
+                "wiki": "7/7b"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_self_destruct02",
+                "text": "The suitcase is about to self-destruct!",
+                "wiki": "f/f0"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_sd_self_destruct03",
+                "text": "The device is about to self-destruct.",
+                "wiki": "a/a4"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_plr_racegeneral07",
+                "text": "Push. PUSH!",
+                "wiki": "b/b6"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_plr_racegeneral08",
+                "text": "It's not a race, it's a war!",
+                "wiki": "8/89"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_plr_racegeneral09",
+                "text": "Push harder!",
+                "wiki": "a/a2"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_plr_racegeneral10",
+                "text": "Push. Throw your backs into it!",
+                "wiki": "4/45"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_plr_racegeneral14",
+                "text": "You have a commanding lead!",
+                "wiki": "1/12"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_plr_racegeneral13",
+                "text": "At this rate, you'll never catch them!",
+                "wiki": "e/ed"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_plr_racegeneral01",
+                "text": "You're catching up!",
+                "wiki": "1/12"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_plr_racegeneral03",
+                "text": "They're getting close!",
+                "wiki": "6/66"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_plr_racegeneral04",
+                "text": "They're catching up!",
+                "wiki": "6/65"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_plr_racegeneral02",
+                "text": "You've fallen behind!",
+                "wiki": "c/c9"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_plr_racegeneral15",
+                "text": "You are losing ground!",
+                "wiki": "1/1f"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_plr_racegeneral05",
+                "text": "It's neck and neck!",
+                "wiki": "f/f0"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_plr_racegeneral06",
+                "text": "This is going to be close!",
+                "wiki": "0/04"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_plr_racegeneral12",
+                "text": "You're coming into the final stretch!",
+                "wiki": "0/0b"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_plr_racegeneral11",
+                "text": "They're coming into the final stretch!",
+                "wiki": "7/76"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_plr_firststageoutcome01",
+                "text": "SUCCESS!",
+                "wiki": "c/c4"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_plr_firststageoutcome02",
+                "text": "You've failed!",
+                "wiki": "2/2d"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_plr_secondstageoutcome01",
+                "text": "SUCCESS! We will have a head start in the final race!",
+                "wiki": "5/55"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_plr_secondstageoutcome02",
+                "text": "Success! You are now tied!",
+                "wiki": "4/4e"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_plr_secondstageoutcome03",
+                "text": "Failure! You are now tied!",
+                "wiki": "2/25"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_plr_secondstageoutcome04",
+                "text": "You've failed! The enemy will have a head start in the final race!",
+                "wiki": "2/20"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_plr_finalstagestart01",
+                "text": "The final race has begun! We have a two minute head start!",
+                "wiki": "a/a0"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_plr_finalstagestart03",
+                "text": "The final race has begun! We have a sixty second head start!",
+                "wiki": "3/3d"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_plr_finalstagestart02",
+                "text": "The final race has begun! We have a thirty second head start!",
+                "wiki": "9/92"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_plr_finalstagestart04",
+                "text": "The final race has begun, but our cart will not be available for two minutes!",
+                "wiki": "7/77"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_plr_finalstagestart06",
+                "text": "The final race has begun, but our cart will not be available for sixty seconds!",
+                "wiki": "d/db"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_plr_finalstagestart05",
+                "text": "The final race has begun, but our cart will not be available for thirty seconds!",
+                "wiki": "6/6a"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_plr_finalstagestart07",
+                "text": "The final race has begun!",
+                "wiki": "4/45"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_plr_finalstagestart08",
+                "text": "The enemy cart is now available!",
+                "wiki": "6/6d"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_plr_finalstagestart09",
+                "text": "Our cart is now available!",
+                "wiki": "c/ce"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_plr_finalstageoutcome01",
+                "text": "WE WIN!",
+                "wiki": "6/6d"
+            },
+            {
+                "type": "wav",
+                "file": "Announcer_plr_finalstageoutcome02",
+                "text": "You lose!",
+                "wiki": "e/ed"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_game_over_loss01",
+                "text": "You lost! You lost it all! We are doomed!",
+                "wiki": "9/90"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_game_over_loss02",
+                "text": "You lost!",
+                "wiki": "4/40"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_game_over_loss03",
+                "text": "You've doomed us all.",
+                "wiki": "f/fc"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_game_over_loss04",
+                "text": "How could you? How could you?!",
+                "wiki": "f/f2"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_game_over_loss05",
+                "text": "You've lost. Why did I trust you?",
+                "wiki": "0/0a"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_game_over_loss06",
+                "text": "You've lost. You've lost everything!",
+                "wiki": "7/7e"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_game_over_loss07",
+                "text": "You let them beat us!",
+                "wiki": "f/f6"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_game_over_loss08",
+                "text": "You failed me. You failed Saxton Hale! You failed us all...",
+                "wiki": "7/79"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_game_over_loss09",
+                "text": "Game over!",
+                "wiki": "5/53"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_game_over_loss10",
+                "text": "Game over. You weaklings!",
+                "wiki": "8/87"
+            },
+            {
+                "type": "wav",
+                "file": "Mvm_game_over_loss11",
+                "text": "Game over, you imbeciles!",
+                "wiki": "1/16"
+            }
+        ],
+        "commands": [
+            {
+                "type": "",
+                "file": "",
+                "text": "",
+                "wiki": ""
+            }
+        ],
+        "taunts": [
+            {
+                "type": "",
+                "file": "",
+                "text": "",
+                "wiki": ""
+            }
+        ]
+    }
+}

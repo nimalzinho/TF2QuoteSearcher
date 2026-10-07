@@ -1,0 +1,832 @@
+{
+    "character": {
+        "name": "bombinomicon",
+        "citations": {
+            "responses": "\"Halloween Boss voice responses.\" Team Fortress Wiki, . 23 Nov 2025, 21:59 UTC. 7 Oct 2026, 03:11 |https://wiki.teamfortress.com/w/index.php?title=Halloween_Boss_voice_responses&oldid=4084043",
+            "commands": "",
+            "taunts": ""
+        },
+        "responses": [
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_headbomb01",
+                "text": "Ey, buddy! I'm gonna give you a bomb head. Go run at that wizard.",
+                "wiki": "a/ac"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_headbomb02",
+                "text": "Ey, buddy! I'm gonna give you a bomb head. Go run at that wizard.",
+                "wiki": "b/b7"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_headbomb03",
+                "text": "I'm gonna give you a bomb head. Go run at that wizard. Oh boy, let's do this!",
+                "wiki": "1/11"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_headbomb08",
+                "text": "Ey, go blow up that wizard for me, eh?",
+                "wiki": "4/41"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_headbomb09",
+                "text": "We don't got a lot of time, run at that wizard, okay?",
+                "wiki": "3/30"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_headbomb10",
+                "text": "Hey, you! Take this! Go run at that wizard, okay? Okay.",
+                "wiki": "a/a7"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_headbomb13",
+                "text": "Hey, I'm a bomb book! It's pretty good.",
+                "wiki": "4/48"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_headbomb14",
+                "text": "You and me, buddy! We're gonna blow that wizard up.",
+                "wiki": "f/fe"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_headbomb17",
+                "text": "Ey, it's you! Yeah, take this. It's good. You gonna like this bomb head.",
+                "wiki": "f/f7"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_headbomb19",
+                "text": "Ey, it's me, the Bombinomicon! Oh, man, this is great!",
+                "wiki": "c/c6"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_headbomb23",
+                "text": "Ey, buddy, no time to explain! Run at that wizard!",
+                "wiki": "0/09"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_headbomb24",
+                "text": "Pow! Zoop! Run at that wizard!",
+                "wiki": "b/b2"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_headbomb25",
+                "text": "Hey, it's me, the bomb book! Run at that wizard! Yeah, let's do it!",
+                "wiki": "4/46"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_headbomb26",
+                "text": "Bombinomicon! Givin' you a bomb head. Oh boy, let's do this!",
+                "wiki": "6/6f"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_headbomb28",
+                "text": "Hey, it's me, the Bombinomicon! It's pretty good! Your head's a bomb now! Okay, good luck.",
+                "wiki": "4/41"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_headbomb29",
+                "text": "Your head's a bomb now! Okay, good luck.",
+                "wiki": "3/3e"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_headbomb30",
+                "text": "Your head's a bomb now! Oh, it's really good! Okay, good luck.",
+                "wiki": "f/ff"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_headbomb31",
+                "text": "Nice head. Now it's a bomb! I'm the greatest!",
+                "wiki": "7/75"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_headbomb32",
+                "text": "Nice head, buddy. Bomb head! It's good stuff.",
+                "wiki": "4/47"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_headbomb33",
+                "text": "Ey, you got a head! Great! Now it's a bomb head.",
+                "wiki": "f/f3"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_headbomb34",
+                "text": "Ey there! Pow! Bomb head! Oh, it's really good. Off I go.",
+                "wiki": "6/6c"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_headbomb35",
+                "text": "Pow! Bomb head! Off I go.",
+                "wiki": "7/75"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_headbomb36",
+                "text": "Ey, buddy! You look like you could use a bomb for a head. Pow! Zoop! Off I go.",
+                "wiki": "b/bd"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_headbomb37",
+                "text": "Ey, buddy! You look like you could use a bomb for a head. Pow! Zoop! Oh, it's really good.",
+                "wiki": "c/c7"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_headbomb38",
+                "text": "Bombinomicon! Givin' you a bomb head. It's what I do.",
+                "wiki": "9/95"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_headbomb39",
+                "text": "Bombinomicon! Givin' you a bomb head. Ey, it's pretty nice.",
+                "wiki": "5/55"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_headbomb40",
+                "text": "Pow! Zoop! Bomb head for you. Your head looks real nice. So long!",
+                "wiki": "d/d2"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_headbomb41",
+                "text": "Pow! Zoop! You're gonna like this bomb head!",
+                "wiki": "f/fa"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_headbomb42",
+                "text": "Pow! Zoop! Bomb head for you.",
+                "wiki": "8/87"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_headbomb44",
+                "text": "Po-po-BAM! Bomb head for you! [laugh] Oh, it's good.",
+                "wiki": "e/e4"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_headbomb45",
+                "text": "Oh, I hate that wizard. 'Ey! You should go blow him up.",
+                "wiki": "2/2f"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_headbomb46",
+                "text": "Oh, I HATE that wizard! You should go blow him up.",
+                "wiki": "4/4b"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_headbomb47",
+                "text": "The wizard! Go blow him up! So long!",
+                "wiki": "2/20"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_headbomb48",
+                "text": "Ey, guy! What's up? Your head's a bomb now. Okay, we're good.",
+                "wiki": "d/d3"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_headbomb49",
+                "text": "Ey, guy! What's up? Your head's a bomb now. Okay, we're good.",
+                "wiki": "4/46"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_headbomb50",
+                "text": "Your head's a bomb now! Okay, good stuff. Good stuff.",
+                "wiki": "9/90"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_headbomb51",
+                "text": "Your head's a bomb now! This is gonna be the BEST!",
+                "wiki": "c/c0"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_headbomb52",
+                "text": "Givin' you a bomb head! It's what I do.",
+                "wiki": "5/5e"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_headbomb53",
+                "text": "Man, you got a nice head. Now it's a bomb head.",
+                "wiki": "1/14"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_headbomb54",
+                "text": "Po-po-BAM! Your head--it looks real nice.",
+                "wiki": "b/bf"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_held_up01",
+                "text": "Yeah, let's do this!",
+                "wiki": "c/c7"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_held_up04",
+                "text": "Yeah, let's do it!",
+                "wiki": "f/f4"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_held_up05",
+                "text": "Ey, guys!",
+                "wiki": "0/04"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_held_up06",
+                "text": "Yeah, sure!",
+                "wiki": "6/6b"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_held_up07",
+                "text": "Sure, why not?",
+                "wiki": "b/b5"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_held_up08",
+                "text": "Okay, let's do this!",
+                "wiki": "b/ba"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_held_up10",
+                "text": "YES! This is the greatest!",
+                "wiki": "d/d6"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_held_up11",
+                "text": "Oh-ho, this is is gonna be good!",
+                "wiki": "1/18"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_held_up12",
+                "text": "Hey, everybody! I'm the Bombinomicon!",
+                "wiki": "0/0c"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_held_up13",
+                "text": "Oh boy, let's do this!",
+                "wiki": "9/94"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_held_up14",
+                "text": "Oh boy, let's do this!",
+                "wiki": "d/d5"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_held_up15",
+                "text": "Yeah, let's do it!",
+                "wiki": "0/07"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_held_up17",
+                "text": "Yeah, yeah!",
+                "wiki": "3/3b"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_held_up18",
+                "text": "Yeah, yeah!",
+                "wiki": "2/26"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_held_up19",
+                "text": "Oh, this is gonna be the best!",
+                "wiki": "e/eb"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_held_up20",
+                "text": "You got it!",
+                "wiki": "a/a2"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_held_up21",
+                "text": "All right, stand back!",
+                "wiki": "f/f2"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_held_up24",
+                "text": "Good stuff!",
+                "wiki": "f/f3"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_held_up25",
+                "text": "Oh yeah! Get to throw some bombs!",
+                "wiki": "4/47"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_held_up27",
+                "text": "This is gonna be the best!",
+                "wiki": "4/42"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_held_up28",
+                "text": "This is gonna be the best!",
+                "wiki": "4/42"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_held_up29",
+                "text": "Hey, everybody!",
+                "wiki": "2/26"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_held_up30",
+                "text": "Have some bombs, guys!",
+                "wiki": "9/9d"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_held_up31",
+                "text": "Yeah! Ha-ha!",
+                "wiki": "4/45"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_held_up32",
+                "text": "Yeah! Ha-ha!",
+                "wiki": "a/ac"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_held_up33",
+                "text": "Here's a whole bunch of bomb stuff!",
+                "wiki": "e/eb"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_island02",
+                "text": "Hey, guys! Beat that wizard, huh? Good stuff, good stuff, buddy.",
+                "wiki": "d/dd"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_island03",
+                "text": "How do you like this island? Pretty nice, huh? Waterfront property. Yeah, it's mine. Well, it's a timeshare. It's good for romancing the ladies though, no? There's this little cookbook I've been seeing, and--hey, it's pretty nice.",
+                "wiki": "7/7c"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_island04",
+                "text": "Well, you feel free to poke around, I guess. You know, looks like that's what you're doing anyway, right? [laughs] Feel free to steal everything that isn't nailed down. Hey, I'm a book! What do I need with it?",
+                "wiki": "5/5e"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_skullhat01",
+                "text": "Ah, Merasmus' skull hat. That's gonna look real nice on your head.",
+                "wiki": "c/c4"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_skullhat02",
+                "text": "Ah, Merasmus' skull hat! Ey, it's pretty nice.",
+                "wiki": "4/44"
+            },
+            {
+                "type": "wav",
+                "file": "Sf12_bcon_skullhat03",
+                "text": "Ah, Merasmus' skull hat! Good choice, buddy. Very nice choice.",
+                "wiki": "0/02"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_intro01",
+                "text": "Welcome to Hell! Now fight to the death. Whaddya gonna do?",
+                "wiki": "1/18"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_intro02",
+                "text": "Hey, welcome to Hell! Holy crap, it's you guys! Hey, you guys. Hey, pow zoop. Fight to the death.",
+                "wiki": "f/f9"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_intro03",
+                "text": "Hey, it's me, the Bombinomicon. Guess what, guys? You're in Hell! It's good stuff. You're gonna like it here! Okay, now fight to the death.",
+                "wiki": "d/dd"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_intro04",
+                "text": "Hey, welcome to Hell! How are you guys doing? That's great, now fight to the death.",
+                "wiki": "b/bd"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_intro05",
+                "text": "Hey hey! You made it! Welcome to Hell. Free stuff for everybody...who is still alive in a minute. Hey, it's Hell, what are ya gonna do?",
+                "wiki": "b/b9"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_intro06",
+                "text": "Hey, it's me, the Bombinomicon. Guess what, guys? You're in Hell. It's good stuff. You're gonna like it here.",
+                "wiki": "7/77"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_intro07",
+                "text": "Hey hey! It's me, the Bombinomicon. Guess what? I'm the Devil! Now fight to the death.",
+                "wiki": "b/b3"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_intro08",
+                "text": "Hey hey! It's me, the Bombinomicon. I'm the Devil now, welcome to Hell.",
+                "wiki": "2/23"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_intro09",
+                "text": "Hey guys, up here! It's me, the bomb book, from last year! Welcome to Hell! Okay, now fight to the death.",
+                "wiki": "8/80"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_intro10",
+                "text": "Hey, welcome to Hell! How are you guys doing? That's great, now fight to the death.",
+                "wiki": "b/b1"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_intro11",
+                "text": "Hey, it's you guys! Hey, guess where you are? Hell! Yes, pretty good.",
+                "wiki": "c/ca"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_intro12",
+                "text": "Guess what guys? You're in Hell. It's good stuff, you're gonna like it here! Now fight to the death.",
+                "wiki": "a/af"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_intro13",
+                "text": "Hey, it's me the Bombinomicon. Bad news, you're in Hell. Good news, I'm the Devil! Hey, pow zoop. *laughs merrily* Fight to the death!",
+                "wiki": "0/05"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_intro14",
+                "text": "Hey hey, guys, it's me, the bomb book! Welcome to Hell! Okay, now fight to the death.",
+                "wiki": "b/b5"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_intro15",
+                "text": "Hey, it's you guys! Welcome to Hell! Pow zoop! Go crazy nuts.",
+                "wiki": "e/e0"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_intro16",
+                "text": "Hey, it's me the Bombinomicon. You guys gonna have a lot of fun in Hell. It's Hell, everybody likes it! Fight to the death.",
+                "wiki": "2/2c"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_intro17",
+                "text": "Hey hey! It's me, the Bombinomicon. I'm the Devil now. (laughs eagerly) Fight to the death.",
+                "wiki": "e/ee"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_intro18",
+                "text": "Hey, it's me, the Bombinomicon. Guess what, I'm the Devil! Welcome to Hell.",
+                "wiki": "a/ab"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_intro19",
+                "text": "Holy crap, it's you guys! Welcome to Hell! Hey hey! You brought me a soul. Nice work guys. Now I just need nine more. Let's go.",
+                "wiki": "d/d0"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_intro20",
+                "text": "Hey, it's me, the Bombinomicon. Welcome to Hell. Hey, pow zoop, fight to the death.",
+                "wiki": "8/8c"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_give_gift01",
+                "text": "Hey, there you are. Here's a gift.",
+                "wiki": "d/d3"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_give_gift02",
+                "text": "Hey, you made it.",
+                "wiki": "1/12"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_give_gift03",
+                "text": "There he is. Here's some free crap.",
+                "wiki": "c/cf"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_give_gift04",
+                "text": "Hey, you won! Grab some stuff. It's free.",
+                "wiki": "8/8e"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_end01",
+                "text": "Get up here, steal anything you like. You're in Hell! How much worse could it get?",
+                "wiki": "e/e6"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_end02",
+                "text": "Okay guys, first come first serve.",
+                "wiki": "a/a1"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_end03",
+                "text": "Happy Halloween, you knuckleheads.",
+                "wiki": "3/3a"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_end04",
+                "text": "Hey, you did it. Get up here, grab some free crap, you earned it.",
+                "wiki": "1/11"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_end05",
+                "text": "Hey, you're the best! All right, grab some free crap and get out of here. I got a lot of devil stuff to do. Pow zoop!",
+                "wiki": "6/60"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_end06",
+                "text": "Oh oh man, that was quick! You guys are some bad dudes! All right, here are some parting gifts, cause you gotta go.",
+                "wiki": "e/e4"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_end07",
+                "text": "Okay, let's go guys! I gotta close up Hell. It's not a 7-Eleven. (laughs) Grab some gifts before you go, bye you guys!",
+                "wiki": "9/98"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_end08",
+                "text": "Ooh, that did not take long, you guys are some crazy nuts guys, let me tell you! Okay let's see here. Oh yeah, got some gifts for you.",
+                "wiki": "7/7b"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_end09",
+                "text": "Okay, we'll talk here for a minute guys. You, you guys are the real heroes of Hell. Here, I have bunches of gifts. Go ahead with the serving.",
+                "wiki": "6/67"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_end10",
+                "text": "Okay, good stuff, now get out of here you knuckleheads! (whispering) I love you guys.",
+                "wiki": "0/0f"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_end11",
+                "text": "Man, they're going to make you guys the Devil! (laughs evilly) Not really though, because that's me and I'm the best. Go ahead and have some gifts and get out of here, you crazy guys.",
+                "wiki": "d/d3"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_end12",
+                "text": "Guys, guys guys guys. Let me get real with you for a minute. This is why I got into the Devil business. You, you crazy nuts guys, tearing each other apart like animals. (tearfully) I think I got a burning cinder in my eye or something. Get some gifts and get out of here you nuts.",
+                "wiki": "a/ae"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_end13",
+                "text": "Okay, good stuff! Get up here, grab a gift, the Devil's a little busy here. I got to go rig an election with Quebec. A local election, but you know, I'm the Devil. I've got to sweat the small stuff.",
+                "wiki": "d/da"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_end14",
+                "text": "Okay good, you're done! Man I hate goodbyes. Luckily we're in Hell, so nobody ever gets to leave. (laughs jubilantly) Except you guys! You guys are so special, guys. Oh good, I got some special gifts! Then you gotta go.",
+                "wiki": "8/86"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_end15",
+                "text": "Oh man, that was great, you guys! Man, we are all having a go- Well, not everybody. But we are having a good time in Hell, ah? Good times, yes. Good Hell times. Grab your gifts!",
+                "wiki": "7/74"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_end16",
+                "text": "Oh man, you guys are some scary bad dudes, I'm so scared! (chuckles) Come on, I'm the Devil! You kidding me? Take your free crap and get out of here.",
+                "wiki": "b/b1"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_misc01",
+                "text": "Hey, you brought souls! Good stuff, you guys are the best.",
+                "wiki": "1/17"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_misc02",
+                "text": "Keep fighting, it's cool stuff!",
+                "wiki": "7/7d"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_misc03",
+                "text": "Hey hey, kill each other! Oh you guys are the best. Not you Sniper.",
+                "wiki": "6/66"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_misc04",
+                "text": "Man, you guys are the best at Hell. I should know, I'm the Devil.",
+                "wiki": "3/3a"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_misc05",
+                "text": "Man, I'm good being the Devil. See all that fire? That was my idea.",
+                "wiki": "2/2f"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_misc06",
+                "text": "Everybody, take a knee. Dear God, thank you for making me the Devil, and putting all these great guys in Hell. Pow zoop!",
+                "wiki": "5/57"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_misc07",
+                "text": "Why don't you stay a while? Stay forever! (laughs evilly) I'm kidding. (whispers) You guys are going to have go pretty soon.",
+                "wiki": "0/00"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_misc08",
+                "text": "Man, you guys are really killing each other. I'm the Devil, and I think it's pretty gruesome.",
+                "wiki": "1/11"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_misc09",
+                "text": "Man, I'm such a good Devil. They'll have to give me a hell-raise! (laughter) I am cracking myself up down here.",
+                "wiki": "7/77"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_misc10",
+                "text": "Hey, look at us. We all die together, in Hell. Yeah, it's pretty good.",
+                "wiki": "4/43"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_misc11",
+                "text": "So, trick or treat, ah? What are you guys supposed to be? Man everybody got a good costume this year. Come on up here and get some free crap.",
+                "wiki": "6/6a"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_misc12",
+                "text": "One, two... Oh, man, there's a lot of you. Tell you what, thin the herd a little. I'll give you some gifts.",
+                "wiki": "6/60"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_misc13",
+                "text": "Oh, I got some good stuff for you guys, look at all this!",
+                "wiki": "c/ca"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_misc14",
+                "text": "Is it hot in here or is it just me? (laughs maliciously) It's not me, we're in Hell.",
+                "wiki": "2/28"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_misc15",
+                "text": "Man, you guys got some nice souls. Tell you what, you kill each other, anybody who is still alive is gonna get some good stuff.",
+                "wiki": "f/fc"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_misc16",
+                "text": "Hey, when you go back to Earth, make sure you tell everybody I'm the Devil now. Oh I'm gonna be famous. Oh, I'm gonna be more famous than Lord of the Rings!",
+                "wiki": "3/38"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_misc17",
+                "text": "Oh! Look at all this great crap I got here! How am I going to use all this crap? You guys should take some. I insist! You guys are the best.",
+                "wiki": "6/64"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_misc18",
+                "text": "You guys, hey, you guys! Be brutally honest, am I the best Devil? *pause* Ah! I knew it! *joyous laughter* Hell is so great, you guys.",
+                "wiki": "b/b6"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_misc19",
+                "text": "Ah ha, that's right, killing each other! (eager laughter) Aw man, it makes me feel good to see you guys having so much fun.",
+                "wiki": "0/0e"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_misc20",
+                "text": "So, how have you guys been doing? Soldier, still have that stupid wizard for a roommate? Oh, that guy, I could tell you some- You know what? You keep fighting, we catch up later.",
+                "wiki": "4/4d"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_misc21",
+                "text": "Let me tell you, you guys are like the Tom Jones of tearing a dude's face off. That's not me talking, that's Tom Jones. Yeah, he down here. Tom, say something! (laughs maliciously) Who am I kidding? He's choking on a bottle of molten deer poop.",
+                "wiki": "9/9f"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_bcon_misc22",
+                "text": "Okay, twist ending guys. Here comes the big twist! I'm an angel, and we're in Heaven! (laughter) This was a test all along! (more laughter) No, I'm pulling your leg, there is no Heaven. There is Hell in every direction.",
+                "wiki": "4/40"
+            }
+        ],
+        "commands": [
+            {
+                "type": "",
+                "file": "",
+                "text": "",
+                "wiki": ""
+            }
+        ],
+        "taunts": [
+            {
+                "type": "",
+                "file": "",
+                "text": "",
+                "wiki": ""
+            }
+        ]
+    }
+}
