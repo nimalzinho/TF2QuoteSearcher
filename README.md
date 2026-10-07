@@ -51,6 +51,11 @@ https://wiki.teamfortress.com/w/index.php?title=Main_Page&oldid=3284953
 
 * "Spy responses." Team Fortress Wiki, . 15 Feb 2023, 12:07 UTC. 28 Feb 2023, 16:47<br/>https://wiki.teamfortress.com/w/index.php?title=Spy_responses&oldid=3371968 
 * "Spy voice commands." Team Fortress Wiki, . 22 Nov 2019, 08:22 UTC. 28 Feb 2023, 16:47<br/>https://wiki.teamfortress.com/w/index.php?title=Spy_voice_commands&oldid=2486569 
-* "Spy taunts." Team Fortress Wiki, . 5 Feb 2023, 16:52 UTC. 28 Feb 2023, 16:47<br/>https://wiki.teamfortress.com/w/index.php?title=Spy_taunts&oldid=3365544 
+* "Spy taunts." Team Fortress Wiki, . 5 Feb 2023, 16:52 UTC. 28 Feb 2023, 16:47<br/>https://wiki.teamfortress.com/w/index.php?title=Spy_taunts&oldid=3365544
+
+* "Administrator responses." Team Fortress Wiki, . 15 Apr 2026, 14:32 UTC. 7 Oct 2026, 00:02 https://wiki.teamfortress.com/w/index.php?title=Administrator_responses&oldid=4183402
+* "Miss Pauling responses." Team Fortress Wiki, . 11 Jul 2026, 13:57 UTC. 7 Oct 2026, 02:45 https://wiki.teamfortress.com/w/index.php?title=Miss_Pauling_responses&oldid=4226090
+* "Halloween Boss voice responses." Team Fortress Wiki, . 23 Nov 2025, 21:59 UTC. 7 Oct 2026, 03:11 https://wiki.teamfortress.com/w/index.php?title=Halloween_Boss_voice_responses&oldid=4084043
+* "Versus Saxton Hale responses." Team Fortress Wiki, . 16 May 2026, 19:09 UTC. 7 Oct 2026, 02:57 https://wiki.teamfortress.com/w/index.php?title=Versus_Saxton_Hale_responses&oldid=4196967
 
 </details>
