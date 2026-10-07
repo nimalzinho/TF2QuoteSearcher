@@ -1,0 +1,988 @@
+{
+    "character": {
+        "name": "blutarch",
+        "citations": {
+            "responses": "\"Halloween Boss voice responses.\" Team Fortress Wiki, . 23 Nov 2025, 21:59 UTC. 7 Oct 2026, 03:11 |https://wiki.teamfortress.com/w/index.php?title=Halloween_Boss_voice_responses&oldid=4084043",
+            "commands": "",
+            "taunts": ""
+        },
+        "responses": [
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_intro_long01",
+                "text": "Listen up, you thugs. This is Blutarch Mann speaking. I may be dead, but as long as you're cashing my checks, you'll damn well do what you're told. And I'm telling you, from beyond the grave, to push my brother to hell! Until I tell you to stop!",
+                "wiki": "f/f9"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_intro_long02",
+                "text": "It is I, your employer, Blutarch Mann. From beyond the grave! I've given you thick-skulled slugs one thing to do for a hundred years now: Shoot each other! Now I'm giving you something even easier to do: Push my brother to hell!",
+                "wiki": "1/1d"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_intro_short01",
+                "text": "This is Blutarch Mann speaking. That corpse belongs to my idiot brother. Send it to hell!",
+                "wiki": "b/b0"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_intro_short02",
+                "text": "This is Blutarch Mann, with one simple request: Send my brother to hell!",
+                "wiki": "5/57"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_intro_short03",
+                "text": "This is Blutarch Mann speaking. Push! That! Cart!",
+                "wiki": "4/4f"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_winning01",
+                "text": "Yes! Yes yes yes yes!",
+                "wiki": "a/ad"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_winning02",
+                "text": "Yes, that's it! Push!",
+                "wiki": "c/ce"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_winning03",
+                "text": "Yes!",
+                "wiki": "3/3d"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_winning04",
+                "text": "Yes!",
+                "wiki": "4/4d"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_winning05",
+                "text": "Good, good!",
+                "wiki": "3/3f"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_winning06",
+                "text": "Perfect!",
+                "wiki": "7/71"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_winning07",
+                "text": "Sweet mother of gravel, we're winning!",
+                "wiki": "e/e3"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_winning08",
+                "text": "We're winning! Do you hear me, Redmond? I'm winning!",
+                "wiki": "5/54"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_winning09",
+                "text": "Yes! I should've died years ago!",
+                "wiki": "4/42"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_losing_push01",
+                "text": "Push!",
+                "wiki": "f/f8"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_losing_push02",
+                "text": "Keep pushing the cart!",
+                "wiki": "e/e4"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_losing_push03",
+                "text": "Push the cart!",
+                "wiki": "a/a7"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_losing_push04",
+                "text": "Get to the cart!",
+                "wiki": "c/c1"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_losing_push05",
+                "text": "Don't leave my brother!",
+                "wiki": "4/45"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_losing_push06",
+                "text": "Push my brother!",
+                "wiki": "8/85"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_losing_push07",
+                "text": "Hell is that way! Push!",
+                "wiki": "7/76"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_losing_push08",
+                "text": "Drag your knuckles to that cart, you thick-browed member of the servant class!",
+                "wiki": "4/4d"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_losing_push09",
+                "text": "Do you have any idea what ungodly sum I'm paying you vagrants to push a corpse a hundred feet?",
+                "wiki": "4/48"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_losing_push10",
+                "text": "All you have to do is push a haunted corpse on a railcart into a gaping hell-mouth! It's not gravel science.",
+                "wiki": "9/99"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_losing_push11",
+                "text": "Keep pushing!",
+                "wiki": "f/f5"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_losing_push12",
+                "text": "Puuuush!",
+                "wiki": "a/aa"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_losing03",
+                "text": "We're losing!",
+                "wiki": "e/eb"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_losing04",
+                "text": "We're behind!",
+                "wiki": "9/95"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_losing05",
+                "text": "They're trouncing us!",
+                "wiki": "9/95"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_losing06",
+                "text": "Biscuits and buncum, we're losing!",
+                "wiki": "d/d3"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_losing07",
+                "text": "Barnbiscuits, we're behind!",
+                "wiki": "4/4f"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_losing08",
+                "text": "We're losing!",
+                "wiki": "f/f5"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_losing09",
+                "text": "Hogwater, we're losing!",
+                "wiki": "6/63"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_losing10",
+                "text": "Pissdumplings! They're winning!",
+                "wiki": "1/1e"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_losing11",
+                "text": "Posspuddle... We're losing!",
+                "wiki": "8/8d"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_losing12",
+                "text": "What am I paying you for?! Get my brother to hell!",
+                "wiki": "0/05"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_losing13",
+                "text": "Why is my brother not in hell yet?",
+                "wiki": "2/25"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_losing14",
+                "text": "Wait a minute... Am I closer to hell than my brother?",
+                "wiki": "6/63"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_losing15",
+                "text": "Fight harder, you imbeciles!",
+                "wiki": "d/d2"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_losing16",
+                "text": "Fight, you nincompoops!",
+                "wiki": "8/82"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_losing17",
+                "text": "Damn you Redmond!",
+                "wiki": "c/c4"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_almost_won01",
+                "text": "Good gravel! You've almost done it!",
+                "wiki": "8/85"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_almost_won02",
+                "text": "Whatever it is you're doing, keep doing it!",
+                "wiki": "e/ea"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_almost_won03",
+                "text": "Whatever it is you're doing, it's working!",
+                "wiki": "2/2c"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_almost_won04",
+                "text": "I'm doing it! I'm finally actually really doing it! I am the best Mann!",
+                "wiki": "5/50"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_almost_won05",
+                "text": "I'm winning! And you're losing, Redmond! I will be the last man standing!",
+                "wiki": "5/59"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_almost_won06",
+                "text": "How do you like those ghostly apples, Redmond? No need to answer. They are bitter, tart ash in your mouth, I'm sure of it! Yes yes yes...",
+                "wiki": "4/4d"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_almost_won07",
+                "text": "I'm doing it! I'm sending you to hell, Redmond! I'm the best brother!",
+                "wiki": "6/6c"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_almost_won08",
+                "text": "Yes! All my beautiful ghost plans are being realized!",
+                "wiki": "6/69"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_almost_won09",
+                "text": "We're winning! Getting stabbed nine times in the heart was the greatest thing to ever happen to me!",
+                "wiki": "3/3a"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_almost_won10",
+                "text": "Yes! Sending my brother to hell was my best idea since the pregnancy machine! ...Which isn't off the table, by the way.",
+                "wiki": "d/de"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_almost_won11",
+                "text": "We're winning! Do you hear me, Redmond? The Badlands are mine!",
+                "wiki": "9/9c"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_almost_won12",
+                "text": "We're winning! Do you hear me, Redmond? You're going to hell!",
+                "wiki": "d/d8"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_almost_lost01",
+                "text": "Good gravel! I'm almost to hell, you idiots! Do something!",
+                "wiki": "f/f0"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_almost_lost02",
+                "text": "You charlatans promised me you'd send my brother to hell!",
+                "wiki": "6/60"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_almost_lost03",
+                "text": "No, you stupid poor people!",
+                "wiki": "f/fc"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_almost_lost04",
+                "text": "Blast! I should've hired the RED team!",
+                "wiki": "0/07"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_almost_lost05",
+                "text": "Damn it all, get that ratstink carcass to hell! Or by gravel, I will end you!",
+                "wiki": "5/53"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_almost_lost06",
+                "text": "What the gravel am I paying you for?",
+                "wiki": "e/ee"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_win01",
+                "text": "I've done it!",
+                "wiki": "d/d4"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_win02",
+                "text": "Yes! Yes yes yes!",
+                "wiki": "2/20"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_win03",
+                "text": "Yes, yes yes yes! I did it!",
+                "wiki": "a/a0"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_win04",
+                "text": "I won!",
+                "wiki": "6/64"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_win05",
+                "text": "Rot in hell, Redmond! I win!",
+                "wiki": "e/ed"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_win06",
+                "text": "Mine! All of the Badlands is finally mine!",
+                "wiki": "0/09"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_win07",
+                "text": "I am the last man standing!",
+                "wiki": "2/20"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_win08",
+                "text": "Wait! Where are you all going?",
+                "wiki": "2/29"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_win09",
+                "text": "I win! Now you can all go to hell!",
+                "wiki": "2/29"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_win10",
+                "text": "I won! And just so I don't have to pay you, you all can go to hell! *long laughter* *coughing*",
+                "wiki": "a/ab"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_win11",
+                "text": "Go to hell! *laughing*",
+                "wiki": "3/38"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_lose01",
+                "text": "No! Noooooooo!",
+                "wiki": "c/c4"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_lose02",
+                "text": "Bleaaaaaaaaaaah Redmond!",
+                "wiki": "6/61"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_lose03",
+                "text": "Daaaaaaaaah!",
+                "wiki": "e/e2"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_lose04",
+                "text": "Well I tried.",
+                "wiki": "a/ad"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_lose05",
+                "text": "I'm taking you to hell with me!",
+                "wiki": "f/f3"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_lose06",
+                "text": "You're all comin' with me!",
+                "wiki": "8/86"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_lose07",
+                "text": "Noooooooo- *fades off*",
+                "wiki": "3/3d"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_lose08",
+                "text": "Bleaaaaaaaaaaah Redmon- *fades off*",
+                "wiki": "0/0f"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_win02_music",
+                "text": "Yes! Yes yes yes! *victory theme*",
+                "wiki": "4/49"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_lose01_music",
+                "text": "No! Noooooooo! *boos*",
+                "wiki": "3/39"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_almost_lost06_music",
+                "text": "What the gravel am I paying you for? *stalemate theme*",
+                "wiki": "7/74"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_spells01",
+                "text": "Gather spells while you can!",
+                "wiki": "3/3c"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_spells02",
+                "text": "Spells! Get them before they disappear!",
+                "wiki": "1/1b"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_spells03",
+                "text": "Gather spells before they disappear!",
+                "wiki": "8/82"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_spells04",
+                "text": "Spells! They've spilled out of the hellhole!",
+                "wiki": "8/8b"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_spells05",
+                "text": "Spells! Spells everywhere!",
+                "wiki": "c/c2"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_spells06",
+                "text": "Grab the spells and cast them!",
+                "wiki": "8/86"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_spells07",
+                "text": "Grab the spells! Cast them on Redmond's idiot army!",
+                "wiki": "b/bb"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_midnight01",
+                "text": "The Witching Hour!",
+                "wiki": "6/63"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_midnight02",
+                "text": "It's midnight!",
+                "wiki": "0/09"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_midnight03",
+                "text": "Yes! It's the Witching Hour!",
+                "wiki": "f/fc"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_midnight04",
+                "text": "Yeeees! The Witching Hour is upon us.",
+                "wiki": "e/ef"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_midnight05",
+                "text": "The Witching Hour! When the wall between worlds grows weak and withered!",
+                "wiki": "9/90"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_midnight_again01",
+                "text": "It's midnight. Again!",
+                "wiki": "f/f2"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_midnight_again02",
+                "text": "It's midnight again. Oh, I hate this holiday!",
+                "wiki": "3/3f"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_midnight_again03",
+                "text": "It's happening again!",
+                "wiki": "c/c2"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_midnight_again04",
+                "text": "It's happening again!",
+                "wiki": "3/3e"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_midnight_again05",
+                "text": "It's midnight! Again!",
+                "wiki": "6/66"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_midnight_again06",
+                "text": "It's midnight again?",
+                "wiki": "d/dd"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_midnight_again07",
+                "text": "It's midnight again!",
+                "wiki": "8/85"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_midnight_again08",
+                "text": "It's midnight! Again!",
+                "wiki": "4/40"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_midnight_again09",
+                "text": "It's midnight again!",
+                "wiki": "9/90"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_bridge01",
+                "text": "Cross the bridge!",
+                "wiki": "b/bc"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_bridge02",
+                "text": "The bridge is down!",
+                "wiki": "e/e7"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_bridge03",
+                "text": "The bridge, you fools!",
+                "wiki": "7/75"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_bridge04",
+                "text": "The bridge, you lackeys!",
+                "wiki": "6/6d"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_bridge05",
+                "text": "Hell Island is open! The bridge is down!",
+                "wiki": "1/16"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_bridge06",
+                "text": "Hurry! Cross the bridge to Hell Island! Get the good magic!",
+                "wiki": "e/ef"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_bridge07",
+                "text": "Hurry! Cross the bridge! Gather up the best spells!",
+                "wiki": "8/88"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_bridge08",
+                "text": "The bridge! Across it lies power beyond imagination!",
+                "wiki": "3/33"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_bridge09",
+                "text": "Don't settle for this paltry stuff! Cross the bridge!",
+                "wiki": "9/96"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_enemies01",
+                "text": "The hell is happening now?",
+                "wiki": "2/27"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_enemies02",
+                "text": "What's happening down there?",
+                "wiki": "d/d9"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_enemies03",
+                "text": "What the gravel is happening down there?",
+                "wiki": "4/4d"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_enemies04",
+                "text": "Aw, no! Zombies!",
+                "wiki": "2/28"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_enemies05",
+                "text": "Zombies!",
+                "wiki": "e/ed"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_enemies06",
+                "text": "Hell zombies!",
+                "wiki": "1/17"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_enemies07",
+                "text": "Oh no, werewolves! No, wait... skeletons! Zombies? It doesn't matter, just run!",
+                "wiki": "d/d2"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_enemies08",
+                "text": "Hell zombies! Oh gravelpits, you are in for it now!",
+                "wiki": "a/ae"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_enemies09",
+                "text": "Zombies, no! Wait... Hold on, let me check it... Oh god! Hell zombies!",
+                "wiki": "7/77"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_enemies10",
+                "text": "Oh no, it's the Skeleton King!",
+                "wiki": "9/96"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_enemies11",
+                "text": "Oh good, the Skeleton King's here.",
+                "wiki": "c/cf"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_enemies12",
+                "text": "It's the Skeleton King!",
+                "wiki": "0/0f"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_enemies13",
+                "text": "Run! It's the Skeleton King!",
+                "wiki": "4/44"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_enemies14",
+                "text": "It's the Horseless Headless Horsemann!",
+                "wiki": "0/02"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_enemies15",
+                "text": "The Skeleton King! Ah gravelpits, you are in for it now!",
+                "wiki": "8/8d"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_mannbros_argue01",
+                "text": "Don't listen to my idiot brother, get them!",
+                "wiki": "a/a1"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_mannbros_argue02",
+                "text": "Spells! Don't pick them up, they're all poison!",
+                "wiki": "1/14"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_mannbros_argue03",
+                "text": "Don't listen to him, send MY imbecile brother to hell! *short laugh*",
+                "wiki": "1/16"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_mannbros_argue04",
+                "text": "Yes, I'll enjoy staring down at it, from heaven! While you BURN, brother! *short laugh*",
+                "wiki": "4/45"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_mannbros_argue05",
+                "text": "There is no gravel where you're going, brother! Hell, Redmond! What do you think is going on here?",
+                "wiki": "d/da"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_mannbros_argue06",
+                "text": "Send my brother to hell! DO do it! Continue doing it!",
+                "wiki": "9/9f"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_mannbros_argue07",
+                "text": "Don't do it! No! Nooooooo!",
+                "wiki": "1/1b"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_mannbros_argue08",
+                "text": "Shut up, Redmond! Keep fighting! Don't listen to my idiot brother!",
+                "wiki": "b/be"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_mannbros_argue09",
+                "text": "RED team! Stop fighting! My brother and I call truce! *laughing*",
+                "wiki": "2/26"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_mannbros_argue10",
+                "text": "That's you, you imbecile!",
+                "wiki": "d/d8"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_mannbros_argue11",
+                "text": "You, Redmond! Ha ha ha! I've turned it around on you!",
+                "wiki": "2/22"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_mannbros_argue12",
+                "text": "Only one of us is going to hell, Redmond! I'm afraid I'll be the one not seeing you! I won't!",
+                "wiki": "0/03"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_mannbros_argue13",
+                "text": "Don't listen to him! It's just beginning! It is the Witching Hour!",
+                "wiki": "2/29"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_mannbros_argue14",
+                "text": "The Witching Hour is over! *laughing*",
+                "wiki": "b/b7"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_mannbros_argue15",
+                "text": "Don't listen to him, father! It's still anyone's game right now!",
+                "wiki": "8/8b"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_mannbros_argue16",
+                "text": "I'm doing it, father! I'm winning!",
+                "wiki": "6/64"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_mannbros_argue17",
+                "text": "I do, brother! It is the heat of victory!",
+                "wiki": "f/fa"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_mannbros_argue18",
+                "text": "Yes! Pushing! I'm a tactical genius! The only thing you invented years ago was losing to me right now! *laughing*",
+                "wiki": "d/dc"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_mannbros_argue19",
+                "text": "Dear Lord! This is Blutarch Mann speaking! Shut up, Redmond, I'm praying! Lord, please send my brother to hell. Amen. No!",
+                "wiki": "3/31"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_mannbros_argue20",
+                "text": "I'm sorry. No! I meant I'm sorry that I'm sending you to hell! And I'm not! Sorry!",
+                "wiki": "e/ef"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_mannbros_argue21",
+                "text": "Knock knock. Redmond, it's Blutarch! This is a knock knock joke! Open this door at once! Redmond, I assure you I will make it worth your while. Now knock knock It's your brother Blutarch! Now for God's sake let me in! Someone's trying to send me to Hell! Good Lord! That changes everything! I'll finish the joke later!",
+                "wiki": "e/ed"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_mannbros_argue22",
+                "text": "*giggling* Oh, I'm just thinking about all the gravel I'll have when you're gone. The devil! I plan to trade him all your gravel for it!",
+                "wiki": "c/ce"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_mannbros_argue23",
+                "text": "Yes! Yes! Send my brother to hell! I'm not talking to you, Redmond. I'm talking to the mercs! Come on brother. What could they possibly be doing? What? RED team! Stop what you're doing!",
+                "wiki": "2/23"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_mannbros_argue24",
+                "text": "Wait, what was that? My mercs? Don't you dare! They've got a job! Sending you to hell, Redmond! Belay that order, BLU team!",
+                "wiki": "6/69"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_mannbros_argue25",
+                "text": "You imbecile! *shuffling noise* This is what I'm paying them!",
+                "wiki": "c/c3"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_mannbros_argue26",
+                "text": "You there! RED team! I'll double what my ratstink brother is paying you! Ah! Never mind!",
+                "wiki": "1/16"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_mannbros_argue27",
+                "text": "Look at me now, father!",
+                "wiki": "c/c4"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_mannbros_argue28",
+                "text": "Look at me now, father! Yes, yes, yes, yes! No! Noooo!",
+                "wiki": "9/98"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_misc01",
+                "text": "This update almost makes too much sense! *laughing*",
+                "wiki": "8/80"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_misc02",
+                "text": "It all makes perfect sense!",
+                "wiki": "9/95"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_misc03",
+                "text": "What the gravel am I paying you for? I'll tell you: I'm not! Unless you get my brother to hell!",
+                "wiki": "9/97"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_misc04",
+                "text": "All you have to do is send my brother's haunted corpse to hell, then run across a bridge to an enchanted island every time the clock strikes midnight every one and a half minutes to get powerful spells you can use to defeat your enemy, who will be doing the exact same thing, but with my haunted corpse! My only worry is this update makes too much sense.",
+                "wiki": "d/d3"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_misc05",
+                "text": "I am speaking to you from the great beyond! But make no mistake, my lawyers are still on Earth, and they will prosecute if you do not fulfill your contract. In fact, they're right over there in that evil castle! That's right! They built a terrifying mansion from which to conduct their day business! *chuckle*",
+                "wiki": "d/da"
+            },
+            {
+                "type": "wav",
+                "file": "Sf13_blutarch_misc06",
+                "text": "I sense a disturbance in the force... Hold on. Okay, I'm back. My lawyers tell me I'm sensing nothing.",
+                "wiki": "1/14"
+            }
+        ],
+        "commands": [
+            {
+                "type": "",
+                "file": "",
+                "text": "",
+                "wiki": ""
+            }
+        ],
+        "taunts": [
+            {
+                "type": "",
+                "file": "",
+                "text": "",
+                "wiki": ""
+            }
+        ]
+    }
+}

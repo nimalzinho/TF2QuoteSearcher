@@ -1,0 +1,2080 @@
+{
+    "character": {
+        "name": "pauling",
+        "citations": {
+            "responses": "\"Miss Pauling responses.\" Team Fortress Wiki, . 11 Jul 2026, 13:57 UTC. 7 Oct 2026, 02:45 |https://wiki.teamfortress.com/w/index.php?title=Miss_Pauling_responses&oldid=4226090",
+            "commands": "",
+            "taunts": ""
+        },
+        "responses": [
+        {
+            "type": "mp3",
+            "file": "Plng_give_bigcontract_allclass_01",
+            "text": "This contract's big. Don't pass this up.",
+            "wiki": "e/e7"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_bigcontract_allclass_02",
+            "text": "It's Pauling. This is a big one. That means a big payday.",
+            "wiki": "3/3b"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_bigcontract_allclass_03",
+            "text": "Pauling here. This contract is big. I don't give these out everyday.",
+            "wiki": "3/38"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_bigcontract_allclass_04",
+            "text": "It's Pauling. This is a high value contract. That means a big reward on this one.",
+            "wiki": "5/52"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_bigcontract_allclass_05",
+            "text": "Pauling here. This contract's big. And big contracts mean big payouts.",
+            "wiki": "9/93"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_bigcontract_allclass_06",
+            "text": "Ok, I managed to get you one of the big contracts. And that means a big payday. Don't make me look bad.",
+            "wiki": "e/e4"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_bigcontract_allclass_07",
+            "text": "It's Pauling. This is a big one. Don't screw it up.",
+            "wiki": "b/b8"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_bigcontract_allclass_08",
+            "text": "Ok, I pulled some strings and secured you one of the big contracts. This'll be a high-end payout so get it done.",
+            "wiki": "8/81"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_bigcontract_allclass_09",
+            "text": "I made some calls and got you one of the big contracts. I don't give these out everyday, so don't screw it up, all right?",
+            "wiki": "9/98"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_scout_01",
+            "text": "Scout? Pauling here.",
+            "wiki": "d/d4"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_scout_02",
+            "text": "Scout? Miss Pauling here.",
+            "wiki": "6/68"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_scout_03",
+            "text": "Hey Scout. It's Pauling.",
+            "wiki": "8/80"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_scout_04",
+            "text": "Hey Scout. It's Pauling. Got a contract for you.",
+            "wiki": "f/f4"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_scout_05",
+            "text": "Scout, Pauling here. I've got work.",
+            "wiki": "9/9f"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_scout_06",
+            "text": "Hey Scout, Pauling here. I need your help.",
+            "wiki": "6/61"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_scout_07",
+            "text": "Hey Scout, Pauling here. Think you can handle this?",
+            "wiki": "7/7f"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_scout_08",
+            "text": "Scout, Pauling here. This one came right from the Administrator.",
+            "wiki": "c/cb"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_scout_09",
+            "text": "Scout, it's Pauling. Something big just came up.",
+            "wiki": "3/38"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_scout_10",
+            "text": "Scout, it's Pauling. Listen up, this is big.",
+            "wiki": "a/ac"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_scout_11",
+            "text": "Scout? Pauling. Don't talk, just listen. I've got a job.",
+            "wiki": "d/d3"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_scout_12",
+            "text": "Hey Scout. Take a look at this.",
+            "wiki": "b/b2"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_scout_13",
+            "text": "Scout, it's Pauling. This isn't a social call. I've got work.",
+            "wiki": "4/45"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_rare_scout_01",
+            "text": "Scout? Pauling. I need something done fast. I thought of you.",
+            "wiki": "1/12"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_rare_scout_02",
+            "text": "Hey Scout. First, 'No' to whatever you're about to ask. I've got a job for you.",
+            "wiki": "5/50"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_rare_scout_03",
+            "text": "Scout, it's Pauling. I'm assuming you're talking right now. Please stop.",
+            "wiki": "8/8d"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_rare_scout_04",
+            "text": "Scout, Pauling here. Wrap up whatever you were bragging about and look at this.",
+            "wiki": "b/b6"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_rare_scout_05",
+            "text": "Hey Scout, I need you...I...I...I mean for...for this.",
+            "wiki": "b/b3"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_rare_scout_06",
+            "text": "Scout, it's Pauling. Whatever stupid thing you're doing, stop it. I've got work.",
+            "wiki": "0/0c"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_rare_scout_07",
+            "text": "Scout, it's Pauling. I need something done quietly. Scout? Quietly.",
+            "wiki": "b/b3"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_soldier_01",
+            "text": "Soldier? Pauling here.",
+            "wiki": "5/54"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_soldier_02",
+            "text": "Soldier. Miss Pauling here.",
+            "wiki": "a/a7"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_soldier_03",
+            "text": "Hey Soldier. It's Pauling.",
+            "wiki": "a/a5"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_soldier_04",
+            "text": "Soldier, it's Pauling. I've got a job for you.",
+            "wiki": "8/8a"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_soldier_05",
+            "text": "Soldier? Hey, it's Pauling. There's something I wanted you to look into.",
+            "wiki": "8/8d"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_soldier_06",
+            "text": "Soldier? Pauling. I've got a contract for you.",
+            "wiki": "7/72"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_soldier_07",
+            "text": "Got some new marching orders, Soldier.",
+            "wiki": "e/e4"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_soldier_08",
+            "text": "Got a contract, Soldier. You good to go?",
+            "wiki": "a/ad"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_soldier_09",
+            "text": "Move out, Soldier! You've been reassigned.",
+            "wiki": "a/a9"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_soldier_10",
+            "text": "Eyes front, Soldier. There's work to do.",
+            "wiki": "6/63"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_soldier_11",
+            "text": "You've got incoming, Soldier. Get to work.",
+            "wiki": "e/ee"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_soldier_12",
+            "text": "Incoming, Soldier. Get this squared away.",
+            "wiki": "b/b8"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_soldier_13",
+            "text": "Soldier, it's Pauling. You got time to look into something for me?",
+            "wiki": "7/7d"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_soldier_14",
+            "text": "Show these maggots how it's done, Soldier.",
+            "wiki": "f/f2"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_soldier_15",
+            "text": "Soldier? It's Pauling, son. Your country needs you.",
+            "wiki": "7/7e"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_soldier_16",
+            "text": "I've got a job for you, Soldier. Make me proud, son.",
+            "wiki": "d/de"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_soldier_17",
+            "text": "I want you to know, Soldier. You're doing hero's work out there, son.",
+            "wiki": "7/7e"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_soldier_18",
+            "text": "Soldier, it's Pauling. There will be medals given out for this one.",
+            "wiki": "f/f2"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_rare_soldier_01",
+            "text": "If this mission weren't maximum deniability, you'd be a hero for this, son. There would be a parade.",
+            "wiki": "c/c9"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_rare_soldier_02",
+            "text": "Soldier, I need you and Pepper Pot Pete, and Salty Pete, and Pete Pepper Pants...Hell, all your cardboard friends on this one.",
+            "wiki": "5/53"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_rare_soldier_03",
+            "text": "Soldier, you know who doesn't want you to take this job? Hippies, Communists, Tom Jones. Show them, Soldier. Show them all.",
+            "wiki": "6/60"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_rare_soldier_04",
+            "text": "Ten-hut, Soldier! Alpha...Romeo...Zero Dark...army words.",
+            "wiki": "b/bf"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_rare_soldier_05",
+            "text": "I want you to go out there with all you've got and win just one for Miss Pauling, Soldier!",
+            "wiki": "5/57"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_pyro_01",
+            "text": "Pyro? Miss Pauling here.",
+            "wiki": "6/64"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_pyro_02",
+            "text": "Pyro? Pauling here. I saw this and thought of you.",
+            "wiki": "b/ba"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_pyro_03",
+            "text": "Pyro? It's Pauling.",
+            "wiki": "c/c3"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_pyro_04",
+            "text": "Hi Pyro. It's Miss Pauling.",
+            "wiki": "9/9f"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_pyro_05",
+            "text": "Hey Pyro, Pauling here. This contract just came in.",
+            "wiki": "e/e5"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_pyro_06",
+            "text": "Pyro? Pauling here. Think you can handle this?",
+            "wiki": "0/0f"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_pyro_07",
+            "text": "Pyro, Pauling here. I need something done. Quietly.",
+            "wiki": "7/76"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_pyro_08",
+            "text": "Pyro, Pauling here. Something just came up.",
+            "wiki": "5/5c"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_rare_pyro_01",
+            "text": "Hey buddy! It's Pauling!",
+            "wiki": "a/a6"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_rare_pyro_02",
+            "text": "Hi Pyro! I've got something I need you to do, OK buddy?",
+            "wiki": "b/bb"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_rare_pyro_03",
+            "text": "Hey Pyro! You want to do a real big favor for Miss Pauling?",
+            "wiki": "7/72"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_rare_pyro_04",
+            "text": "Hey Pyro! [extended mumbling] I've always wanted to try that. I hope I just said 'I have a job'. Because I have a job.",
+            "wiki": "2/20"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_demo_01",
+            "text": "Demo? Pauling here.",
+            "wiki": "b/b3"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_demo_02",
+            "text": "Demo? Miss Pauling here.",
+            "wiki": "3/3a"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_demo_03",
+            "text": "Pack up some bombs, Demo. I've got a contract.",
+            "wiki": "3/37"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_demo_04",
+            "text": "Demo? It's Pauling.",
+            "wiki": "6/6b"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_demo_05",
+            "text": "Demo? Pauling here. I need your help.",
+            "wiki": "9/98"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_demo_06",
+            "text": "Demo, it's Pauling. I've got a contract for you.",
+            "wiki": "a/ab"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_demo_07",
+            "text": "Demo, Pauling here. This one came right from the Administrator.",
+            "wiki": "f/f2"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_demo_08",
+            "text": "Hey Demo, Pauling here. I've got work.",
+            "wiki": "7/7d"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_demo_09",
+            "text": "Demo. Hey, it's Pauling. I've got a job for you.",
+            "wiki": "c/c0"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_demo_10",
+            "text": "Demo. It's Pauling. I've got a contract for you.",
+            "wiki": "4/4a"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_rare_demo_01",
+            "text": "Demo? It's Miss Pauling. The Miss Pauling...that's...I...I'm not actually famous. That was a joke I've been researching. Could you...rate your amusement on a scale of 1-100?",
+            "wiki": "6/61"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_rare_demo_02",
+            "text": "Hey, Demo. I was on the phone with your mom. She said you didn't have enough jobs, so I got you an extra one. I won't lie, she sounded angry.",
+            "wiki": "1/15"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_rare_demo_03",
+            "text": "Demo, it's Pauling. Place your eyeballs on this...eye...eyeball...whatever you see with. Make it...just make it look at this.",
+            "wiki": "7/76"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_rare_demo_04",
+            "text": "Demo, it's your liver. I'm kidding, it's Miss Pauling. If I was your liver, I'd just be screaming.",
+            "wiki": "b/b5"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_rare_demo_05",
+            "text": "Hey Demo, wake up. I've got a job for you.",
+            "wiki": "7/7f"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_rare_demo_06",
+            "text": "Demo, it's Pauling. If you're not dead, I've got work for you.",
+            "wiki": "7/70"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_rare_demo_07",
+            "text": "Demo. Pauling. Sober up, I've got work.",
+            "wiki": "d/de"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_rare_demo_08",
+            "text": "Demo? Pauling. I've got a job here that requires killing a lot of people and blowing up everything else. I thought of you.",
+            "wiki": "9/99"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_rare_demo_09",
+            "text": "Demo! Demo? You there? It's Pauling. Demo? Demo?",
+            "wiki": "c/c5"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_rare_demo_10",
+            "text": "Hey, Demo. This job is for your eyes only...eye...I mean...you get it.",
+            "wiki": "a/a5"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_rare_demo_11",
+            "text": "Demo? Pauling. I've got a job that requires no depth perception. You in?",
+            "wiki": "4/4c"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_rare_demo_12",
+            "text": "Demoman? It's Pauling. I've got work. I...Demoman? That sounds weird. Does anyone actually call you that? Let's go back to 'Demo'.",
+            "wiki": "9/94"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_heavy_01",
+            "text": "Heavy? Pauling here.",
+            "wiki": "2/2a"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_heavy_02",
+            "text": "Heavy. Miss Pauling here.",
+            "wiki": "5/57"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_heavy_03",
+            "text": "Heavy? It's Pauling.",
+            "wiki": "7/72"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_heavy_04",
+            "text": "Heavy? It's Pauling. I'm cashing in a favor on this one.",
+            "wiki": "f/ff"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_heavy_05",
+            "text": "Heavy? It's Pauling. Got a contract for you.",
+            "wiki": "4/4e"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_heavy_06",
+            "text": "Heavy? It's Pauling. I've got a job for you.",
+            "wiki": "b/b4"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_heavy_07",
+            "text": "Heavy? Pauling here. Something just came up.",
+            "wiki": "d/d0"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_heavy_08",
+            "text": "Heavy. Pauling here. This contract just came in.",
+            "wiki": "8/84"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_heavy_09",
+            "text": "Heavy? Pauling here. I've got work.",
+            "wiki": "a/ad"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_heavy_10",
+            "text": "Heavy? Can you talk? It's Pauling.",
+            "wiki": "9/99"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_heavy_11",
+            "text": "Heavy? Pauling here. This one came right from the Administrator.",
+            "wiki": "2/2d"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_heavy_12",
+            "text": "I need something taken care of, Heavy. I know I can trust you.",
+            "wiki": "2/29"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_heavy_13",
+            "text": "Administrator wants this taken care of, Heavy. No loose ends.",
+            "wiki": "7/75"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_heavy_14",
+            "text": "Administrator's on the warpath, Heavy. I need this done.",
+            "wiki": "b/b0"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_heavy_15",
+            "text": "This one's got your name all over it, big guy.",
+            "wiki": "c/c1"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_heavy_16",
+            "text": "Hey Heavy. I've got work for you and Sasha.",
+            "wiki": "c/c4"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_heavy_17",
+            "text": "Hey Heavy, it's Pauling. You're the only one I trust for this.",
+            "wiki": "c/c7"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_heavy_18",
+            "text": "Heavy, Pauling here. Keep this job between you and me.",
+            "wiki": "e/e7"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_rare_heavy_01",
+            "text": "Heavy? It's Pauling. I know you're working so you're probably killing...like...everything right now, but this just came in.",
+            "wiki": "7/7e"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_rare_heavy_02",
+            "text": "Heavy, I need to you keep quiet on this. Well, you're always quiet. Quieter.",
+            "wiki": "d/d7"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_engie_01",
+            "text": "Engie? Pauling here.",
+            "wiki": "4/4c"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_engie_02",
+            "text": "Engie. Miss Pauling here.",
+            "wiki": "a/a5"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_engie_03",
+            "text": "Hey Engie. It's Pauling.",
+            "wiki": "5/5e"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_engie_04",
+            "text": "Engie. Administrator asked for you on this one. Specifically.",
+            "wiki": "9/95"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_engie_05",
+            "text": "Hey Engie, it's Pauling.",
+            "wiki": "d/d1"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_engie_06",
+            "text": "Engie, Pauling here. This contract is high priority.",
+            "wiki": "2/2f"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_engie_07",
+            "text": "Contract just came in. I need this done by the numbers, Engie.",
+            "wiki": "4/49"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_engie_08",
+            "text": "This one's gonna need some strategy, Engie.",
+            "wiki": "f/fb"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_engie_09",
+            "text": "Pack up your tools, Engie. I've got a job for you.",
+            "wiki": "9/9d"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_engie_10",
+            "text": "Engie? Pauling. Think you can handle this?",
+            "wiki": "2/2b"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_engie_11",
+            "text": "Engie? Hey, it's Pauling. Interested in some extra work?",
+            "wiki": "d/dd"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_engie_12",
+            "text": "Engie? Pauling here. I need your help.",
+            "wiki": "8/8d"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_engie_13",
+            "text": "Engie? Pauling, here. I need something done. Quietly.",
+            "wiki": "5/52"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_rare_engie_01",
+            "text": "Hey Big Brains! Pauling here.",
+            "wiki": "8/8f"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_rare_engie_02",
+            "text": "Engie. It's Pauling. My moped's making a funny noise like a *chuk chuk chuk chuk* *whirr* *chuk chuk* sort of...thing. You know what? You're busy. Uh anyway, I've got work.",
+            "wiki": "4/45"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_rare_engie_03",
+            "text": "Hey Engie, you got anything in your warehouse that can liquify about...hold on...let's call it 80 bodies? My chipper shredder's backed up. Anyway think about it. I've got a job.",
+            "wiki": "2/21"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_rare_engie_04",
+            "text": "Engie, this job requires someone who can read...you're my only hope.",
+            "wiki": "c/c7"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_rare_engie_05",
+            "text": "Engie, it's Pauling. Is Scout there? Cough if he's there. I've got a job for you. Not him.",
+            "wiki": "5/59"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_rare_engie_06",
+            "text": "Howdy pardner! Rustle up the...cows...and move...move 'em out..of the barn...partner.",
+            "wiki": "7/7f"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_rare_engie_07",
+            "text": "Howdy cowpoke! Let's ride...oh what other cowboy words do I know? Oh, saddle! Engie? You still there? Saddle up! Saddle 'em up!",
+            "wiki": "7/75"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_rare_engie_08",
+            "text": "Engie? Pauling. I need someone who's smart for this.",
+            "wiki": "3/32"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_rare_engie_09",
+            "text": "Howdy pardner! I'm...so sorry for that.",
+            "wiki": "f/f4"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_medic_01",
+            "text": "Medic? Pauling here.",
+            "wiki": "5/5e"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_medic_02",
+            "text": "Medic. Miss Pauling here.",
+            "wiki": "7/76"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_medic_03",
+            "text": "Hey Doc. It's Pauling.",
+            "wiki": "3/30"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_medic_04",
+            "text": "Medic? It's Pauling.",
+            "wiki": "a/a2"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_medic_05",
+            "text": "Medic, it's Pauling. I've got something I wanted you to look at.",
+            "wiki": "5/56"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_medic_06",
+            "text": "Medic, it's Pauling. You've got time to look into something for me?",
+            "wiki": "c/c7"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_medic_07",
+            "text": "Doc? Pauling here. Take a look at this.",
+            "wiki": "4/41"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_medic_08",
+            "text": "Hey Medic. Pauling here. I saw this and thought of you.",
+            "wiki": "e/e2"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_medic_09",
+            "text": "Medic, it's Pauling. I've got a contract for you.",
+            "wiki": "3/3c"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_medic_10",
+            "text": "Pauling, here. Let's keep this job confidential.",
+            "wiki": "e/ee"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_medic_11",
+            "text": "Nobody's crazy enough to do this but you, doctor.",
+            "wiki": "f/f4"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_medic_12",
+            "text": "Hey Doc. It's Pauling. I've got a contract for you. Anything goes.",
+            "wiki": "4/48"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_medic_13",
+            "text": "Medic, it's Pauling. This one...might get messy.",
+            "wiki": "9/9f"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_medic_14",
+            "text": "Hey Doc. Pauling. Got a live one for you.",
+            "wiki": "8/8d"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_rare_medic_01",
+            "text": "MEDIC! That was...just an impression. In bad taste, now that I think about it. I guess the people screaming that are usually, you know, dying.",
+            "wiki": "3/31"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_rare_medic_02",
+            "text": "Medic. Pauling here. Take the gloves off for this one. Actually keep the gloves on. That might get messy.",
+            "wiki": "a/a2"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_sniper_01",
+            "text": "Sniper? Pauling here.",
+            "wiki": "a/a1"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_sniper_02",
+            "text": "Sniper. Miss Pauling here.",
+            "wiki": "8/8e"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_sniper_03",
+            "text": "Hey Sniper. It's Pauling.",
+            "wiki": "7/79"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_sniper_04",
+            "text": "Sniper? It's Pauling.",
+            "wiki": "5/5d"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_sniper_05",
+            "text": "Heads up, Sniper. I've got work.",
+            "wiki": "2/20"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_sniper_06",
+            "text": "Sniper? Pauling here. Take a look at this.",
+            "wiki": "c/ca"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_sniper_07",
+            "text": "Sniper, it's Pauling. You've got time to look into something for me?",
+            "wiki": "7/7b"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_sniper_08",
+            "text": "Hey Sniper. It's Pauling. Got a contract for you.",
+            "wiki": "f/fa"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_sniper_09",
+            "text": "Sniper? Hey, it's Pauling. Interested in some extra work?",
+            "wiki": "a/ab"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_sniper_10",
+            "text": "Sniper? Pauling here. This contract is high priority.",
+            "wiki": "7/7b"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_sniper_11",
+            "text": "Sniper? Pauling here. Think you can handle this?",
+            "wiki": "b/bd"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_sniper_12",
+            "text": "Pauling here. I need a professional on this one, Sniper.",
+            "wiki": "b/bf"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_rare_sniper_01",
+            "text": "Hey, Sniper. So you're a Kiwi now, huh? Right, allotted small talk time over, I've got work.",
+            "wiki": "2/2c"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_rare_sniper_02",
+            "text": "Sniper? Pauling. What's that sound? Are you...are you peeing in a jar right now?",
+            "wiki": "a/a1"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_spy_01",
+            "text": "Spy? Pauling here.",
+            "wiki": "2/27"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_spy_02",
+            "text": "Spy, Miss Pauling here.",
+            "wiki": "1/13"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_spy_03",
+            "text": "Hey Spy. It's Pauling.",
+            "wiki": "4/41"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_spy_04",
+            "text": "Spy? It's Pauling.",
+            "wiki": "5/5c"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_spy_05",
+            "text": "Hey Spy. It's Pauling. Interested in some extra work?",
+            "wiki": "f/fd"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_spy_06",
+            "text": "Spy? Pauling here. This contract is high priority.",
+            "wiki": "3/36"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_spy_07",
+            "text": "Spy, Pauling here. This contract just came in.",
+            "wiki": "d/d5"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_spy_08",
+            "text": "Spy, it's Pauling. I need something done. Quietly.",
+            "wiki": "1/14"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_spy_09",
+            "text": "Spy, Pauling here. Take a look at this.",
+            "wiki": "3/37"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_spy_10",
+            "text": "Spy? It's Pauling. I never gave you this, got me?",
+            "wiki": "e/e6"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_spy_11",
+            "text": "Do it quickly, do it quietly. Just get it done, Spy.",
+            "wiki": "b/b0"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_spy_12",
+            "text": "Spy, it's Pauling. Utmost discretion on this one.",
+            "wiki": "8/8c"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_spy_13",
+            "text": "Spy, it's Pauling. Got a black bag job.",
+            "wiki": "5/5c"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_spy_14",
+            "text": "Spy, I've got a custom contract: your eyes only.",
+            "wiki": "e/e4"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_spy_15",
+            "text": "This one's nasty. I thought of you, Spy.",
+            "wiki": "0/0d"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_rare_spy_01",
+            "text": "Hey Spy. Pauling. I took care of that DNA test for you. You owe me one and I'm cashing it in. Take care of this.",
+            "wiki": "b/b3"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_rare_spy_02",
+            "text": "Spy, just between you and me, you should really wash that ski mask. Like once. There's visible stink lines coming off that thing. Anyway, I need a favor.",
+            "wiki": "7/70"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_rare_spy_03",
+            "text": "(attempting a French accent) Bonjour Spy! It ees I, Francis zhe Talking France. I have zhe job for you, yes? Oui? Baguettes? (normal voice) No, it's Miss Pauling, sorry. I do have a job for you. It's not French though, sorry.",
+            "wiki": "9/97"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_give_contract_rare_spy_04",
+            "text": "Hey Spy! Oh, oh right. You're probably sneaking up on somebody. To stab them. Oh, I bet you're about to do it too. They can't...hear me, can they? Do you have video on this thing?",
+            "wiki": "c/cd"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_50_allclass_01",
+            "text": "You're halfway done.",
+            "wiki": "2/25"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_50_allclass_02",
+            "text": "Halfway to Contract complete.",
+            "wiki": "b/be"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_50_allclass_03",
+            "text": "Good work, half the Contract's fulfilled.",
+            "wiki": "7/7b"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_50_allclass_04",
+            "text": "Halfway there.",
+            "wiki": "2/23"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_50_allclass_05",
+            "text": "Nice work. You're halfway there.",
+            "wiki": "a/ad"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_allclass_01",
+            "text": "Nice work.",
+            "wiki": "2/2c"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_allclass_02",
+            "text": "Nice work!",
+            "wiki": "1/13"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_allclass_03",
+            "text": "Good work.",
+            "wiki": "7/73"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_allclass_04",
+            "text": "Good work!",
+            "wiki": "8/85"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_allclass_05",
+            "text": "Good job.",
+            "wiki": "a/aa"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_allclass_06",
+            "text": "Well done.",
+            "wiki": "9/9f"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_allclass_07",
+            "text": "You did it!",
+            "wiki": "6/68"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_allclass_08",
+            "text": "Nicely done.",
+            "wiki": "c/c2"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_allclass_09",
+            "text": "Here you go.",
+            "wiki": "3/33"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_allclass_10",
+            "text": "I knew I could count on you.",
+            "wiki": "5/5a"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_allclass_11",
+            "text": "I'm glad I came to you on this one.",
+            "wiki": "8/8e"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_allclass_12",
+            "text": "Job well done.",
+            "wiki": "8/81"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_allclass_13",
+            "text": "Annnnnd here you go.",
+            "wiki": "7/75"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_allclass_14",
+            "text": "Thanks! I'll be in touch.",
+            "wiki": "6/6b"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_allclass_15",
+            "text": "Thanks again.",
+            "wiki": "1/10"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_allclass_16",
+            "text": "I owe you one.",
+            "wiki": "e/ed"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_allclass_17",
+            "text": "Thanks. The Administrator really wanted this done.",
+            "wiki": "c/c6"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_allclass_18",
+            "text": "Thanks. The Administrator was really on me about this.",
+            "wiki": "b/b0"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_allclass_19",
+            "text": "Payment for services rendered.",
+            "wiki": "5/52"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_allclass_20",
+            "text": "Pleasure doing business. Thanks again.",
+            "wiki": "3/39"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_allclass_21",
+            "text": "Nice work. Don't worry, I'll run cleanup on this.",
+            "wiki": "f/fe"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_allclass_22",
+            "text": "I'll run cleanup. Don't worry, you're a ghost on this.",
+            "wiki": "4/45"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_allclass_23",
+            "text": "Nice work. And don't worry, you were never there.",
+            "wiki": "f/f9"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_allclass_24",
+            "text": "I'll make sure the evidence is disposed of.",
+            "wiki": "3/3e"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_allclass_25",
+            "text": "Don't worry, I can make the bodies disappear.",
+            "wiki": "c/cd"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_allclass_26",
+            "text": "If you need a place to lay low, I can secure you a safehouse.",
+            "wiki": "d/d3"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_allclass_27",
+            "text": "And to the victor goes...this thing!",
+            "wiki": "2/27"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_allclass_28",
+            "text": "Wow, that's...ca-can I have that?",
+            "wiki": "0/01"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_allclass_29",
+            "text": "If you don't want that...I...will take it.",
+            "wiki": "2/2d"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_allclass_30",
+            "text": "Nice work, here's the pay.",
+            "wiki": "4/4b"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_allclass_31",
+            "text": "Nice work! Here's your payment.",
+            "wiki": "7/7e"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_allclass_32",
+            "text": "Nice work, here's your fee.",
+            "wiki": "2/21"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_allclass_33",
+            "text": "Here, this one came straight from Saxton.",
+            "wiki": "1/1d"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_allclass_34",
+            "text": "Here's the contract fee. You earned it.",
+            "wiki": "1/1b"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_allclass_35",
+            "text": "Nice work. Here, you might like this.",
+            "wiki": "b/b1"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_allclass_36",
+            "text": "Nice work. This...uh, fell...off the back of a Mann Co. truck.",
+            "wiki": "d/d3"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_allclass_37",
+            "text": "Contract complete.",
+            "wiki": "d/d1"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_allclass_38",
+            "text": "Contract fulfilled.",
+            "wiki": "5/5e"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_rareitem_allclass_01",
+            "text": "Just so you know, I don't give a lot of these out.",
+            "wiki": "d/dc"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_rareitem_allclass_02",
+            "text": "Good work. Your reward on this one is gonna be...pretty one of a kind.",
+            "wiki": "5/5f"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_rareitem_allclass_03",
+            "text": "Here's your payday. You earned it.",
+            "wiki": "b/b1"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_rareitem_allclass_04",
+            "text": "Don't tell the other guys I gave you this.",
+            "wiki": "d/d6"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_rareitem_allclass_05",
+            "text": "Contract complete. Here's your payday for the big job.",
+            "wiki": "1/19"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_rareitem_allclass_06",
+            "text": "Contract complete. Here's the payout...I know right?",
+            "wiki": "d/d0"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_scout_01",
+            "text": "Nice work, Scout.",
+            "wiki": "6/63"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_scout_02",
+            "text": "Good job, Scout.",
+            "wiki": "0/0e"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_scout_03",
+            "text": "Good work, Scout.",
+            "wiki": "9/9a"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_scout_04",
+            "text": "Nicely done, Scout. I'll be in touch.",
+            "wiki": "6/6d"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_scout_05",
+            "text": "Job well done, Scout.",
+            "wiki": "d/d1"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_soldier_01",
+            "text": "Nice work, Soldier.",
+            "wiki": "1/11"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_soldier_02",
+            "text": "Good work, men.",
+            "wiki": "a/a9"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_soldier_03",
+            "text": "At ease, Soldier.",
+            "wiki": "e/e7"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_soldier_04",
+            "text": "Nice work, son.",
+            "wiki": "1/18"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_soldier_05",
+            "text": "Good job, Soldier.",
+            "wiki": "5/5f"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_soldier_06",
+            "text": "Nice work, Soldier. As you were.",
+            "wiki": "d/d5"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_soldier_07",
+            "text": "Nice work, Soldier. I'm proud of you.",
+            "wiki": "6/6c"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_soldier_08",
+            "text": "All gave some, some gave all, Soldier. Nice work.",
+            "wiki": "e/eb"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_pyro_01",
+            "text": "Nice work, Pyro!",
+            "wiki": "8/80"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_pyro_02",
+            "text": "You did it Pyro! Thanks buddy.",
+            "wiki": "2/22"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_pyro_03",
+            "text": "Thanks again Pyro.",
+            "wiki": "9/99"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_pyro_04",
+            "text": "Ohh, thanks Pyro. Administrator really wanted this one taken care of.",
+            "wiki": "5/58"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_pyro_05",
+            "text": "Thanks Pyro. I owe you one.",
+            "wiki": "5/5e"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_pyro_06",
+            "text": "Contract fulfilled. Nice work Pyro.",
+            "wiki": "5/55"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_pyro_07",
+            "text": "Nicely done Pyro. I'll be in touch.",
+            "wiki": "8/8d"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_pyro_08",
+            "text": "Contract complete. Thanks Pyro.",
+            "wiki": "5/58"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_demo_01",
+            "text": "Nice work, Demo.",
+            "wiki": "b/bb"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_demo_02",
+            "text": "Contract complete. Thanks Demo.",
+            "wiki": "e/ec"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_demo_03",
+            "text": "Contract fulfilled. Nice work Demo.",
+            "wiki": "5/5e"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_demo_04",
+            "text": "Thanks again, Demo.",
+            "wiki": "6/65"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_demo_05",
+            "text": "Nicely done, Demo. I'll be in touch.",
+            "wiki": "d/db"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_demo_06",
+            "text": "Well, that's one less thing to worry about. Thanks Demo.",
+            "wiki": "8/88"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_demo_07",
+            "text": "Thanks Demo. I owe you one.",
+            "wiki": "c/cf"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_heavy_01",
+            "text": "Thanks Heavy. Administrator was really on me about this one.",
+            "wiki": "3/34"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_heavy_02",
+            "text": "Good job, Heavy.",
+            "wiki": "4/4c"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_heavy_03",
+            "text": "Contract fulfilled. Nice work, Heavy.",
+            "wiki": "3/33"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_heavy_04",
+            "text": "Nicely done, Heavy. I'll be in touch.",
+            "wiki": "0/0a"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_heavy_05",
+            "text": "Contract complete. Thanks Heavy.",
+            "wiki": "a/aa"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_heavy_06",
+            "text": "Knew I could count on you, Heavy. Thanks.",
+            "wiki": "d/d0"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_heavy_07",
+            "text": "I owe you one, Heavy. I'll be in touch.",
+            "wiki": "8/88"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_heavy_08",
+            "text": "Thanks again, Heavy. I appreciate it.",
+            "wiki": "f/f5"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_heavy_09",
+            "text": "Nice work, Heavy!",
+            "wiki": "c/c8"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_engie_01",
+            "text": "Nice work, Engie.",
+            "wiki": "c/c9"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_engie_02",
+            "text": "Nice work, Engie.",
+            "wiki": "a/a1"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_engie_03",
+            "text": "Good job, Engie. Thanks!",
+            "wiki": "f/ff"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_engie_04",
+            "text": "Contract fulfilled. Nice work, Engie.",
+            "wiki": "4/41"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_engie_05",
+            "text": "Nicely done, Engie. I'll be in touch.",
+            "wiki": "0/0b"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_engie_06",
+            "text": "Contract complete. Thanks Engie.",
+            "wiki": "3/30"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_engie_07",
+            "text": "That'll do Engie! Thanks!",
+            "wiki": "0/06"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_engie_08",
+            "text": "Fulfilled to the letter, Engie. Thanks again.",
+            "wiki": "3/38"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_medic_01",
+            "text": "Nice work, Doc.",
+            "wiki": "0/06"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_medic_02",
+            "text": "Thanks again, Doc.",
+            "wiki": "d/d4"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_medic_03",
+            "text": "Contract fulfilled. Nice work, Medic.",
+            "wiki": "9/95"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_medic_04",
+            "text": "Nicely done, Medic. I'll be in touch.",
+            "wiki": "d/de"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_medic_05",
+            "text": "Contract complete. Thanks Medic.",
+            "wiki": "7/7f"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_medic_06",
+            "text": "I'll give you this, Medic. You get results.",
+            "wiki": "0/03"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_sniper_01",
+            "text": "Nice work, Sniper.",
+            "wiki": "9/96"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_sniper_02",
+            "text": "Contract fulfilled. Nice work, Sniper.",
+            "wiki": "4/4d"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_sniper_03",
+            "text": "Nicely done, Sniper. I'll be in touch.",
+            "wiki": "9/91"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_sniper_04",
+            "text": "Contract complete. Thanks Sniper.",
+            "wiki": "1/1f"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_sniper_05",
+            "text": "Thanks Sniper. I owe you one.",
+            "wiki": "4/48"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_sniper_06",
+            "text": "Thanks again, Sniper.",
+            "wiki": "b/b1"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_sniper_07",
+            "text": "Good job, Sniper!",
+            "wiki": "4/4d"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_spy_01",
+            "text": "Nice work, Spy.",
+            "wiki": "9/9f"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_spy_02",
+            "text": "Thanks again Spy.",
+            "wiki": "b/be"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_spy_03",
+            "text": "Contract fulfilled. Nice work, Spy.",
+            "wiki": "c/c5"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_spy_04",
+            "text": "Always a pleasure, Spy.",
+            "wiki": "6/61"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_spy_05",
+            "text": "Nicely done, Spy. I'll be in touch.",
+            "wiki": "e/e7"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_spy_06",
+            "text": "Contract complete. Thanks, Spy.",
+            "wiki": "c/cc"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_complete_spy_07",
+            "text": "Job well done, Spy!",
+            "wiki": "a/af"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_fail_allclass_01",
+            "text": "The Administrator will have to be notified. Sorry.",
+            "wiki": "1/1c"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_fail_allclass_02",
+            "text": "Crap! The Administrator is gonna kill me.",
+            "wiki": "4/49"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_fail_allclass_03",
+            "text": "I should've asked one of the other guys.",
+            "wiki": "2/28"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_fail_allclass_04",
+            "text": "I had a bad feeling about this one anyway.",
+            "wiki": "4/4f"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_fail_allclass_05",
+            "text": "S'okay. We'll get them next time.",
+            "wiki": "3/31"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_fail_allclass_06",
+            "text": "Let's uh...call this a learning experience?",
+            "wiki": "e/e1"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_fail_allclass_07",
+            "text": "Hey, sometimes you have to walk away. I get it.",
+            "wiki": "6/67"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_fail_allclass_08",
+            "text": "Contract incomplete.",
+            "wiki": "c/c6"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_fail_allclass_09",
+            "text": "Looks like I'll have to shunt this around somewhere else...",
+            "wiki": "9/95"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_fail_allclass_10",
+            "text": "Thanks anyway.",
+            "wiki": "7/76"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_fail_allclass_11",
+            "text": "You did it! Wait, you didn't do it.",
+            "wiki": "a/a5"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_fail_allclass_12",
+            "text": "All right, fair enough. I'll be in touch.",
+            "wiki": "e/e0"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_fail_allclass_13",
+            "text": "Well, you can't win them all.",
+            "wiki": "5/52"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_fail_allclass_14",
+            "text": "Hmm. Well maybe next time.",
+            "wiki": "6/63"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_contract_fail_allclass_15",
+            "text": "You did it! Wait, you didn't do it.",
+            "wiki": "2/26"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_toughbreak_contractgive01",
+            "text": "Hey! Pauling. Look, I'm...technically on vacation here, but something big just came up.",
+            "wiki": "c/c1"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_toughbreak_contractgive02",
+            "text": "Pauling, here. I'm on vacation, but a contract just came in. Thought of you...to, you know...kill people...for prizes.",
+            "wiki": "8/8a"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_toughbreak_contractgive03",
+            "text": "Hey, it's me! The Administrator's been ringing me off the hook about this. Can you get this done? Done, done? Like...bang, bang done?",
+            "wiki": "5/50"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_toughbreak_contractgive04",
+            "text": "Aw crap! I'm supposed to be on vacation here. Can you get this done for me, man? Thank you thank you thank you.",
+            "wiki": "9/93"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_toughbreak_contractgive05",
+            "text": "Hey! Pauling. I'm not in the office but the Administrator needs a lot of people killed and I've got some nice payouts here.",
+            "wiki": "d/dc"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_toughbreak_contractgiverare_ambush",
+            "text": "[She's over there!] Hey, it's Pauling [Go! Go! Go!] So, the Administrator invited me to her place for dinner. [There she is!; gunshot] Uh! [I got her!] But it turns out it was just an ambush to kill me. Hold on. [more gunfire; screams; Watch out, she's armed!] She does this every few years; it's like her version of an employee review. Anyway, got time for a contract?",
+            "wiki": "a/a7"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_toughbreak_contractgiverare_beergarden",
+            "text": "(tipsy) Say, it's, it's Pauling. I'm at a, a beer garden with Demo, so there's lots of beer and...uh...beer. I had something I was gonna...tell you- Oh! You're a good friend! I'm always sending you on contracts to get you killed, and, and that's not friends, right? 'Cause, 'cause we're friends, man. And also, there's something I'm not supposed to tell you. Umm...two teams and the Administrator and umm...and there's this secret that...Oh, oh gotta go! Demo wants me to drink beer. So I'm gonna drink beer.",
+            "wiki": "7/7f"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_toughbreak_contractgiverare_bookclub",
+            "text": "(whispering) Hey, it's Pauling here. I'm at the Teufort Ladies Book Club, and I'm the only one who hasn't actually read Belinda...so...I-It's just about relationships, right? Guy meets girl, love stuff, happy ending? I-It's a good thing, right? I'm, I'm gonna tell everyone how I'm really rooting for these two as a couple.",
+            "wiki": "4/43"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_toughbreak_contractgiverare_boxing",
+            "text": "[boxing bell rings] Hey! Just a, taking a boxing class here. [grunts of pain] Listen, a contract...[grunt]...a contract came in and...[sharp grunt]...Uh, arms in, arms in...and I thought of you [grunt] That's mine! That's my molar! Did, did anyone see where that went?",
+            "wiki": "3/39"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_toughbreak_contractgiverare_bus",
+            "text": "[roar of bus engine] Hey, Pauling. I'm on a Teufort sightseeing tour. We just went to the library and took pictures of both the books. And then they took us to a tramp fight. And I guess now we're going to go look at a sewage fire. It hasn't gone out in like fifty years or something. So, they're really proud of it.",
+            "wiki": "2/20"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_toughbreak_contractgiverare_campfire",
+            "text": "[campfire crackling] Pauling here. I'm at a campfire with Soldier, Salty Pete, Pepper Pot Pete, and Perry Pepper Pants, and Peter Poopy-Toots. [sotto voce] And they're all cardboard. I think he's crazy. [normal voice] Oh, what's that Soldier? Tree bark rations...sounds American! [sotto voce] Do this contract, and then get this man some help.",
+            "wiki": "6/69"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_toughbreak_contractgiverare_cavetour",
+            "text": "[water bubbling and bats rustling] Hey, Pauling here. I'm on a Teufort cave tour and...oh my God. These are the same caves I bury bodies in. [Ahhh! There's so many bodies!] And they found them. [Somebody call the police!] Okay, anyway, here's a contract.",
+            "wiki": "e/e8"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_toughbreak_contractgiverare_conference",
+            "text": "Pauling here. I'm at an Assistant's Conference with Bidwell, they just debuted this year's clipboards. And, wow! The clip, the board, they're both great. Some years, it's one or the other. It's a great time to be alive. Speaking of which, I need you to kill somebody.",
+            "wiki": "b/b7"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_toughbreak_contractgiverare_gargoyles",
+            "text": "[Scout: Oh, oh, and...(dice clatter)...not too shabby!] Pauling here. I'm trying to teach Scout Gargoyles and Gravel. [Yeah!] Ugh, no Scout, there's no such thing as a Muscle Wizard. [Yeah whatever.] No you can't beat an Orc by doing push-ups at it. Look, please, please put your shirt back on. Scout, stop flexing. Scout. Scout! Stop flexing.",
+            "wiki": "d/d6"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_toughbreak_contractgiverare_gunshow",
+            "text": "Hey, did you know a gun show is a real thing? I'm at one with Heavy right now. [Heavy: Is perfect, this is gun.] Oh wow, what's the gauge on that? Yeah, Scout's been saying he's going to take me to one for years, but all he does is shove his stupid arms in my face. Anyway, I've got something for you.",
+            "wiki": "c/ce"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_toughbreak_contractgiverare_hotdog",
+            "text": "(strained) Pauling here. I'm at a hotdog eating contest, and Engie made me a stomach teleporter, but...oogh...it's not working. I think it's only teleporting undigested hotdogs into my colon. [stomach growling] Ok, gotta go.",
+            "wiki": "5/58"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_toughbreak_contractgiverare_keyparty",
+            "text": "Hey, Pauling here. I got invited to something called a key party. I guess we all...trade houses or something? Anyway, they wanted my keys and I said no. If they keep pressing, I brought my gun. I've got a contract coming your way.",
+            "wiki": "2/2f"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_toughbreak_contractgiverare_ladiesnight",
+            "text": "Hey, it's Pauling. Sorry for the noise, it's Ladies Night at the Cap Point, and I...misunderstood what that meant. [Hey, what's a nice girl like you doing in a place like this?] I'm trying to get someone killed for money. Can you give me a second? Sorry about that. Anyway, take a look.",
+            "wiki": "e/e8"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_toughbreak_contractgiverare_ontherocks",
+            "text": "Hey, sorry for the noise! It's Dollar Drinks Night at the Cap Point! Hold on, on the rocks please. [On the rocks!; rocks tinkle into a glass] N-No, not act...not actual...is that gravel? You know what, never mind. Just, just pour liquor on it. I'll drink it anyway. [drink pouring] You still there? I've got something for you.",
+            "wiki": "5/5a"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_toughbreak_contractgiverare_piano",
+            "text": "[piano being played frantically, intermittent electrical zaps] Pauling here. Spy's teaching me piano. Apparently, it takes a person...ugh, seven years to learn, but Spy says that with electroshock he can teach me in an hour. [grunts of pain and electrical shocks] [Spy: Again.; piano plays a slow melody] Huh. Okay, that's done. Here's a contract.",
+            "wiki": "3/31"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_toughbreak_contractgiverare_poopyjoe",
+            "text": "[Taps being played] (on the verge of tears) Hey, Pauling here. I'm, I-I-I'm sorry, I'm, I'm at the Poopy Joe Memorial and, and it's just too much. That monkey was an American hero!",
+            "wiki": "2/20"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_toughbreak_contractgiverare_pottery",
+            "text": "Hey, it's Pauling here. I'm at a pottery class. I'm trying to make a porcelain gun, but it's a lot harder than it looks. Ugh, dammit. [dripping clay; Oh, what a lovely flower vase!] Yeah, I know it looks like a flower vase, it's a cannon all right! Ugh, I hate pottery. Anyway, I've got a contract.",
+            "wiki": "d/d5"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_toughbreak_contractgiverare_raccoons",
+            "text": "[raccoons trilling] Pauling here. Soldier invited me over to his house...cave...for a soup tasting. I have been bitten by like sixty raccoons. Do raccoons have rabies? I mean, they have to, right? Didn't raccoons invent rabies? Are-are they like old rats? Like don't rats go into their cocoons in the winter and emerge as fully grown raccoons in the spring? I lost a lot of blood here. Maybe it took the rabies with it. Ugh, I gotta go. One of the raccoons is eyeballing me. You gotta problem, pal?",
+            "wiki": "a/ac"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_toughbreak_contractgiverare_shakespearicles",
+            "text": "Hey, it's Pauling here. I'm watching Shakespearicles in the Park, and we just got to the part in Hamlet where Macbeth tells Hercules he's from the future, and Macbeth gets so angry, he uses his heat vision and... [Steel cage!] Oh ho ho, they're lowering the steel cage! Oh, Hercules is losing the intercontinental title for sure! Look, I gotta go. Here's a mission.[He zapped Macbeth!; I love you Hercules!]",
+            "wiki": "3/34"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_toughbreak_contractgiverare_tiger",
+            "text": "He-hey, sorry about the reception, I'm on a ladies safari in the middle of a forest. Listen, a contract came in... [I'm being mauled to death by a tiger! Ahhh!] Lady, would you please keep it down! I'm on the phone!",
+            "wiki": "1/1a"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_toughbreak_contractgiverare_tugboat",
+            "text": "Pauling here. So the New Mexico Department of Labor found out I haven't gotten any time off in...uh...ever. So, I'm on a state-mandated vacation. But don't worry! I'm still working, but don't tell anyone. [foghorn sounds] Oh good, the tugboat's here. Anyway, here's a contract.",
+            "wiki": "0/04"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_toughbreak_contractgiverare_turducken",
+            "text": "[heartbeat monitor beeps steadily] Medic's showing me how to sew a heart inside another heart and pump them full of radiation. It's sorta like making a turducken, but with people! [Medic: Oh, ho ho!; monitor beeps faster] And I think a clump of my hair just fell out. [monitor beeps rapidly; Medic: Oh ho, ho, ho, ho, ho, ho!]",
+            "wiki": "2/21"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_toughbreak_contractgiverare_visionquest",
+            "text": "Hey, it's Pauling here. I'm on a vision quest with Sniper. I just ate some ground-up mushrooms and grubs. Sniper says it's supposed to make me ghost noise picnic dripping, but I don't boot soup what he's mustaching about. I don't even dynamite a little pyramid gravy. Anyway, here's a condor.",
+            "wiki": "0/07"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_toughbreak_contractgiverare_winetasting",
+            "text": "[wine bottle being uncorked; Spy: Ahh, a 1962 Château Matador.; wine pouring into glasses] (sotto voce) Hey, hey, I'm at a wine tasting with Spy...it all tastes like raisins and gasoline. Uh, quick! give me some fancy-pants words to say to him. [Spy: À votre santé!] (normal voice) Spy, your wine is...great! It's really, uh, pre-precocious! Uh...volup-voluptuous? And uh, uh, big, big-boned! [Spy: Ugh...] Yeah, it's got a very big...boned...wine taste.",
+            "wiki": "3/35"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_toughbreak_contractwin01",
+            "text": "Hey, you did it! Back to my vacation.",
+            "wiki": "4/4f"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_toughbreak_contractwin02",
+            "text": "Hey, good work! Okay, back to vacation.",
+            "wiki": "5/57"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_toughbreak_contractwin03",
+            "text": "Hey, good work! You did it! Now back to my state-mandated vacation.",
+            "wiki": "9/93"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_toughbreak_contractwin04",
+            "text": "Great job! I'm really enjoying..being out of the office...doing all this work.",
+            "wiki": "c/ca"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_toughbreak_contractwin05",
+            "text": "Hey, you finished the contract! Okay, back to my stupid vacation.",
+            "wiki": "a/a2"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_toughbreak_contractwin06",
+            "text": "Hey, you did it! Can I be done with my vacation now? Please?",
+            "wiki": "3/35"
+        },
+        {
+            "type": "mp3",
+            "file": "Plng_toughbreak_contractwin07",
+            "text": "Hey, you did it! Can I be done with my vacation now? I wanna come home.",
+            "wiki": "f/f7"
+        }
+        ],
+        "commands": [
+            {
+                "type": "",
+                "file": "",
+                "text": "",
+                "wiki": ""
+            }
+        ],
+        "taunts": [
+            {
+                "type": "",
+                "file": "",
+                "text": "",
+                "wiki": ""
+            }
+        ]
+    }
+}
