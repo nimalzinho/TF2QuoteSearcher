@@ -1,0 +1,142 @@
+{
+    "character": {
+        "name": "pumpkinbombs",
+        "citations": {
+            "responses": "\"Halloween Boss voice responses.\" Team Fortress Wiki, . 23 Nov 2025, 21:59 UTC. 7 Oct 2026, 03:11 |https://wiki.teamfortress.com/w/index.php?title=Halloween_Boss_voice_responses&oldid=4084043",
+            "commands": "",
+            "taunts": ""
+        },
+        "responses": [
+            {
+                "type": "mp3",
+                "file": "Hall2015_pumpbomb_02",
+                "text": "Yeah, keep movin', pal.",
+                "wiki": "2/28"
+            },
+            {
+                "type": "mp3",
+                "file": "Hall2015_pumpbomb_03",
+                "text": "Don't touch me, pal. I will blow up right in your face.",
+                "wiki": "c/cf"
+            },
+            {
+                "type": "mp3",
+                "file": "Hall2015_pumpbomb_04",
+                "text": "Ya' wanna try me?",
+                "wiki": "e/e1"
+            },
+            {
+                "type": "mp3",
+                "file": "Hall2015_pumpbomb_05",
+                "text": "I'll blow you up, buddy. See if I don't!",
+                "wiki": "f/fa"
+            },
+            {
+                "type": "mp3",
+                "file": "Hall2015_pumpbomb_06",
+                "text": "What are you lookin' at?",
+                "wiki": "0/0f"
+            },
+            {
+                "type": "mp3",
+                "file": "Hall2015_pumpbomb_08",
+                "text": "You're some kinda funny guy?",
+                "wiki": "1/16"
+            },
+            {
+                "type": "mp3",
+                "file": "Hall2015_pumpbomb_09",
+                "text": "Look at this guy.",
+                "wiki": "a/a4"
+            },
+            {
+                "type": "mp3",
+                "file": "Hall2015_pumpbomb_10",
+                "text": "Yeah, you better run.",
+                "wiki": "f/f0"
+            },
+            {
+                "type": "mp3",
+                "file": "Hall2015_pumpbomb_11",
+                "text": "I will explode, all over you pal.",
+                "wiki": "8/81"
+            },
+            {
+                "type": "mp3",
+                "file": "Hall2015_pumpbomb_12",
+                "text": "Don't make me come out of this pumpkin!",
+                "wiki": "5/5a"
+            },
+            {
+                "type": "mp3",
+                "file": "Hall2015_pumpbomb_14",
+                "text": "Keep movin', buddy. I, I'm trouble.",
+                "wiki": "a/a5"
+            },
+            {
+                "type": "mp3",
+                "file": "Hall2015_pumpbomb_15",
+                "text": "Yeah, you better run!",
+                "wiki": "c/c8"
+            },
+            {
+                "type": "mp3",
+                "file": "Hall2015_pumpbombboom_01",
+                "text": "Boom.",
+                "wiki": "a/ad"
+            },
+            {
+                "type": "mp3",
+                "file": "Hall2015_pumpbombboom_02",
+                "text": "Bang.",
+                "wiki": "b/b6"
+            },
+            {
+                "type": "mp3",
+                "file": "Hall2015_pumpbombboom_03",
+                "text": "Badda boom.",
+                "wiki": "b/b0"
+            },
+            {
+                "type": "mp3",
+                "file": "Hall2015_pumpbombboom_04",
+                "text": "Ka-boom.",
+                "wiki": "7/74"
+            },
+            {
+                "type": "mp3",
+                "file": "Hall2015_pumpbombboom_05",
+                "text": "Pow.",
+                "wiki": "1/15"
+            },
+            {
+                "type": "mp3",
+                "file": "Hall2015_pumpbombboom_06",
+                "text": "Bam.",
+                "wiki": "b/b3"
+            },
+            {
+                "type": "mp3",
+                "file": "Hall2015_pumpbombboom_07",
+                "text": "Baang.",
+                "wiki": "f/f3"
+            }
+        ],
+        "commands": [
+            {
+                "type": "",
+                "file": "",
+                "text": "",
+                "wiki": ""
+            }
+        ],
+        "taunts": [
+            {
+                "type": "",
+                "file": "",
+                "text": "",
+                "wiki": ""
+            }
+        ]
+    }
+}
