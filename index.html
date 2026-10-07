@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta name="description" content="">
         <meta name="author" content="">
-        <title>TF2 - Quote Searcher v1.09</title>
+        <title>TF2 - Quote Searcher v1.10</title>
         <!-- Favicon -->
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico">
 
@@ -36,11 +36,11 @@
         <!-- Responsive navbar-->
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <div class="container px-lg-5">
-                <a class="navbar-brand d-lg-none" href="#!">TF2 - Quote Searcher v1.09</a>&nbsp;
+                <a class="navbar-brand d-lg-none" href="#!">TF2 - Quote Searcher v1.10</a>&nbsp;
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav ms-auto mb-2 mb-lg-0">                    
-                        <li class="nav-item"><a class="nav-link active left"><small>v1.09</small></a></li>
+                        <li class="nav-item"><a class="nav-link active left"><small>v1.10</small></a></li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="false"><small>Theme</small></a>
                             <ul class="dropdown-menu">
@@ -68,6 +68,8 @@
                                     <div class="mb-3">
                                         <label for="selCharacter" class="form-label">Character</label>
                                         <select class="form-select" aria-label="Default select example" id="selCharacter">
+                                            
+                                            <option disabled value="">-- Mercenaries --</option>
                                             <option selected="" value="scout.json">Scout</option>
                                             <option value="soldier.json">Soldier</option>
                                             <option value="pyro.json">Pyro</option>
@@ -77,6 +79,21 @@
                                             <option value="medic.json">Medic</option>
                                             <option value="sniper.json">Sniper</option>
                                             <option value="spy.json">Spy</option>
+
+                                            <option disabled value="">-- Staff --</option>
+                                            <option value="administrator.json">Administrator</option>
+                                            <option value="pauling.json">Miss Pauling</option>
+
+                                            <option disabled value="">-- Bosses --</option>
+                                            <option value="bombinomicon.json">Bombinomicon</option>
+                                            <option value="merasmus.json">Merasmus</option>
+                                            <option value="saxton.json">Saxton Hale</option>
+
+                                            <option disabled value="">-- Mann Family --</option>
+                                            <option value="blutarch.json">Blutarch Mann</option>
+                                            <option value="redmond.json">Redmond Mann</option>
+                                            <option value="gray.json">Gray Mann</option>
+                                            <option value="zepheniah.json">Zepheniah Mann</option>                                     
                                         </select>
                                         <div id="helpCharacter" class="text-secondary">Select the character</div>
                                     </div>
@@ -162,7 +179,7 @@
         <!-- Footer-->
         <footer class="mt-auto py-1 mt-5 bg-dark">
             <div class="container">
-                <p class="m-0 text-center text-white">TF2 - Quote Searcher v1.09</p>
+                <p class="m-0 text-center text-white">TF2 - Quote Searcher v1.10</p>
             </div>
         </footer>
 
@@ -177,7 +194,7 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
 
         <!-- Core theme JS-->
-        <script src="js/scripts-109.js"></script>    
+        <script src="js/scripts.js?v=10"></script>    
 
     <!-- Help Modal -->
     <div class="modal fade" id="helpModal" tabindex="-1" aria-labelledby="helpModalLabel" aria-hidden="true">
